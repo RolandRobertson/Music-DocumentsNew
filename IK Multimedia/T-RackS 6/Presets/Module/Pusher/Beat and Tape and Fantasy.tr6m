@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="dbd556a5de5d44948a982ac00d34fbbf"
+        Factory="true">
+  <Info Type="Harmonic" Character="Modern" ArtistName="IK Multimedia"
+        InstrumentType="Drums"/>
+  <Slot Model="3aa443b0-4228-472a-b598-b77bc1e9e52e" Bypass="0">
+    <Module Input="0.807881593704224" FreqX01="118.303344726562500" FreqX12="720.100524902343750"
+            FreqX23="4291.111328125000000" Attack="0.100000001490116" Release="1000.000000000000000"
+            Bleed="1.000000000000000" DryWet="0.514704942703247" Output="0.174258321523666"
+            Band0IsActive="On" Band0Solo="Off" DriveBand0="0.468124628067017"
+            ColorBand0="0.000000000000000" TypeBand0="B" LevelBand0="0.304703712463379"
+            EnvDriveBand0="0.031134724617004" EnvColorBand0="0.059269905090332"
+            EnvLevelBand0="0.061029791831970" Band1IsActive="On" Band1Solo="Off"
+            DriveBand1="0.060888197273016" ColorBand1="0.051292099058628"
+            TypeBand1="E" LevelBand1="-2.477415561676025" EnvDriveBand1="0.059365510940552"
+            EnvColorBand1="0.081904053688049" EnvLevelBand1="0.059685587882996"
+            Band2IsActive="On" Band2Solo="Off" DriveBand2="0.374047249555588"
+            ColorBand2="0.322016865015030" TypeBand2="B" LevelBand2="0.000000000000000"
+            EnvDriveBand2="0.131111383438110" EnvColorBand2="0.119521975517273"
+            EnvLevelBand2="0.155963897705078" Band3IsActive="On" Band3Solo="Off"
+            DriveBand3="0.477184563875198" ColorBand3="0.257904529571533"
+            TypeBand3="E" LevelBand3="0.000000000000000" EnvDriveBand3="0.272909641265869"
+            EnvColorBand3="0.211691379547119" EnvLevelBand3="0.598866224288940"
+            InternalLink1="Off" InternalLink2="Off" InternalLink3="Off" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+</Preset>

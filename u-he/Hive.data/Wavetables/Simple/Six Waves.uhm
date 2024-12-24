@@ -1,0 +1,19 @@
+Info "Saw, sine, fin, square, 2 * pulse"
+
+NumFrames = 6
+
+Wave start=0 end=0 "-phase" // saw
+
+Wave start=1 end=1 "sin(2*pi*phase)" // sine
+
+Envelope curve=exponential L0=0 T1=0.25 L1=1 T2=0.5 L2=-1 T3=0.25 L4=0
+Wave start=2 end=2 "env(phase)" // fin
+
+Wave start=3 end=3 "phase<0.5" // square
+
+Wave start=4 end=4 "phase<0.25" // narrow pulse
+Wave start=5 end=5 "phase<0.05" // very narrow pulse
+
+Spectrum lowest=0 highest=0 "0" // DC-removal trick
+Normalize start=0 end=3
+Normalize start=4 end=5 db=-5 // last two needed taming

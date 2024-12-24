@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="8" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="fdb4186e056740eb926536d418353760" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="8" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="ef1b97ea-2450-40df-a52f-3a38f7b549a3" ChainNodeConnectionID="-119458976"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="0.000000000000000" Vintage="Off" DeEsser="0.010562499985099"
+            DeEsserAB="Off" EQ="0.500000000000000" EQPost="Off" Compression="0.200000002980232"
+            Fast="Off" Transient="0.200000002980232" Output="-2.000000000000000"
+            StereoEnhance="0.486902475357056" MonoMaker="100.000000000000000"
+            Band1Freq="50.000000000000000" Band1Gain="-4.000000000000000"
+            Band2Freq="200.000000000000000" Band2Gain="2.000000000000000"
+            Band2Q="0.400000005960464" Band3Freq="500.000000000000000" Band3Gain="-4.000000000000000"
+            Band3Q="1.500000000000000" Band4Freq="2000.000000000000000" Band4Gain="2.000000000000000"
+            Band4Q="0.699999988079071" Band5Freq="5000.000000000000000" Band5Gain="2.000000000000000"
+            Band5Q="0.699999988079071" Band6Freq="16000.000000000000000"
+            Band6Gain="-4.000000000000000" CurrentChannel="=" ChannelMode="L/R"
+            AdditionalCustomData_EqPreset="Clap" AdditionalCustomData_EqSelectedBand="3"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="10" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="f3bc2ff8-7305-4d34-8586-e7554aa2640c" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="9.000000000000000" Output="-9.000000000000000" Speed="15"
+            TapeType="499" HFRecAdjust="0.500000000000000" HFPlayAdjust="0.500000000000000"
+            RecLevel="0.500000000000000" PlayLevel="0.500000000000000" BiasLevel="0.500000000000000"
+            InputRepro="Repro" TrueStereo="On" TransportModeling="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Instruments" InstrumentType="Percussion" Character="Modern"
+        Genre="House" ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

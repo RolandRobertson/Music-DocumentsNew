@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="12cb6bb2c2cd45f88c4750b4b15c57fe"
+        Factory="true">
+  <Info Type="Effects" Keywords="Effects" InstrumentType="Texture" Character="Modern"
+        ArtistName="IK Multimedia"/>
+  <Slot Model="09cb9685-b5e0-42cb-b68b-3076beb1621f" Bypass="0">
+    <Module Step="0.685601353645325" Env="0.000000000000000" LFO="0.314398616552353"
+            Input="0.000000000000000" DryWet="1.000000000000000" Output="0.096679687500000"
+            Frequency="1024.149902343750000" Resonance="0.375561267137527"
+            Drive="0.250526815652847" Width="0.000000000000000" EnvSensitivity="0.000000000000000"
+            EnvAttack="0.000000000000000" EnvDecay="0.000000000000000" CutoffAmount="0.751804232597351"
+            ResonanceAmount="-0.503698229789734" DriveAmount="0.435257434844971"
+            Wave="0.000000000000000" BPM="120.000000000000000" FadeIn="0.000000000000000"
+            Step01="-0.432363808155060" Step02="0.545070767402649" Step03="0.634160637855530"
+            Step04="-0.603830099105835" Step05="-0.390782713890076" Step06="0.896971225738525"
+            Step07="0.000000000000000" Step08="-0.691505372524261" Step09="0.625637173652649"
+            Step10="0.000000000000000" Step11="-0.345231473445892" Step12="0.485839366912842"
+            Step13="0.000000000000000" Step14="-0.605894565582275" Step15="0.000000000000000"
+            Step16="0.665514707565308" Type="7.000000000000000" Sync="On"
+            NumOfStep="16.000000000000000" LFORate="1.668041825294495" StepMode="FWR"
+            LFOSync="Off" LFORateSync="1/32D" LFORetrig="Off" StepDivision="1/16"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

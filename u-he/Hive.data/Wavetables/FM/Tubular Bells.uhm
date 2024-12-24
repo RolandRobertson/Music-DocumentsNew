@@ -1,0 +1,13 @@
+// by Denis Druzhinin
+
+Info "Attempt to recreate the attack portion of the TUB BELLS preset in the DX7 ROM Bank 2"
+
+NumFrames=256
+Envelope curve=exponential L0=1 T1=1 L1=0
+Wave target=aux1 "sin(2*pi*phase * 2 * 3.5)"
+Wave target=aux1 "sin(2*pi*phase * 2 + x * env(table) * 3.1)"
+Wave "aux1"
+
+//Wave target=aux2 "sin(2*pi*phase * 2 * 3.5)"
+//Wave target=aux2 "sin(2*pi*phase * 2 + x * env(table)^0.7 * 2.8)"
+//Wave blend=add "sin(2*pi*phase)/2 + aux1 + aux2"

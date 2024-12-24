@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="14" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="40697cf5401b42e4a9480c7125119fef" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="11" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="7a444c0f-eaae-43f1-a654-04a29885333b" ChainNodeConnectionID="118669552"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalEqInL="On" InternalEqInR="On" InternalPhaseL="Off" InternalPhaseR="Off"
+            InternalMicL="On" InternalMicR="On" InternalGainL="+4" InternalGainR="+4"
+            InternalOutputL="-4" InternalOutputR="-4" InternalHPFreqL="82Hz"
+            InternalHPFreqR="82Hz" InternalLPFreqL="18kHz" InternalLPFreqR="18kHz"
+            InternalHiFreqL="10kHz" InternalHiFreqR="10kHz" InternalHiBellL="On"
+            InternalHiBellR="On" InternalHiL="2.000000000000000" InternalHiR="2.000000000000000"
+            InternalHiPresFreqL="4.7kHz" InternalHiPresFreqR="4.7kHz" InternalHiPresQL="Off"
+            InternalHiPresQR="Off" InternalHiPresenceL="2.000000000000000"
+            InternalHiPresenceR="2.000000000000000" InternalLowPresFreqL="470Hz"
+            InternalLowPresFreqR="470Hz" InternalLowPresQL="On" InternalLowPresQR="On"
+            InternalLowPresenceL="-2.000000000000000" InternalLowPresenceR="-2.000000000000000"
+            InternalLowFreqL="100Hz" InternalLowFreqR="100Hz" InternalLowBellL="Off"
+            InternalLowBellR="Off" InternalLowL="0.984374046325684" InternalLowR="0.984374046325684"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="13" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="53821d50-c1d9-4265-9ee9-f8814883a7dd" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module LinkCh="0.000000000000000" OpticalWasPressed="0.000000000000000"
+            GBModeL="0.000000000000000" GBModeR="0.000000000000000" InputL="5.000000000000000"
+            InputR="5.000000000000000" AttackL="6.990312576293945" AttackR="6.990312576293945"
+            ReleaseL="2.956874847412109" ReleaseR="2.956874847412109" OutputL="5.000000000000000"
+            OutputR="5.000000000000000" DryWetL="50.357810974121094" DryWetR="50.357810974121094"
+            RatioL="10/1" RatioR="10/1" SideHPFreqL="10.000000000000000"
+            SideHPFreqR="10.000000000000000" SideBandFreqL="6000.000000000000000"
+            SideBandFreqR="6000.000000000000000" SideBellL="0.000000000000000"
+            SideBellR="0.000000000000000" HPL="0.000000000000000" HPR="0.000000000000000"
+            DistL="NoDist" DistR="NoDist" ToneL="0.000000000000000" ToneR="0.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="14" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="55662f25-e494-46ec-8b1b-d63f515867ca" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="13.959842681884766" Output="-15.000000000000000" Speed="30"
+            TapeType="GP9" HFRecAdjust="0.500000000000000" HFPlayAdjust="0.500000000000000"
+            LFPlayAdjust="0.500000000000000" RecLevel="0.500000000000000"
+            PlayLevel="0.500000000000000" BiasLevel="0.500000000000000" InputRepro="Repro"
+            TrueStereo="On" TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Info Type="Instruments" InstrumentType="Guitar" Character="Open" Genre="Pop"
+        ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

@@ -1,0 +1,17 @@
+// by Denis Druzhinin
+
+Info "Use Auto Mode *one-shot*. For sustain, set Tables higher than 2"
+
+NumFrames = 100
+
+Envelope L0=1 T1=1 L1=0
+
+Wave "1-2*rand"
+Wave "lowpass(x, 0.9*env(table), 0.0*env(table)) * env(table)^3"
+Wave "bandpass(x, 0.55, 0.5)" blend=add
+Wave "tanh(x*2)*env(table)^5"
+
+Wave "sin(2*pi*phase*3 + x)*env(table)^8"
+
+Spectrum lowest=0 highest=0 "0"
+Normalize base=all

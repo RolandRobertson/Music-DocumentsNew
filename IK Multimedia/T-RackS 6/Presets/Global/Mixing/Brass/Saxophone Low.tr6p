@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="38" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="bfe74c7b26204c84b1a67101c62fff3d" Factory="true"
+        Version="2">
+  <Slot0 ChainID="7" ChainNodeID="-35" ChainNodeNodeType="1" ChainNodeConnectionID="38"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0"/>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="16" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="e9ef0d86-ee42-45de-8a1c-5a4459f2a2b9" ChainNodeConnectionID="1742177632"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalChannelMode="Link" InternalCtrlBiasL="3.500000000000000"
+            InternalCtrlBiasR="3.500000000000000" InternalTimeConstantL="3"
+            InternalTimeConstantR="3" InternalInputAttenL="-10.000000000000000"
+            InternalInputAttenR="-10.000000000000000" InternalThresholdL="5.981719017028809"
+            InternalThresholdR="5.981719017028809" InternalOutputLevel="2.000000000000000"
+            InternalMeterMode="GR" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 ChainID="7" ChainNodeID="-34" ChainNodeNodeType="2" ChainNodeConnectionID="38"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0"/>
+  <Slot3 Bypass="0" ChainID="7" ChainNodeID="38" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="136578b8-d7a3-4497-a03d-8c3eccfcca0c" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module LM_Gain="7.0" RS_Gain="7.0" LM_Slope="-6.0" RS_Slope="-6.0" LM_Output="-8.0"
+            RS_Output="-8.0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot3>
+  <Slot4 Bypass="0" ChainID="38" ChainNodeID="35" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="8befc6ca-2099-4f42-9783-98cdf786b609" ChainNodeConnectionID="1231886136"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="0.699999988079071" Output="0.699999988079071" TapeType="456"
+            HFRecAdjust="0.500000000000000" HighGain="2.046562194824219"
+            HighFreq="2500.000000000000000" MidGain="6.008907318115234" MidFreq="800.000000000000000"
+            LowGain="1.973436355590820" LowFreq="400.000000000000000" RecLevel="0.500000000000000"
+            InputRepro="Repro" BiasLevel="1.000000000000000" TrueStereo="On"
+            TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot4>
+  <Info Type="Instruments" InstrumentType="Brass" Character="Compressed"
+        Genre="Jazz" ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr5m" GUID="c917a8be4e59423ca30d46d5c33cd6cd">
+  <Slot Bypass="0" Model="9d7512c2-19f3-4824-9d36-c2005944e5c2">
+    <Module InternalInput="0.000000000000000" InternalOutput="0.000000000000000"
+            InternalPreDelay="13.000000000000000" InternalDecay="100.000000000000000"
+            InternalHPFreq="109.000000000000000" InternalLPFreq="20000.000000000000000"
+            InternalLow="0.000000000000000" InternalHigh="3.911026000976562"
+            InternalDry="0.000000000000000" InternalLink="On" InternalWetL="-300.000000000000000"
+            InternalWetR="-300.000000000000000" InternalWetMono1="-300.000000000000000"
+            InternalWetMono2="-7.389025688171387" InternalPanDry="45.149368286132812"
+            InternalPanL="-100.000000000000000" InternalPanR="100.000000000000000"
+            InternalPanMono1="0.000000000000000" InternalPanMono2="-45.470977783203125"
+            InternalSoloDry="0.000000000000000" InternalSoloL="0.000000000000000"
+            InternalSoloR="0.000000000000000" InternalSoloMono1="0.000000000000000"
+            InternalSoloMono2="0.000000000000000" InternalTypeAndOption="14.000000000000000"
+            InternalOptionChamber="1.000000000000000" InternalOptionPlate="5.000000000000000"
+            InternalOptionIsoBoothA="0.000000000000000" InternalOptionLiveRoomA="3.000000000000000"
+            InternalOptionIsoBoothB="0.000000000000000" InternalOptionLiveRoomB="2.000000000000000"
+            InternalTrueStereo="0.000000000000000" InternalModernVintage="1.000000000000000"
+            InternalCone="0.000000000000000" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

@@ -1,0 +1,7 @@
+// by Howard Scarr
+
+Info "Octave saw, then various chords"
+
+NumFrames=6
+Wave "-2 + 2*frac(phase*(frame+1)) + 2*frac(phase*(frame+2))"
+Spectrum lowest=0 highest=0 "0"

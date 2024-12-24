@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="10" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="1" GUID="53ab5ee2caab4668b75d16f5ea3d150d">
+  <Slot0 Bypass="0" Model="" ChainID="7" ChainNodeID="10" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="3185ca52-e6ce-42f1-a04a-a4c91f3a2f69" ChainNodeConnectionID="32767"
+         ChainNodeAlwaysLast="0" ModulePresetPath="">
+    <Module Air="0.598280906677246" Focus="0.442499995231628" Push="7.6471095085144"
+            Body="0.133125156164169" Width="0" Volume="2.20535159111023"
+            Transient="-1.87624931335449" Analog="0.684796929359436" BassPunch="0.445984423160553"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <SlotMasterMatch Bypass="1" Model="">
+    <Module Reference1StartSample="0" Reference1EndSample="1" Reference2StartSample="0"
+            Reference2EndSample="1" Reference3StartSample="0" Reference3EndSample="1"
+            EqSmoothing="0.200000002980232" EqAmount="0.5" LoudnessAmount="0.75"
+            ReferenceLoudness="0" TargetLoudness="0" AwgAmount="0" LowFreq="20"
+            HiFreq="20000" LowFreqEnable="0" HiFreqEnable="0" LinearPhaseEnable="1"
+            GuiState="0" SelectedTrack="0" SelectedPeakFilter="-1" LearnReferenceButtonState="0"
+            LearnTargetButtonState="0" MatchButtonState="0" PlayButton1State="0"
+            PlayButton2State="0" PlayButton3State="0" PeakFilterF1="20" PeakFilterQ1="0.5"
+            PeakFilterG1="0" PeakFilterE1="0" PeakFilterF2="20" PeakFilterQ2="0.5"
+            PeakFilterG2="0" PeakFilterE2="0" PeakFilterF3="20" PeakFilterQ3="0.5"
+            PeakFilterG3="0" PeakFilterE3="0" PeakFilterF4="20" PeakFilterQ4="0.5"
+            PeakFilterG4="0" PeakFilterE4="0" PeakFilterF5="20" PeakFilterQ5="0.5"
+            PeakFilterG5="0" PeakFilterE5="0" PeakFilterF6="20" PeakFilterQ6="0.5"
+            PeakFilterG6="0" PeakFilterE6="0" PeakFilterF7="20" PeakFilterQ7="0.5"
+            PeakFilterG7="0" PeakFilterE7="0" PeakFilterF8="20" PeakFilterQ8="0.5"
+            PeakFilterG8="0" PeakFilterE8="0" CurrentChannel="=" ChannelMode="L/R"
+            CustomData_track0="9.AbPAk0FbzkG." CustomData_track1="9.AbPAk0FbzkG."
+            CustomData_track2="9.AbPAk0FbzkG." CustomData_ReferenceMeanCurve="9.AbPAk0FbzkG."
+            CustomData_ReferenceMaxCurve="9.AbPAk0FbzkG." CustomData_TargetMeanCurve="9.AbPAk0FbzkG."
+            CustomData_TargetMaxCurve="9.AbPAk0FbzkG." CustomData_empty="9.AbPAk0FbzkG."/>
+  </SlotMasterMatch>
+</Preset>

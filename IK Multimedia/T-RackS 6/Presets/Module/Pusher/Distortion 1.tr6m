@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="0e2a128f356743bb97f9b7a1f2d0f446"
+        Factory="true">
+  <Info Type="Harmonic" Character="Distorted" ArtistName="IK Multimedia"/>
+  <Slot Model="3aa443b0-4228-472a-b598-b77bc1e9e52e" Bypass="0">
+    <Module Input="0.687793254852295" FreqX01="150.000000000000000" FreqX12="1000.000000000000000"
+            FreqX23="6000.000000000000000" Attack="7.000000000000000" Release="195.752212524414062"
+            Bleed="1.000000000000000" DryWet="1.000000000000000" Output="0.370770126581192"
+            Band0IsActive="On" Band0Solo="Off" DriveBand0="0.843295395374298"
+            ColorBand0="0.281151652336121" TypeBand0="C" LevelBand0="3.120130538940430"
+            EnvDriveBand0="0.000000000000000" EnvColorBand0="0.351237773895264"
+            EnvLevelBand0="0.000000000000000" Band1IsActive="On" Band1Solo="Off"
+            DriveBand1="0.843295395374298" ColorBand1="0.281151652336121"
+            TypeBand1="C" LevelBand1="3.120130538940430" EnvDriveBand1="0.000000000000000"
+            EnvColorBand1="0.351237773895264" EnvLevelBand1="0.000000000000000"
+            Band2IsActive="On" Band2Solo="Off" DriveBand2="0.843295395374298"
+            ColorBand2="0.281151652336121" TypeBand2="C" LevelBand2="3.120130538940430"
+            EnvDriveBand2="0.000000000000000" EnvColorBand2="0.351237773895264"
+            EnvLevelBand2="0.000000000000000" Band3IsActive="On" Band3Solo="Off"
+            DriveBand3="0.843295395374298" ColorBand3="0.281151652336121"
+            TypeBand3="C" LevelBand3="3.120130538940430" EnvDriveBand3="0.000000000000000"
+            EnvColorBand3="0.351237773895264" EnvLevelBand3="0.000000000000000"
+            InternalLink1="On" InternalLink2="On" InternalLink3="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+</Preset>

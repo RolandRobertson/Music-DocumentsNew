@@ -1,0 +1,5 @@
+Info "Harmonic series, but sawtooth"
+
+NumFrames=16
+Wave "-1 + 2*frac(phase*(frame+1))"
+Spectrum lowest=0 highest=0 "0"

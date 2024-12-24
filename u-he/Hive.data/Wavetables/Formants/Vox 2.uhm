@@ -1,0 +1,15 @@
+// by Howard Scarr
+
+Info "Vocal sweep"
+
+NumFrames=16
+
+Spectrum target=aux1 "index==(frame+6)"
+Spectrum target=aux2 "index==(abs(frame-7))"
+
+
+Wave "floor(aux1 + aux2)"
+Spectrum lowest=0 highest=0 "0" // DC-removal
+
+Phase "rands*2*pi - pi" // randomize phases
+Normalize base=each

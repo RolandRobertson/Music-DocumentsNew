@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1" Format="xvbv60" GUID="de3fe15b-178d-4c18-aa2d-5ce1fb382769">
+  <Model Type="Stomp" GUID="6db46983-d9ff-4ebf-a1eb-d59789bdd501">
+    <Parameters Algo="3.0" expression_enable="0.0" bpm_mode="1.0" BPMSync="0.0"
+                bpm="120.0" CabSim="0.0" cab_model_A="0.0" cab_model_B="0.0"
+                _60_VIBE_SPEED="57.0" _60_VIBE_SPEED_ts="6.0" _60_VIBE_DEPTH="19.0"
+                _60_VIBE_BASS="-0.09999991208314896" _60_VIBE_MID="2.500000238418579"
+                _60_VIBE_TREBLE="1.50000011920929" _60_VIBE_MODE="0.0" _60_VIBE_MID_Q="0.4000000059604645"
+                _60_VIBE_MID_FREQ="1000.0" _60_VIBE_MIX="100.0" _60_VIBE_X-MODE="0.0"
+                _60_VIBE_SPEED_A="20.0" _60_VIBE_SPEED_ts_A="8.0" _60_VIBE_DEPTH_A="60.0"
+                _60_VIBE_BASS_A="0.0" _60_VIBE_MID_A="0.0" _60_VIBE_TREBLE_A="0.0"
+                _60_VIBE_MODE_A="0.0" _60_VIBE_MID_Q_A="0.4000000059604645" _60_VIBE_MID_FREQ_A="1000.0"
+                _60_VIBE_MIX_A="100.0" _60_VIBE_X-MODE_A="0.0" _60_VIBE_SPEED_B="20.0"
+                _60_VIBE_SPEED_ts_B="8.0" _60_VIBE_DEPTH_B="60.0" _60_VIBE_BASS_B="0.0"
+                _60_VIBE_MID_B="0.0" _60_VIBE_TREBLE_B="0.0" _60_VIBE_MODE_B="0.0"
+                _60_VIBE_MID_Q_B="0.4000000059604645" _60_VIBE_MID_FREQ_B="1000.0"
+                _60_VIBE_MIX_B="100.0" _60_VIBE_X-MODE_B="0.0"/>
+  </Model>
+</Preset>

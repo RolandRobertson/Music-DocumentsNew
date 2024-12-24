@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="10" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="3912735d3d9d4d70a40f4f8f523a1e16" Factory="true"
+        Version="2">
+  <Slot0 ChainID="7" ChainNodeID="-41" ChainNodeNodeType="1" ChainNodeConnectionID="48"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0"/>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="10" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="fe8b53f3-8573-41e5-b28f-0fb4fcfe381d" ChainNodeConnectionID="92203376"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalGainL="30.000000000000000" InternalGainR="30.000000000000000"
+            InternalPeakReductionL="40.000000000000000" InternalPeakReductionR="40.000000000000000"
+            InternalMeterMode="GR" InternalLimitCompress="Compress" InternalLink="On"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 ChainID="7" ChainNodeID="-40" ChainNodeNodeType="2" ChainNodeConnectionID="48"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0"/>
+  <Slot3 Bypass="0" ChainID="7" ChainNodeID="51" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="9e15f64f-be76-43d7-bdaf-95ee7f72cfae" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalCurrentBand="1.000000000000000" InternalLink="On" InternalSoloM="Off"
+            InternalSoloS="Off" InternalFilterSlope="24dB/oct" InternalXFreq0="150.000000000000000"
+            InternalXFreq1="342.767791748046875" InternalXFreq2="3054.921142578125000"
+            InternalMVol="2.000000000000000" InternalBandNumber="3.0" InternalBand1Bypass="Off"
+            InternalBand1IsOn="On" InternalBand1ThresholdLR="-40.000000000000000"
+            InternalBand1ThresholdM="-40.000000000000000" InternalBand1ThresholdS="-14.000000000000000"
+            InternalBand1RatioLR="2.980199813842773" InternalBand1RatioM="2.980199813842773"
+            InternalBand1RatioS="2.594540119171143" InternalBand1AttackLR="1.950229048728943"
+            InternalBand1AttackM="1.950229048728943" InternalBand1AttackS="10.000000000000000"
+            InternalBand1ReleaseLR="260.000000000000000" InternalBand1ReleaseM="260.000000000000000"
+            InternalBand1ReleaseS="250.000000000000000" InternalBand1GainLR="0.000000000000000"
+            InternalBand1GainM="0.000000000000000" InternalBand1GainSide="0.000000000000000"
+            InternalBand2Bypass="Off" InternalBand2IsOn="On" InternalBand2ThresholdLR="-40.000000000000000"
+            InternalBand2ThresholdM="-40.000000000000000" InternalBand2ThresholdS="-14.000000000000000"
+            InternalBand2RatioLR="2.980199813842773" InternalBand2RatioM="2.980199813842773"
+            InternalBand2RatioS="2.000000000000000" InternalBand2AttackLR="1.950229048728943"
+            InternalBand2AttackM="1.950229048728943" InternalBand2AttackS="10.000000000000000"
+            InternalBand2ReleaseLR="260.000000000000000" InternalBand2ReleaseM="260.000000000000000"
+            InternalBand2ReleaseS="250.000000000000000" InternalBand2GainLR="0.000000000000000"
+            InternalBand2GainM="0.000000000000000" InternalBand2GainSide="0.000000000000000"
+            InternalBand3Bypass="Off" InternalBand3IsOn="On" InternalBand3ThresholdLR="-40.000000000000000"
+            InternalBand3ThresholdM="-40.000000000000000" InternalBand3ThresholdS="-23.000000000000000"
+            InternalBand3RatioLR="2.980199813842773" InternalBand3RatioM="2.980199813842773"
+            InternalBand3RatioS="3.000000000000000" InternalBand3AttackLR="1.950229048728943"
+            InternalBand3AttackM="1.950229048728943" InternalBand3AttackS="10.000000000000000"
+            InternalBand3ReleaseLR="260.000000000000000" InternalBand3ReleaseM="260.000000000000000"
+            InternalBand3ReleaseS="250.000000000000000" InternalBand3GainLR="0.000000000000000"
+            InternalBand3GainM="0.000000000000000" InternalBand3GainSide="0.000000000000000"
+            InternalBand4Bypass="Off" InternalBand4IsOn="On" InternalBand4ThresholdLR="-40.000000000000000"
+            InternalBand4ThresholdM="-40.000000000000000" InternalBand4ThresholdS="-24.000000000000000"
+            InternalBand4RatioLR="2.980199813842773" InternalBand4RatioM="2.980199813842773"
+            InternalBand4RatioS="4.000000000000000" InternalBand4AttackLR="1.950229048728943"
+            InternalBand4AttackM="1.950229048728943" InternalBand4AttackS="10.000000000000000"
+            InternalBand4ReleaseLR="260.000000000000000" InternalBand4ReleaseM="260.000000000000000"
+            InternalBand4ReleaseS="250.000000000000000" InternalBand4GainLR="0.000000000000000"
+            InternalBand4GainM="0.000000000000000" InternalBand4GainSide="0.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot3>
+  <Slot4 Bypass="0" ChainID="7" ChainNodeID="56" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="7f4e1fbf-b3d4-4161-95e4-8402ac75ec90" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalInputL="14.000000000000000" InternalInputR="14.000000000000000"
+            InternalOutputCeilingL="-15.000000000000000" InternalOutputCeilingR="-15.000000000000000"
+            InternalAttackTimeL="0.050000000745058" InternalAttackTimeR="0.050000000745058"
+            InternalReleaseTimeL="160.000000000000000" InternalReleaseTimeR="160.000000000000000"
+            InternalStyle="Advanced 3" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot4>
+  <Slot5 Bypass="0" ChainID="48" ChainNodeID="45" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="cf4ccc69-906b-42f3-9cd6-7eccbf833587" ChainNodeConnectionID="1180604444"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="9.000000000000000" Output="-12.000000000000000" Speed="30"
+            TapeType="456" HFRecAdjust="0.500000000000000" HFPlayAdjust="0.500000000000000"
+            LFPlayAdjust="0.428906261920929" RecLevel="0.500000000000000"
+            PlayLevel="0.500000000000000" BiasLevel="0.500000000000000" InputRepro="Repro"
+            TrueStereo="On" TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot5>
+  <Info Type="Instruments" InstrumentType="Bass" Character="Bright" Genre="Jazz"
+        ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

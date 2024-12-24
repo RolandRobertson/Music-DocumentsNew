@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1" Format="xvbdbl" GUID="722aadbe-8f93-415e-a41d-63c9e2388b43">
+  <Model Type="Stomp" GUID="6db46983-d9ff-4ebf-a1eb-d59789bdd501">
+    <Parameters Algo="10.0" expression_enable="0.0" bpm_mode="1.0" BPMSync="0.0"
+                bpm="115.3846130371094" CabSim="0.0" cab_model_A="0.0" cab_model_B="0.0"
+                DOUBLER_SPEED="40.0" DOUBLER_DEPTH="11.0" DOUBLER_BASS="1.700000166893005"
+                DOUBLER_MID="1.200000047683716" DOUBLER_TREBLE="1.700000166893005"
+                DOUBLER_MID_Q="0.4000000059604645" DOUBLER_MID_FREQ="1000.0"
+                DOUBLER_MIX="100.0" DOUBLER_X-MODE="0.0" DOUBLER_SPEED_A="50.0"
+                DOUBLER_DEPTH_A="80.0" DOUBLER_BASS_A="0.0" DOUBLER_MID_A="0.0"
+                DOUBLER_TREBLE_A="0.0" DOUBLER_MID_Q_A="0.4000000059604645" DOUBLER_MID_FREQ_A="1000.0"
+                DOUBLER_MIX_A="100.0" DOUBLER_X-MODE_A="0.0" DOUBLER_SPEED_B="50.0"
+                DOUBLER_DEPTH_B="80.0" DOUBLER_BASS_B="0.0" DOUBLER_MID_B="0.0"
+                DOUBLER_TREBLE_B="0.0" DOUBLER_MID_Q_B="0.4000000059604645" DOUBLER_MID_FREQ_B="1000.0"
+                DOUBLER_MIX_B="100.0" DOUBLER_X-MODE_B="0.0"/>
+  </Model>
+</Preset>

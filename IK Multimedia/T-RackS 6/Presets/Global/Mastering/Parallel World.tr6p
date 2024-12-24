@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="23" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="e5e9bb85e7c845719bb84bd08025d008" Factory="true"
+        Version="2">
+  <Slot0 ChainID="7" ChainNodeID="-7" ChainNodeNodeType="1" ChainNodeConnectionID="20"
+         ChainNodeAlwaysLast="0" ModulePresetPath=""/>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="12" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="15f9be4b-16bb-4c5f-9c4e-46644abf94d1" ChainNodeConnectionID="32767"
+         ChainNodeAlwaysLast="0" ModulePresetPath="">
+    <Module InternalPhaseL="Off" InternalPhaseR="Off" InternalCompInL="Off"
+            InternalCompInR="Off" InternalEqInL="On" InternalEqInR="On" InternalFilterInL="On"
+            InternalFilterInR="On" InternalEqPreL="Off" InternalEqPreR="Off"
+            InternalEqSCL="Off" InternalEqSCR="Off" InternalFilterSCL="Off"
+            InternalFilterSCR="Off" InternalHPFreqL="30.000000000000000"
+            InternalHPFreqR="30.000000000000000" InternalLPFreqL="20.000000000000000"
+            InternalLPFreqR="20.000000000000000" InternalHFGainL="1.220153808593750"
+            InternalHFGainR="1.220153808593750" InternalHFFreqL="4.478711605072021"
+            InternalHFFreqR="4.478711605072021" InternalHMFGainL="1.006406784057617"
+            InternalHMFGainR="1.006406784057617" InternalHMFFreqL="2.985708713531494"
+            InternalHMFFreqR="2.985708713531494" InternalHMFQL="0.380545854568481"
+            InternalHMFQR="0.380545854568481" InternalLMFGainL="0.687655448913574"
+            InternalLMFGainR="0.687655448913574" InternalLMFFreqL="0.524484336376190"
+            InternalLMFFreqR="0.524484336376190" InternalLMFQL="0.383954703807831"
+            InternalLMFQR="0.383954703807831" InternalLFGainL="0.000000000000000"
+            InternalLFGainR="0.000000000000000" InternalLFFreqL="149.151565551757812"
+            InternalLFFreqR="149.151565551757812" InternalHFBellL="Off" InternalHFBellR="Off"
+            InternalLFBellL="On" InternalLFBellR="On" InternalBlackL="On"
+            InternalBlackR="On" InternalGainL="0.000000000000000" InternalGainR="0.000000000000000"
+            InternalVolumeL="0.000000000000000" InternalVolumeR="0.000000000000000"
+            InternalThresholdL="-10.000000000000000" InternalThresholdR="-10.000000000000000"
+            InternalRatioL="4.000000000000000" InternalRatioR="4.000000000000000"
+            InternalReleaseL="1.200000047683716" InternalReleaseR="1.200000047683716"
+            InternalFastL="Off" InternalFastR="Off" InternalPeakL="Off" InternalPeakR="Off"
+            InternalThresholdExpL="-30.000000000000000" InternalThresholdExpR="-30.000000000000000"
+            InternalRangeL="0.000000000000000" InternalRangeR="0.000000000000000"
+            InternalReleaseExpL="0.699999988079071" InternalReleaseExpR="0.699999988079071"
+            InternalFastExpL="Off" InternalFastExpR="Off" InternalExpL="Off"
+            InternalExpR="Off" InternalLink="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="13" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="c06d8540-2906-4183-9557-22b7c6b66e2e" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="">
+    <Module InternalRange="12dB" InternalOutputL="0" InternalOutputR="0"
+            InternalLowShiftL="Off" InternalLowShiftR="Off" InternalHiGainL="+3.0 / +1.5 / +1.5"
+            InternalHiGainR="+3.0 / +1.5 / +1.5" InternalLowGainL="+3.0 / +1.5 / +1.5"
+            InternalLowGainR="+3.0 / +1.5 / +1.5" InternalPeak1GainL="+1.0 / +0.5 / +0.5"
+            InternalPeak1GainR="+1.0 / +0.5 / +0.5" InternalPeak1FreqL="1400Hz"
+            InternalPeak1FreqR="1400Hz" InternalPeak1QL="6" InternalPeak1QR="6"
+            InternalPeak2GainL="+1.0 / +0.5 / +0.5" InternalPeak2GainR="+1.0 / +0.5 / +0.5"
+            InternalPeak2FreqL="11kHz" InternalPeak2FreqR="11kHz" InternalPeak2QL="6"
+            InternalPeak2QR="6" InternalPeak3GainL="+1.0 / +0.5 / +0.5" InternalPeak3GainR="+1.0 / +0.5 / +0.5"
+            InternalPeak3FreqL="71Hz" InternalPeak3FreqR="71Hz" InternalPeak3QL="11"
+            InternalPeak3QR="11" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Slot3 ChainID="7" ChainNodeID="-6" ChainNodeNodeType="2" ChainNodeConnectionID="20"
+         ChainNodeAlwaysLast="0" ModulePresetPath=""/>
+  <Slot4 Bypass="0" ChainID="7" ChainNodeID="23" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="9ca4631f-8670-467d-a26c-424c746e24f9" ChainNodeConnectionID="-1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="">
+    <Module InputGainL="0.000000000000000" InputGainR="0.000000000000000"
+            OutputLevelL="-0.100000001490116" OutputLevelR="-0.100000001490116"
+            UnityGainMonitor="0" InfrasonicFilter="1" Oversampling="4X" Dithering="NoDith"
+            Mode="Mode1" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot4>
+  <Slot5 Bypass="0" ChainID="20" ChainNodeID="17" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="8f82f2a4-3f53-4b5c-9abe-a0de656a532d" ChainNodeConnectionID="32767"
+         ChainNodeAlwaysLast="0" ModulePresetPath="">
+    <Module LM_Input="0.000000000000000" RS_Input="0.000000000000000" LM_Ratio="2.000000000000000"
+            RS_Ratio="2.000000000000000" LM_Attack="3.101106405258179" RS_Attack="3.101106405258179"
+            LM_Release="105.255805969238281" RS_Release="105.255805969238281"
+            LM_Compression="6.074530601501465" RS_Compression="6.074530601501465"
+            LM_Output="1.505750656127930" RS_Output="1.505750656127930" MeterMode="4 dB"
+            Link="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot5>
+  <Info Type="Mastering" InstrumentType="Buss" Character="Dynamic" Genre="Dance"
+        ArtistName="IK Multimedia"/>
+</Preset>

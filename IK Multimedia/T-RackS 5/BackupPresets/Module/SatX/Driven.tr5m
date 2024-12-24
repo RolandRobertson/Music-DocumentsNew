@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="2993193bfcb94965a9537016b55d7ae7">
+  <Slot Bypass="0" Model="3cfb7d5b-0aca-48f9-ae71-9b1d7ef3211a">
+    <Module InternalInputGainL="20.1000003814697" InternalInputGainR="20.1000003814697"
+            InternalOutputLevelL="-19.7000007629395" InternalOutputLevelR="-19.7000007629395"
+            InternalModeL="Master6dB" InternalModeR="Master6dB" InternalLimiter="Off"
+            InternalOversample="2X" InternalLink="Off" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+</Preset>

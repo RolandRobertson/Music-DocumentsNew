@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="14" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="59a4ec34e63d4d65baa4e8ddc4029a19" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="10" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="94eb0063-0e75-4b44-931b-5ee056b66cf3" ChainNodeConnectionID="81750144"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalPhaseL="Off" InternalPhaseR="Off" InternalCompInL="On"
+            InternalCompInR="On" InternalEqInL="On" InternalEqInR="On" InternalFilterInL="On"
+            InternalFilterInR="On" InternalEqPreL="Off" InternalEqPreR="Off"
+            InternalEqSCL="Off" InternalEqSCR="Off" InternalFilterSCL="Off"
+            InternalFilterSCR="Off" InternalHPFreqL="90.000000000000000"
+            InternalHPFreqR="90.000000000000000" InternalLPFreqL="20.000000000000000"
+            InternalLPFreqR="20.000000000000000" InternalHFGainL="4.013980865478516"
+            InternalHFGainR="4.013980865478516" InternalHFFreqL="7.996260643005371"
+            InternalHFFreqR="7.996260643005371" InternalHMFGainL="2.003347396850586"
+            InternalHMFGainR="2.003347396850586" InternalHMFFreqL="4.966921329498291"
+            InternalHMFFreqR="4.966921329498291" InternalHMFQL="0.442953765392303"
+            InternalHMFQR="0.442953765392303" InternalLMFGainL="-3.996574401855469"
+            InternalLMFGainR="-3.996574401855469" InternalLMFFreqL="0.474923700094223"
+            InternalLMFFreqR="0.474923700094223" InternalLMFQL="0.581568062305450"
+            InternalLMFQR="0.581568062305450" InternalLFGainL="3.976745605468750"
+            InternalLFGainR="3.976745605468750" InternalLFFreqL="220.000000000000000"
+            InternalLFFreqR="220.000000000000000" InternalHFBellL="On" InternalHFBellR="On"
+            InternalLFBellL="On" InternalLFBellR="On" InternalGL="On" InternalGR="On"
+            InternalGainL="0.000000000000000" InternalGainR="0.000000000000000"
+            InternalVolumeL="2.025201797485352" InternalVolumeR="2.025201797485352"
+            InternalThresholdL="-8.952693939208984" InternalThresholdR="-8.952693939208984"
+            InternalRatioL="4.002106666564941" InternalRatioR="4.002106666564941"
+            InternalReleaseL="0.348924815654755" InternalReleaseR="0.348924815654755"
+            InternalFastL="On" InternalFastR="On" InternalPeakL="Off" InternalPeakR="Off"
+            InternalThresholdExpL="4.013393402099609" InternalThresholdExpR="4.013393402099609"
+            InternalHoldExpL="0.217749997973442" InternalHoldExpR="0.217749997973442"
+            InternalRangeL="40.000000000000000" InternalRangeR="40.000000000000000"
+            InternalReleaseExpL="0.591343700885773" InternalReleaseExpR="0.591343700885773"
+            InternalFastExpL="On" InternalFastExpR="On" InternalExpL="Off"
+            InternalExpR="Off" InternalLink="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="13" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="c2453203-9fff-4466-b060-2ac916b1c160" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module GainInputLM="0.025118865072727" GainInputRS="0.025118865072727"
+            GainOutputLM="0.167567685246468" GainOutputRS="0.167567685246468"
+            RatioLM="4" RatioRS="4" AttackLM="4.999324798583984" AttackRS="4.999324798583984"
+            ReleaseLM="2.985700845718384" ReleaseRS="2.985700845718384" MeterMode="GR"
+            DisableGainReduction="0.000000000000000" Link="1.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="14" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="136578b8-d7a3-4497-a03d-8c3eccfcca0c" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module LM_Gain="0.0" RS_Gain="0.0" LM_Slope="-6.0" RS_Slope="-6.0" LM_Output="0.0"
+            RS_Output="0.0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Info Type="Instruments" InstrumentType="Drums" Character="Bright"
+        Genre="Rock" ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

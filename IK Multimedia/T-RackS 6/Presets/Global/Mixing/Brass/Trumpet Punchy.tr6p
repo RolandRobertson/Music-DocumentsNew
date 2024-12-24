@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="11" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="ad163d1e2f614c48848b7e72a8302674" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="9" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="ef1b97ea-2450-40df-a52f-3a38f7b549a3" ChainNodeConnectionID="1840099056"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="9.000000000000000" Vintage="Off" DeEsser="0.000000000000000"
+            DeEsserAB="Off" EQ="0.500000000000000" EQPost="Off" Compression="0.200000002980232"
+            Fast="Off" Transient="0.500000000000000" Output="-10.000000000000000"
+            StereoEnhance="0.000000000000000" MonoMaker="100.000000000000000"
+            Band1Freq="60.816749572753906" Band1Gain="-15.000000000000000"
+            Band2Freq="120.000000000000000" Band2Gain="0.000000000000000"
+            Band2Q="0.699999988079071" Band3Freq="300.000000000000000" Band3Gain="2.000000000000000"
+            Band3Q="1.300000071525574" Band4Freq="700.241027832031250" Band4Gain="-2.000000000000000"
+            Band4Q="1.600000143051147" Band5Freq="5000.000000000000000" Band5Gain="4.000000000000000"
+            Band5Q="0.699999988079071" Band6Freq="16000.000000000000000"
+            Band6Gain="0.000000000000000" CurrentChannel="=" ChannelMode="L/R"
+            AdditionalCustomData_EqSelectedBand="4"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="11" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="136578b8-d7a3-4497-a03d-8c3eccfcca0c" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module LM_Gain="3.0" RS_Gain="3.0" LM_Slope="-12.0" RS_Slope="-12.0"
+            LM_Output="-4.0" RS_Output="-4.0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Instruments" InstrumentType="Brass" Character="Modern"
+        Genre="Jazz" ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="8" Version="2" Format="tr6p" GUID="76f275d52a1444a4b37789f0eb94a435"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="8" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="f276fe8c-6c8b-471c-80d3-48f918ec40b5" ChainNodeConnectionID="-1960353952"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalMicL="On" InternalMicR="On" InternalEqInL="On" InternalEqInR="On"
+            InternalPhaseL="Off" InternalPhaseR="Off" InternalGainL="+6"
+            InternalGainR="+6" InternalLowFreqL="220Hz" InternalLowFreqR="220Hz"
+            InternalLowL="6.000000000000000" InternalLowR="6.000000000000000"
+            InternalHiL="-1.028000831604004" InternalHiR="-1.028000831604004"
+            InternalPresFreqL="0.7kHz" InternalPresFreqR="0.7kHz" InternalPresenceL="-2.993499755859375"
+            InternalPresenceR="-2.993499755859375" InternalHPFreqL="160Hz"
+            InternalHPFreqR="160Hz" InternalOutputL="-8" InternalOutputR="-8"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="9" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="fb02d4d8-00ba-4fc1-b880-944bab44e735" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module LoFreq="10.000000000000000" HiFreq="300.000000000000000" Enhance="0.101718738675117"
+            Focus="0.600000023841858" Drive="0.100000001490116" Harmonics="0.100000001490116"
+            Analog="0.100000001490116" Push="6.000000000000000" Output="1.000000000000000"
+            Mode="Heavy" Sub="Off" Solo="Off" MeterMode="Multi" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Instruments" InstrumentType="Drums" Character="Modern"
+        Genre="House" ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

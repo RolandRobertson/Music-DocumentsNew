@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="8b1d0dab32ef441690d7c1a07ed14878"
+        Factory="true">
+  <Info Type="Effects" InstrumentType="Texture" Character="Wet" ArtistName="IK Multimedia"/>
+  <Slot Model="3e69bd4b-9268-4e66-aecd-85a9234833d0" Bypass="0">
+    <Module Input="0.000000000000000" Output="0.000000000000000" DryWet="1.000000000000000"
+            Blend="1.000000000000000" MaterialA="Au" ToneA="0.500000000000000"
+            LengthA="17.750715255737305" StretchA="0.000000000000000" PanA="0.000000000000000"
+            MonoA="0.000000000000000" MaterialB="Pb" ToneB="0.500000000000000"
+            LengthB="146.500320434570312" StretchB="1.000000000000000" PanB="0.000000000000000"
+            MonoB="0.000000000000000" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

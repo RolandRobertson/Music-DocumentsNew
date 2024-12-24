@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1" Format="xvbfox" GUID="6da815f2-1013-4276-bcf8-4225e559bd5c">
+  <Model Type="Stomp" GUID="6db46983-d9ff-4ebf-a1eb-d59789bdd501">
+    <Parameters Algo="7.0" expression_enable="0.0" bpm_mode="1.0" BPMSync="0.0"
+                bpm="115.3846130371094" CabSim="0.0" cab_model_A="0.0" cab_model_B="0.0"
+                FOX_SPEED="4.0" FOX_DEPTH="9.0" FOX_BASS="0.9999998807907104"
+                FOX_MID="-4.0" FOX_TREBLE="3.800000190734863" FOX_FEEDBACK="70.0"
+                FOX_MID_Q="0.4000000059604645" FOX_MID_FREQ="1000.0" FOX_MIX="100.0"
+                FOX_X-MODE="0.0" FOX_SPEED_A="1.0" FOX_DEPTH_A="60.0" FOX_BASS_A="0.0"
+                FOX_MID_A="0.0" FOX_TREBLE_A="0.0" FOX_FEEDBACK_A="30.0" FOX_MID_Q_A="0.4000000059604645"
+                FOX_MID_FREQ_A="1000.0" FOX_MIX_A="100.0" FOX_X-MODE_A="0.0"
+                FOX_SPEED_B="1.0" FOX_DEPTH_B="60.0" FOX_BASS_B="0.0" FOX_MID_B="0.0"
+                FOX_TREBLE_B="0.0" FOX_FEEDBACK_B="30.0" FOX_MID_Q_B="0.4000000059604645"
+                FOX_MID_FREQ_B="1000.0" FOX_MIX_B="100.0" FOX_X-MODE_B="0.0"/>
+  </Model>
+</Preset>

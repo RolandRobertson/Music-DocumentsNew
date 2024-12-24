@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="e3948f3e8875467e8e67d8192b01ff1c">
+  <Slot Bypass="0" Model="3af5cbd7-b08d-4ff7-8bc5-6868fb30e5c7">
+    <Module InternalCurrentBand="0" InternalLink="On" InternalFilterSlope="12dB/oct"
+            InternalXFreq0="150" InternalXFreq1="1000" InternalXFreq2="6000"
+            InternalMVol="0" InternalBandNumber="4" InternalBand0Bypass="Off"
+            InternalBand0IsOn="On" InternalBand0Width="1.45311999320984"
+            InternalBand0Gain="0" InternalBand1Bypass="Off" InternalBand1IsOn="On"
+            InternalBand1Width="1.45311999320984" InternalBand1Gain="0" InternalBand2Bypass="Off"
+            InternalBand2IsOn="On" InternalBand2Width="1.45311999320984"
+            InternalBand2Gain="0" InternalBand3Bypass="Off" InternalBand3IsOn="On"
+            InternalBand3Width="1.45311999320984" InternalBand3Gain="0" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+</Preset>

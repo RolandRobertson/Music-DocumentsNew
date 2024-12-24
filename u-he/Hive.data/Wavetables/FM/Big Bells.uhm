@@ -1,0 +1,7 @@
+// by Denis Druzhinin and Howard Scarr
+
+Info "Alternative Tubular Bells – use Auto Mode *one shot*"
+
+Envelope curve=exponential L0=1 T1=1 L1=0
+Wave "sin(2*pi*phase*2)/3 + sin(2*pi*phase*27)/5 + sin(2*pi*phase*29)/5 + sin(2*pi*phase*4 + sin(2*pi*phase*14) * env(table)*3.1)"
+Normalize db=0

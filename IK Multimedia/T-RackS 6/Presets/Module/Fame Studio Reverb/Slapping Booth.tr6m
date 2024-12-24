@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr5m" GUID="0056894131f84e27a15e098e06c69964"
+        Factory="true">
+  <Slot Bypass="0" Model="9d7512c2-19f3-4824-9d36-c2005944e5c2">
+    <Module InternalInput="7.471860885620117" InternalOutput="-5.880908012390137"
+            InternalPreDelay="80.000000000000000" InternalDecay="58.000000000000000"
+            InternalHPFreq="206.000000000000000" InternalLPFreq="6879.000000000000000"
+            InternalLow="-2.928580284118652" InternalHigh="0.276597976684570"
+            InternalDry="-4.242108821868896" InternalLink="On" InternalWetL="-18.756031036376953"
+            InternalWetR="-18.756031036376953" InternalWetMono1="-300.000000000000000"
+            InternalWetMono2="-7.389025688171387" InternalPanDry="0.000000000000000"
+            InternalPanL="-100.000000000000000" InternalPanR="100.000000000000000"
+            InternalPanMono1="0.000000000000000" InternalPanMono2="-4.213690757751465"
+            InternalSoloDry="0.000000000000000" InternalSoloL="0.000000000000000"
+            InternalSoloR="0.000000000000000" InternalSoloMono1="0.000000000000000"
+            InternalSoloMono2="0.000000000000000" InternalTypeAndOption="17.000000000000000"
+            InternalOptionChamber="0.000000000000000" InternalOptionPlate="5.000000000000000"
+            InternalOptionIsoBoothA="0.000000000000000" InternalOptionLiveRoomA="3.000000000000000"
+            InternalOptionIsoBoothB="1.000000000000000" InternalOptionLiveRoomB="2.000000000000000"
+            InternalTrueStereo="0.000000000000000" InternalModernVintage="1.000000000000000"
+            InternalCone="0.000000000000000" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Effects" ArtistName="IK Multimedia"/>
+</Preset>

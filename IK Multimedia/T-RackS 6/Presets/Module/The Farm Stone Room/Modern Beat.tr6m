@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr5m" GUID="3bcb658abd994adf9423545ecfa66772"
+        Factory="true">
+  <Slot Bypass="0" Model="44cb2ba7-6c34-47f6-969e-40230512dba2">
+    <Module InternalInput="2.978397369384766" InternalOutput="0.000000000000000"
+            InternalPreDelay="14.000000000000000" InternalDecay="40.000000000000000"
+            InternalSize="100.000000000000000" InternalHPFreq="10.000000000000000"
+            InternalCurtainClosed="0.000000000000000" InternalMono="0.000000000000000"
+            InternalLevelDry="-300.000000000000000" InternalLevelStereo="-18.000000000000000"
+            InternalStereoLow="2.969721794128418" InternalStereoMid="0.003370285034180"
+            InternalStereoHigh="-0.015420913696289" InternalStereoComp="50.000000000000000"
+            InternalStereoThreshold="-17.947452545166016" InternalStereoWidth="100.000000000000000"
+            InternalLevelMono="-14.000000000000000" InternalMonoLow="2.975317955017090"
+            InternalMonoMidFreq="2239.000000000000000" InternalMonoMid="-3.024705886840820"
+            InternalMonoHigh="3.009643554687500" InternalMonoLMC="100.000000000000000"
+            InternalMonoThreshold="-13.950170516967773" InternalPanDry="0.000000000000000"
+            InternalPanStereo="0.000000000000000" InternalPanMono="0.000000000000000"
+            InternalSoloDry="0.000000000000000" InternalSoloStereo="0.000000000000000"
+            InternalSoloMono="0.000000000000000" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Effects" ArtistName="IK Multimedia"/>
+</Preset>

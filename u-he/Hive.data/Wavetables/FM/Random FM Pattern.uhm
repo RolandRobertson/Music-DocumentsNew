@@ -1,0 +1,13 @@
+// By Delta Sign
+
+Info "A table with a random pattern of phase modulated sines. This is great for adding a rhythmic element to your sounds."
+
+NumFrames=256
+
+Wave target=aux1 "sin((2*(round(randf*6)))*pi*phase)"
+Seed=2533
+Wave target=aux1 "(aux1*(randf>0.5))*(table^2*2)"
+Seed=3929
+Wave "sin(2*pi*(phase+aux1))*(randf>0.5)"
+
+Normalize base=all

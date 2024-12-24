@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="5d2df987d2ae4557bd2a681daa63612b">
+  <Slot Bypass="0" Model="8f82f2a4-3f53-4b5c-9abe-a0de656a532d">
+    <Module LM_Input="0" RS_Input="0" LM_Ratio="30" RS_Ratio="30" LM_Attack="0"
+            RS_Attack="0" LM_Release="30.8066082000732" RS_Release="30.8066082000732"
+            LM_Compression="0.600000023841858" RS_Compression="0.600000023841858"
+            LM_Output="4.09999990463257" RS_Output="4.09999990463257" MeterMode="4 dB"
+            Link="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

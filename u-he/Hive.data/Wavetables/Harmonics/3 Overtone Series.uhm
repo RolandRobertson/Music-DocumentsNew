@@ -1,0 +1,17 @@
+// by Howard Scarr
+
+Info "3 x harmonic series (square, saw and random-phase mixture with offset). Try setting Tables to 3: the individual wavetables are then available at MultiTable positions 0, 50 and 100"
+
+NumFrames=48
+
+// pulses and saws
+Wave start=32 end=47 "-1.5 + floor(2*frac(phase*(frame-31))>=0.2) + frac(phase*(frame-16))"
+Phase "rands*2*pi - pi"
+
+// saws
+Wave start=16 end=31 "-1 + 2*frac(phase*(frame-15))"
+
+// squares
+Wave start=0 end=15 "-1 + 2*floor(2*frac(phase*(frame+1))>=1)"
+
+Normalize base=each

@@ -1,0 +1,76 @@
+	Info "UHM tutorial all about the Envelope function"
+
+	/********************************************************
+
+		Same waveforms again? Yep, but new tools
+
+		This is an introduction to the Envelope tool
+
+		The envelope is a 8-segment Time/Level shape
+		which we can access from within the formulas.
+
+		The idea is to create an envelope shape, and e.g.
+		use env(index) in our formula to modify whatever
+		else is going on. It's obviously good to create
+		movement across wavetable frames, but it can
+		also be used in a lot of other ways.
+
+	********************************************************/
+
+
+	NumFrames = 5
+
+		// Sine (frame 0)
+		//
+		// We create an envelope like this ‾_______ to set just the fundamental
+		//
+		//	index	 Time	Level
+		//		0		-		1
+		//		1		2		1
+		//		2		0		0
+		//		3	 1024		0
+		//
+		// This way, env(0) and env(1) are 1, everything after 0
+		// remember that the fundamental is at index 1, not 0 (0 is DC)
+
+	Envelope L0=1 T1=2 L1=1 T2=0 L2=0 T3=1024 L3=0
+	Spectrum start=0 end=0 "env(index)"
+
+
+		// Sawtooth (frame 1)
+		//
+		// A simple ramp is quickly established by envelope!
+
+	Envelope L0=1 T1=2048 L1=-1
+	Wave start=1 end=1 "env(index)"
+
+
+		// Square (frame 2)
+		//
+		// we can also use phase, if we scale the envelope accordingly
+
+	Envelope L0=1 T1=0.5 L1=1 T2=0 L2=-1 T3=0.5 L3=-1
+	Wave start=2 end=2 "env(phase)"
+
+
+		// Triangle (frame 3)
+		//
+		// much easier than maths!
+
+	Envelope L0=0 T1=0.25 L1=1 T2=0.5 L2=-1 T3=0.25 L4=0
+	Wave start=3 end=3 "env(phase)"
+
+
+		// Narrow Peak (frame 4)
+		//
+		// Note that T set the duration of the segment. It's not the sample
+		// or index at which the segment begins. Hence the long 0 has a length of
+		// 2048 - 20 - 20 = 2008 samples!
+
+	Envelope L0=1 T1=20 L1=1 T2=0 L2=0 T3=2008 L3=0 T4=0 L4=-1 T5=20 L5=-1
+	Wave start=4 end=4 "env(index)"
+
+
+		// DC-removal trick
+
+	Spectrum lowest=0 highest=0 "0"

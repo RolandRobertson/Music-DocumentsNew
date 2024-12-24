@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="d4a134c41ba44a48942bc69ec7da0eeb" Factory="true">
+  <Slot Bypass="0" Model="90f10378-05ce-4139-a75e-a91a76e1fc8e">
+    <Module SideChainHPF="32.0" AttackTime="23.1" ReleaseTime="281.3" StereoEnhancement="0.0"
+            Ratio="4.67999982833862" InputDrive="-12.8999996185303" Output="12"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mixing" ArtistName="IK Multimedia"/>
+</Preset>

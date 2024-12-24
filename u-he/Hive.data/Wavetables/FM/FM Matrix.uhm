@@ -1,0 +1,12 @@
+// by Delta Sign
+
+Info "2-operator FM wavetable with independent controls for index and ratio. Set the MultiTable count to 4. Wavetable position controls the index and MultiTable position controls the ratio."
+
+NumFrames=256
+
+Wave start=0 end=63 "sin(2*pi*(phase+(sin(2*pi*phase)*(frame/16))))"
+Wave start=64 end=127 "sin(2*pi*(phase+(sin(4*pi*phase)*((frame-64)/16))))"
+Wave start=128 end=191 "sin(2*pi*(phase+(sin(8*pi*phase)*((frame-128)/16))))"
+Wave start=192 end=255 "sin(2*pi*(phase+(sin(16*pi*phase)*((frame-192)/16))))"
+
+Normalize base=each

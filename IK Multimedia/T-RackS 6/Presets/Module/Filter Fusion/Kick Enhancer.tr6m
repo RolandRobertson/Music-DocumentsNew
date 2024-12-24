@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="eb8bd0d11a9e44519b48b2399049d238"
+        Factory="true">
+  <Info Type="Effects" Keywords="Low End " InstrumentType="Drums" Character="Modern"
+        ArtistName="IK Multimedia"/>
+  <Slot Model="09cb9685-b5e0-42cb-b68b-3076beb1621f" Bypass="0">
+    <Module Step="0.000000000000000" Env="1.000000000000000" LFO="0.000000000000000"
+            Input="0.000000000000000" DryWet="1.000000000000000" Output="0.000000000000000"
+            Frequency="58.178520202636719" Resonance="0.730143189430237"
+            Drive="0.165336176753044" Width="0.000000000000000" EnvSensitivity="0.510467290878296"
+            EnvAttack="0.000000000000000" EnvDecay="0.383549809455872" CutoffAmount="0.369589805603027"
+            ResonanceAmount="0.000000000000000" DriveAmount="0.000000000000000"
+            Wave="4.000000000000000" BPM="120.000000000000000" FadeIn="0.000000000000000"
+            Step01="0.000000000000000" Step02="0.000000000000000" Step03="0.000000000000000"
+            Step04="0.000000000000000" Step05="0.000000000000000" Step06="0.000000000000000"
+            Step07="0.000000000000000" Step08="0.000000000000000" Step09="0.000000000000000"
+            Step10="0.000000000000000" Step11="0.000000000000000" Step12="0.000000000000000"
+            Step13="0.000000000000000" Step14="0.000000000000000" Step15="0.000000000000000"
+            Step16="0.000000000000000" Type="4.000000000000000" Sync="On"
+            NumOfStep="16.000000000000000" LFORate="1.000000000000000" StepMode="FWR"
+            LFOSync="Off" LFORateSync="1/32D" LFORetrig="Off" StepDivision="1/16"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="172789ce8fee4932b79eb69840bf711b" Factory="true">
+  <Slot Bypass="0" Model="213813f3-a81d-4baf-8add-591fadfb0425">
+    <Module Spring="0.513839840888977" SlowSpeed="0" FastSpeed="0" MicDistance="0"
+            Acceleration="1" Deceleration="1" Gain122="0.439999997615814"
+            Gain122A="0.397922039031982" Gain147="0.397922039031982" G37Gain="0"
+            InputHPF="20" Mid="0.5" Volume122="0.449999988079071" Volume122A="0.400281816720963"
+            Volume147="0.403491258621216" Volume3300W="0.400281816720963"
+            VolumeG37="0.432021349668503" Low="0.5" High="0.5" TubeDrive="0.402034282684326"
+            TubeMode="0.256365239620209" Contour="0.5" HighFreq="4000" MidFreq="1000"
+            LowFreq="100" MidQ="1" HighGain="0" MidGain="0" LowGain="0" Speed="0"
+            Brake="0" LinkHorn="0" LinkDrum="0" GainHornL="-0.0313639715313911"
+            GainHornR="-201" PanHornL="C" PanHornR="1.0R" GainDrumL="-0.0223070420324802"
+            GainDrumR="-201" PanDrumL="C" PanDrumR="1.0R" Output="0" PageMode="Setup Page"
+            Cabs="Studio 12" Amps="G37 / St12" Angle="90" AmpMatch="1" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mastering" ArtistName="IK Multimedia"/>
+</Preset>

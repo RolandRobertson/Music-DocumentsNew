@@ -1,0 +1,9 @@
+// by Howard Scarr
+
+Info "Pulse widths from about 97% down to 0%. Makes two independent Pulse waves per oscillator possible"
+
+Wave "-1+2*(phase<table)" // PWM
+Spectrum lowest=0 highest=0 "0" // DC-removal
+NumFrames= 251 // remove last 5 frames
+Wave target=aux1 "main_fi(250-frame, index)" // reverse order
+Wave "aux1"

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="d103294cc24b4967be77adfae22e8040"
+        Factory="true">
+  <Slot Model="fb02d4d8-00ba-4fc1-b880-944bab44e735" Bypass="0">
+    <Module LoFreq="29.812662124633789" HiFreq="131.459442138671875" Enhance="0.249580204486847"
+            Focus="0.701407730579376" Drive="0.355370551347733" Harmonics="0.147968873381615"
+            Analog="0.299527108669281" Push="8.738233566284180" Output="1.313053131103516"
+            Mode="Light" Sub="On" Solo="Off" MeterMode="Multi" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Instruments" InstrumentType="Bass" Character="Modern" Genre="Rock"
+        ArtistName="Jack Miele"/>
+</Preset>

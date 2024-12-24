@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1" Format="xvbc80" GUID="c3e078bd-04c0-4a2a-a5d7-a5700130c7a9">
+  <Model Type="Stomp" GUID="6db46983-d9ff-4ebf-a1eb-d59789bdd501">
+    <Parameters Algo="0.0" expression_enable="0.0" bpm_mode="1.0" BPMSync="0.0"
+                bpm="115.3846130371094" CabSim="0.0" cab_model_A="0.0" cab_model_B="0.0"
+                CHORUS_80_SPEED="14.0" CHORUS_80_SPEED_ts="15.0" CHORUS_80_DEPTH="23.0"
+                CHORUS_80_BASS="2.0" CHORUS_80_MID="2.200000047683716" CHORUS_80_TREBLE="3.300000190734863"
+                CHORUS_80_MID_Q="0.4000000059604645" CHORUS_80_MID_FREQ="1000.0"
+                CHORUS_80_MIX="100.0" CHORUS_80_X-MODE="0.0" CHORUS_80_SPEED_A="30.0"
+                CHORUS_80_SPEED_ts_A="8.0" CHORUS_80_DEPTH_A="80.0" CHORUS_80_BASS_A="0.0"
+                CHORUS_80_MID_A="0.0" CHORUS_80_TREBLE_A="0.0" CHORUS_80_MID_Q_A="0.4000000059604645"
+                CHORUS_80_MID_FREQ_A="1000.0" CHORUS_80_MIX_A="100.0" CHORUS_80_X-MODE_A="0.0"
+                CHORUS_80_SPEED_B="30.0" CHORUS_80_SPEED_ts_B="8.0" CHORUS_80_DEPTH_B="80.0"
+                CHORUS_80_BASS_B="0.0" CHORUS_80_MID_B="0.0" CHORUS_80_TREBLE_B="0.0"
+                CHORUS_80_MID_Q_B="0.4000000059604645" CHORUS_80_MID_FREQ_B="1000.0"
+                CHORUS_80_MIX_B="100.0" CHORUS_80_X-MODE_B="0.0"/>
+  </Model>
+</Preset>

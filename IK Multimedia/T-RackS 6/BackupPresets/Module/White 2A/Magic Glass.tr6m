@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="6bc0a1821d0643a29b0b118fb7a5e6be" Factory="true">
+  <Slot Bypass="0" Model="fe8b53f3-8573-41e5-b28f-0fb4fcfe381d">
+    <Module InternalGainL="26.1179504394531" InternalGainR="26.1179504394531"
+            InternalPeakReductionL="12.1225643157959" InternalPeakReductionR="12.1225643157959"
+            InternalMeterMode="+4" InternalLimitCompress="Limit" InternalLink="On"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mixing" ArtistName="IK Multimedia"/>
+</Preset>

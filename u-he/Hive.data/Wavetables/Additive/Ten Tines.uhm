@@ -1,0 +1,26 @@
+// by Howard Scarr
+
+Info "10 waves with widely spaced harmonics. For e-piano *tine* components, or silvery bells etc.."
+
+NumFrames=10
+Spectrum start=0 end=9 "index==1"
+Seed=8
+Spectrum start=0 end=0 blend=add highest=50 "rand<=0.1"
+Seed=12
+Spectrum start=1 end=1 blend=add highest=50 "rand<=0.1"
+Seed=18
+Spectrum start=2 end=2 blend=add highest=50 "rand<=0.1"
+Seed=19
+Spectrum start=3 end=3 blend=add highest=50 "rand<=0.1"
+Seed=26
+Spectrum start=4 end=4 blend=add highest=50 "rand<=0.1"
+Seed=29
+Spectrum start=5 end=5 blend=add highest=50 "rand<=0.1"
+Seed=34
+Spectrum start=6 end=6 blend=add highest=50 "rand<=0.1"
+Seed=36
+Spectrum start=7 end=7 blend=add highest=50 "rand<=0.1"
+Seed=41
+Spectrum start=8 end=8 blend=add highest=50 "rand<=0.1"
+Seed=44
+Spectrum start=9 end=9 blend=add highest=50 "rand<=0.1"

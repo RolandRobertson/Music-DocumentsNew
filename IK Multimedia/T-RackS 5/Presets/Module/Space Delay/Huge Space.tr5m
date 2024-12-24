@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr5m" GUID="2a8c2abc68f4415aab087a1658b7d5a9">
+  <Slot Bypass="0" Model="2ca4014a-5c98-448e-9764-a202d4ee3f89">
+    <Module Input="5.000000000000000" DryWet="38.073715209960938" Mode="11.000000000000000"
+            Bass="1.466472625732422" Treble="-1.909285545349121" RevVol="7.923538208007813"
+            RevPan="0.187345504760742" Rate="8.036626815795898" RateSync="6.000000000000000"
+            Feedback="5.120920181274414" DelayVol="8.160630226135254" DelayPan="0.069914817810059"
+            HPF="10.000000000000000" LPF="20000.000000000000000" Ducking="39.176246643066406"
+            StereoRev="1.000000000000000" FXFeed="1.000000000000000" Noise="1.117963075637817"
+            TapeAge="0.000000000000000" Sync="1.000000000000000" Head1Pan="-4.520436286926270"
+            Head2Pan="-0.661525726318359" Head3Pan="2.976873397827148" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+</Preset>

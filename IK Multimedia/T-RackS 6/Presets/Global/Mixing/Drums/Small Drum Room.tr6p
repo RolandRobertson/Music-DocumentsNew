@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="12" Version="2" Format="tr6p" GUID="8379d3bba4b64e2baa309f102d0e3d73"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="13" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="c2453203-9fff-4466-b060-2ac916b1c160" ChainNodeConnectionID="-1873743872"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module GainInputLM="0.129880428314209" GainInputRS="0.129880428314209"
+            GainOutputLM="0.125666663050652" GainOutputRS="0.125666663050652"
+            RatioLM="4" RatioRS="4" AttackLM="7.000000000000000" AttackRS="7.000000000000000"
+            ReleaseLM="6.994742393493652" ReleaseRS="6.994742393493652" MeterMode="GR"
+            DisableGainReduction="0.000000000000000" Link="1.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="12" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="fe7dcfdd-284a-40e1-8594-ac39e5f6a3f9" ChainNodeConnectionID="2"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalInput="0.000000000000000" InternalDry="-300.000000000000000"
+            InternalWet="0.000000000000000" InternalSoloDry="0.000000000000000"
+            InternalSoloWet="0.000000000000000" InternalPreDelay="0.000000000000000"
+            InternalDecay="100.000000000000000" InternalHPFreq="176.000000000000000"
+            InternalLow="0.000000000000000" InternalHigh="6.485624313354492"
+            InternalLPFreq="8370.000000000000000" InternalIR="Live_3_ND"
+            InternalMic="1.000000000000000" InternalWidth="100.000000000000000"
+            InternalMono="0.000000000000000" CurrentChannel="=" ChannelMode="L/R"
+            AdditionalCustomData_OldCoordsX="4.0" AdditionalCustomData_OldCoordsY="-40.0"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="14" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="9ca4631f-8670-467d-a26c-424c746e24f9" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InputGainL="8.049062728881836" InputGainR="8.049062728881836"
+            OutputLevelL="-6.033124923706055" OutputLevelR="-6.033124923706055"
+            UnityGainMonitor="0" InfrasonicFilter="1" Oversampling="4X" Dithering="NoDith"
+            Mode="Mode1" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Info Type="Mixing" InstrumentType="Drums" Character="Wet" Description="Small Drum Ambiance"
+        ArtistName="El Brujo Caipo"/>
+</Preset>

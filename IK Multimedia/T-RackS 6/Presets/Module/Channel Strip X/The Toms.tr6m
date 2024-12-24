@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="965f4753bb714378a1c717d7b9883bde"
+        Factory="true">
+  <Info Type="Mixing" InstrumentType="Drums" Character="Compressed" ArtistName="IK Multimedia"/>
+  <Slot Model="ef1b97ea-2450-40df-a52f-3a38f7b549a3" Bypass="0">
+    <Module Input="-4.026236534118652" Vintage="Off" DeEsser="0.000000000000000"
+            DeEsserAB="Off" EQ="0.500000000000000" EQPost="Off" Compression="0.595923662185669"
+            Fast="Off" Transient="0.174888432025909" Output="-1.573769569396973"
+            StereoEnhance="0.000000000000000" MonoMaker="100.000000000000000"
+            Band1Freq="21.629356384277344" Band1Gain="-10.000000000000000"
+            Band2Freq="110.000000000000000" Band2Gain="5.000000000000000"
+            Band2Q="0.400000005960464" Band3Freq="550.000000000000000" Band3Gain="-8.000000000000000"
+            Band3Q="0.400000005960464" Band4Freq="1400.000000000000000" Band4Gain="5.000000000000000"
+            Band4Q="0.400000005960464" Band5Freq="5000.000000000000000" Band5Gain="0.000000000000000"
+            Band5Q="0.699999988079071" Band6Freq="7572.879394531250000" Band6Gain="-3.750000000000000"
+            CurrentChannel="=" ChannelMode="L/R" AdditionalCustomData_EqPreset="Toms"
+            AdditionalCustomData_EqSelectedBand="3"/>
+  </Slot>
+</Preset>

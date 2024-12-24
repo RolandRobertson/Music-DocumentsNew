@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="e3a7b973deb543069158e7046dc133c9">
+  <Slot Bypass="0" Model="9bf8f653-6921-4814-be3f-d741df4b2f2d">
+    <Module InputL="1.7" InputR="1.7" ThresholdL="6.5" ThresholdR="6.5" AttackL="8.13055610656738"
+            AttackR="8.13055610656738" ReleaseL="0" ReleaseR="0" OutputL="1.93033385276794"
+            OutputR="1.93033385276794" HardL="1" HardR="1" HPSideChL="0"
+            HPSideChR="0" Link="0" ChannelLink="1.0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

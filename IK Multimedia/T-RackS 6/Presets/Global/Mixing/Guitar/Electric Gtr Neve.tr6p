@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="9" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="d901941da834496292c3f982c10eb1a0" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="9" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="7a444c0f-eaae-43f1-a654-04a29885333b" ChainNodeConnectionID="-1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalEqInL="On" InternalEqInR="On" InternalPhaseL="Off" InternalPhaseR="Off"
+            InternalMicL="Off" InternalMicR="Off" InternalGainL="+4" InternalGainR="+4"
+            InternalOutputL="-6" InternalOutputR="-6" InternalHPFreqL="82Hz"
+            InternalHPFreqR="82Hz" InternalLPFreqL="12kHz" InternalLPFreqR="12kHz"
+            InternalHiFreqL="6p8kHz" InternalHiFreqR="6p8kHz" InternalHiBellL="Off"
+            InternalHiBellR="Off" InternalHiL="4.000000000000000" InternalHiR="4.000000000000000"
+            InternalHiPresFreqL="2.2kHz" InternalHiPresFreqR="2.2kHz" InternalHiPresQL="On"
+            InternalHiPresQR="On" InternalHiPresenceL="4.000000000000000"
+            InternalHiPresenceR="4.000000000000000" InternalLowPresFreqL="390Hz"
+            InternalLowPresFreqR="390Hz" InternalLowPresQL="On" InternalLowPresQR="On"
+            InternalLowPresenceL="2.000000000000000" InternalLowPresenceR="2.000000000000000"
+            InternalLowFreqL="180Hz" InternalLowFreqR="180Hz" InternalLowBellL="Off"
+            InternalLowBellR="Off" InternalLowL="1.959373474121094" InternalLowR="1.959373474121094"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="11" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="c2453203-9fff-4466-b060-2ac916b1c160" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module GainInputLM="0.056422054767609" GainInputRS="0.056422054767609"
+            GainOutputLM="0.079432822763920" GainOutputRS="0.079432822763920"
+            RatioLM="8" RatioRS="8" AttackLM="3.000000000000000" AttackRS="3.000000000000000"
+            ReleaseLM="6.000000000000000" ReleaseRS="6.000000000000000" MeterMode="GR"
+            DisableGainReduction="0.000000000000000" Link="1.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Instruments" InstrumentType="Guitar" Character="Bright"
+        Genre="Rock" ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="13" Version="2" Format="tr6p" GUID="4633a20b61fe473095be86213cf742c2"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="12" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="cf4ccc69-906b-42f3-9cd6-7eccbf833587" ChainNodeConnectionID="2"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="0.000000000000000" Output="0.000000000000000" Speed="30"
+            TapeType="456" HFRecAdjust="0.500000000000000" HFPlayAdjust="0.500000000000000"
+            LFPlayAdjust="0.500000000000000" RecLevel="0.500000000000000"
+            PlayLevel="0.500000000000000" BiasLevel="0.500000000000000" InputRepro="Repro"
+            TrueStereo="On" TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="13" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="e9ef0d86-ee42-45de-8a1c-5a4459f2a2b9" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalChannelMode="MS" InternalCtrlBiasL="3.500000000000000"
+            InternalCtrlBiasR="3.500000000000000" InternalTimeConstantL="2"
+            InternalTimeConstantR="2" InternalInputAttenL="-8.000000000000000"
+            InternalInputAttenR="-5.000000000000000" InternalThresholdL="2.441445350646973"
+            InternalThresholdR="4.083593845367432" InternalOutputLevel="2.000000000000000"
+            InternalMeterMode="GR" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Effects" Character="Vintage" Description="Wider for Drums or other Groups"
+        ArtistName="El Brujo Caipo"/>
+</Preset>

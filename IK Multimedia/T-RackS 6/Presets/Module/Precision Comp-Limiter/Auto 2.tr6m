@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="bff73be8ecf24a69bad7ca4a182c108e" Factory="true">
+  <Slot Bypass="0" Model="2ff300f6-19b9-4e5f-a38f-465571ea9372">
+    <Module InternalInputL="+0.0" InternalInputR="+0.0" InternalCompThresholdL="-10"
+            InternalCompThresholdR="-10" InternalRatioL="2:1" InternalRatioR="2:1"
+            InternalGainL="+10" InternalGainR="+10" InternalCompRecoveryL="A2"
+            InternalCompRecoveryR="A2" InternalLimThresholdL="+10.0" InternalLimThresholdR="+10.0"
+            InternalLimRecoveryL="100ms" InternalLimRecoveryR="100ms" InternalOutputL="+0.0"
+            InternalOutputR="+0.0" InternalFastL="On" InternalFastR="On"
+            InternalCompInL="On" InternalCompInR="On" InternalLimInL="Off"
+            InternalLimInR="Off" InternalLink="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mixing" ArtistName="IK Multimedia"/>
+</Preset>

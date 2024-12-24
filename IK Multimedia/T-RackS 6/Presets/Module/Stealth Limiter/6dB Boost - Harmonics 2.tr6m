@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="4c8ea2b356a6473ba6e2ba9eaa1bd6a4" Factory="true">
+  <Slot Bypass="0" Model="9ca4631f-8670-467d-a26c-424c746e24f9">
+    <Module InputGainL="6" InputGainR="6" OutputLevelL="-0.100000001490116"
+            OutputLevelR="-0.100000001490116" UnityGainMonitor="0" InfrasonicFilter="1"
+            Oversampling="1X" Dithering="NoDith" Mode="Mode4" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mastering" ArtistName="IK Multimedia"/>
+</Preset>

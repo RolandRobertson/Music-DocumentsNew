@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="3f1dfa63c3744fb88ce7aed71df619e5" Factory="true">
+  <Slot Bypass="0" Mute="0" Model="fc5afb1a-4ef2-49bb-ad7f-336d8f73ab42">
+    <Module CurrentChannel="=" ChannelMode="L/R" LM_Output="0" RS_Output="0"
+            InternalLM_Band1Hz="15" InternalLM_Band1Active="0" InternalLM_Band2Gain="5.4"
+            InternalLM_Band2Active="1" InternalLM_Band2Hz="359" InternalLM_Band3Gain="-8.3"
+            InternalLM_Band3Active="1" InternalLM_Band3Hz="780" InternalLM_Band3Q_Float="1"
+            InternalLM_Band4Gain="-8.6" InternalLM_Band4Active="1" InternalLM_Band4Hz="1836"
+            InternalLM_Band4Q_Float="1" InternalLM_Band5Gain="7.8" InternalLM_Band5Active="1"
+            InternalLM_Band5Hz="3711" InternalLM_Band6Hz="19201" InternalLM_Band6Active="0"
+            InternalRS_Band1Hz="15" InternalRS_Band1Active="0" InternalRS_Band2Gain="5.4"
+            InternalRS_Band2Active="1" InternalRS_Band2Hz="359" InternalRS_Band3Gain="-8.3"
+            InternalRS_Band3Active="1" InternalRS_Band3Hz="780" InternalRS_Band3Q_Float="1"
+            InternalRS_Band4Gain="-8.6" InternalRS_Band4Active="1" InternalRS_Band4Hz="1836"
+            InternalRS_Band4Q_Float="1" InternalRS_Band5Gain="7.8" InternalRS_Band5Active="1"
+            InternalRS_Band5Hz="3711" InternalRS_Band6Hz="19201" InternalRS_Band6Active="0"/>
+  </Slot>
+  <Info Type="Effects"/>
+</Preset>

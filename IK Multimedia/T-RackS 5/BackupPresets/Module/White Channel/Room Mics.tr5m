@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="617401f687c1489ebbb9867f0f5a7f02">
+  <Slot Bypass="0" Model="94eb0063-0e75-4b44-931b-5ee056b66cf3">
+    <Module InternalPhaseL="Off" InternalPhaseR="Off" InternalCompInL="On"
+            InternalCompInR="On" InternalEqInL="On" InternalEqInR="On" InternalFilterInL="Off"
+            InternalFilterInR="Off" InternalEqPreL="Off" InternalEqPreR="Off"
+            InternalEqSCL="Off" InternalEqSCR="Off" InternalFilterSCL="Off"
+            InternalFilterSCR="Off" InternalHPFreqL="30.0200004577637" InternalHPFreqR="30.0200004577637"
+            InternalLPFreqL="19.9949989318848" InternalLPFreqR="19.9949989318848"
+            InternalHFGainL="0" InternalHFGainR="0" InternalHFFreqL="5.5"
+            InternalHFFreqR="5.5" InternalHMFGainL="0" InternalHMFGainR="0"
+            InternalHMFFreqL="2.14999985694885" InternalHMFFreqR="2.14999985694885"
+            InternalHMFQL="0.400000005960464" InternalHMFQR="0.400000005960464"
+            InternalLMFGainL="0" InternalLMFGainR="0" InternalLMFFreqL="0.699999988079071"
+            InternalLMFFreqR="0.699999988079071" InternalLMFQL="0.400000005960464"
+            InternalLMFQR="0.400000005960464" InternalLFGainL="2.99939918518066"
+            InternalLFGainR="2.99939918518066" InternalLFFreqL="150.00700378418"
+            InternalLFFreqR="150.00700378418" InternalHFBellL="Off" InternalHFBellR="Off"
+            InternalLFBellL="Off" InternalLFBellR="Off" InternalGL="Off"
+            InternalGR="Off" InternalGainL="0" InternalGainR="0" InternalVolumeL="0"
+            InternalVolumeR="0" InternalThresholdL="-15.9159688949585" InternalThresholdR="-15.9159688949585"
+            InternalRatioL="7.33696031570435" InternalRatioR="7.33696031570435"
+            InternalReleaseL="0.360000014305115" InternalReleaseR="0.360000014305115"
+            InternalFastL="On" InternalFastR="On" InternalPeakL="On" InternalPeakR="On"
+            InternalThresholdExpL="-29.9953842163086" InternalThresholdExpR="-29.9953842163086"
+            InternalHoldExpL="9.99999974737875e-05" InternalHoldExpR="9.99999974737875e-05"
+            InternalRangeL="0.00399999972432852" InternalRangeR="0.00399999972432852"
+            InternalReleaseExpL="0.699999988079071" InternalReleaseExpR="0.699999988079071"
+            InternalFastExpL="Off" InternalFastExpR="Off" InternalExpL="Off"
+            InternalExpR="Off" InternalLink="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

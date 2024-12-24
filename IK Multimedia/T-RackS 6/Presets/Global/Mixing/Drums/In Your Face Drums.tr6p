@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="14" Version="2" Format="tr6p" GUID="a9344702ad2a4405a1aa4495c44d4043"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="12" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="fe8b53f3-8573-41e5-b28f-0fb4fcfe381d" ChainNodeConnectionID="2"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalGainL="37.400001525878906" InternalGainR="37.400001525878906"
+            InternalPeakReductionL="65.396568298339844" InternalPeakReductionR="65.396568298339844"
+            InternalMeterMode="GR" InternalLimitCompress="Limit" InternalLink="On"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="14" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="f276fe8c-6c8b-471c-80d3-48f918ec40b5" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalMicL="Off" InternalMicR="Off" InternalEqInL="On" InternalEqInR="On"
+            InternalPhaseL="Off" InternalPhaseR="Off" InternalGainL="0" InternalGainR="0"
+            InternalLowFreqL="60Hz" InternalLowFreqR="60Hz" InternalLowL="0.964000701904297"
+            InternalLowR="0.964000701904297" InternalHiL="1.983499526977539"
+            InternalHiR="1.983499526977539" InternalPresFreqL="1.6kHz" InternalPresFreqR="1.6kHz"
+            InternalPresenceL="-1.022500038146973" InternalPresenceR="-1.022500038146973"
+            InternalHPFreqL="Off" InternalHPFreqR="Off" InternalOutputL="0"
+            InternalOutputR="0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Mixing" InstrumentType="Drums" Character="Compressed" Description="In Your Face"
+        ArtistName="El Brujo Caipo"/>
+</Preset>

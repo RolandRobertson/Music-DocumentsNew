@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="11" Version="2" Format="tr6p" GUID="892f0ff2235f4642bb5c2d5fd0d7b4d2"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="8" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="c2453203-9fff-4466-b060-2ac916b1c160" ChainNodeConnectionID="2"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module GainInputLM="0.053196799010038" GainInputRS="0.053196799010038"
+            GainOutputLM="0.072654567658901" GainOutputRS="0.072654567658901"
+            RatioLM="All" RatioRS="All" AttackLM="7.000000000000000" AttackRS="7.000000000000000"
+            ReleaseLM="6.752867221832275" ReleaseRS="6.752867221832275" MeterMode="GR"
+            DisableGainReduction="0.000000000000000" Link="1.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="9" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="15f9be4b-16bb-4c5f-9c4e-46644abf94d1" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalPhaseL="Off" InternalPhaseR="Off" InternalCompInL="On"
+            InternalCompInR="On" InternalEqInL="On" InternalEqInR="On" InternalFilterInL="On"
+            InternalFilterInR="On" InternalEqPreL="Off" InternalEqPreR="Off"
+            InternalEqSCL="Off" InternalEqSCR="Off" InternalFilterSCL="Off"
+            InternalFilterSCR="Off" InternalHPFreqL="167.796875000000000"
+            InternalHPFreqR="167.796875000000000" InternalLPFreqL="20.000000000000000"
+            InternalLPFreqR="20.000000000000000" InternalHFGainL="7.466251373291016"
+            InternalHFGainR="7.466251373291016" InternalHFFreqL="3.068359375000000"
+            InternalHFFreqR="3.068359375000000" InternalHMFGainL="0.000000000000000"
+            InternalHMFGainR="0.000000000000000" InternalHMFFreqL="2.099999904632568"
+            InternalHMFFreqR="2.099999904632568" InternalHMFQL="0.400000005960464"
+            InternalHMFQR="0.400000005960464" InternalLMFGainL="0.000000000000000"
+            InternalLMFGainR="0.000000000000000" InternalLMFFreqL="0.699999988079071"
+            InternalLMFFreqR="0.699999988079071" InternalLMFQL="0.400000005960464"
+            InternalLMFQR="0.400000005960464" InternalLFGainL="0.000000000000000"
+            InternalLFGainR="0.000000000000000" InternalLFFreqL="150.000000000000000"
+            InternalLFFreqR="150.000000000000000" InternalHFBellL="Off" InternalHFBellR="Off"
+            InternalLFBellL="Off" InternalLFBellR="Off" InternalBlackL="Off"
+            InternalBlackR="Off" InternalGainL="0.000000000000000" InternalGainR="0.000000000000000"
+            InternalVolumeL="0.000000000000000" InternalVolumeR="0.000000000000000"
+            InternalThresholdL="-7.788943290710449" InternalThresholdR="-7.788943290710449"
+            InternalRatioL="4.000000000000000" InternalRatioR="4.000000000000000"
+            InternalReleaseL="1.200000047683716" InternalReleaseR="1.200000047683716"
+            InternalFastL="On" InternalFastR="On" InternalPeakL="On" InternalPeakR="On"
+            InternalThresholdExpL="-30.000000000000000" InternalThresholdExpR="-30.000000000000000"
+            InternalRangeL="0.000000000000000" InternalRangeR="0.000000000000000"
+            InternalReleaseExpL="0.699999988079071" InternalReleaseExpR="0.699999988079071"
+            InternalFastExpL="Off" InternalFastExpR="Off" InternalExpL="Off"
+            InternalExpR="Off" InternalLink="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="10" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="3cfb7d5b-0aca-48f9-ae71-9b1d7ef3211a" ChainNodeConnectionID="1665459200"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalLink="On" InternalInputGainL="6.163749694824219" InternalInputGainR="6.163749694824219"
+            InternalOutputLevelL="-6.163749694824219" InternalOutputLevelR="-6.163749694824219"
+            InternalModeL="Tape1" InternalModeR="Tape1" InternalLimiter="Off"
+            InternalOversample="1X" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Slot3 Bypass="0" ChainID="7" ChainNodeID="11" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="3aa443b0-4228-472a-b598-b77bc1e9e52e" ChainNodeConnectionID="1665459200"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="0.500000000000000" FreqX01="150.000000000000000" FreqX12="1000.000000000000000"
+            FreqX23="6000.000000000000000" Attack="7.000000000000000" Release="150.000000000000000"
+            Bleed="0.500000000000000" DryWet="0.693906247615814" Output="0.500000000000000"
+            Band0IsActive="On" Band0Solo="Off" DriveBand0="0.402999997138977"
+            ColorBand0="0.580921888351440" TypeBand0="A" LevelBand0="2.716500282287598"
+            EnvDriveBand0="0.000000000000000" EnvColorBand0="0.000000000000000"
+            EnvLevelBand0="0.000000000000000" Band1IsActive="On" Band1Solo="Off"
+            DriveBand1="0.300000011920929" ColorBand1="0.300000011920929"
+            TypeBand1="A" LevelBand1="0.000000000000000" EnvDriveBand1="0.000000000000000"
+            EnvColorBand1="0.000000000000000" EnvLevelBand1="0.000000000000000"
+            Band2IsActive="On" Band2Solo="Off" DriveBand2="0.518187522888184"
+            ColorBand2="0.300000011920929" TypeBand2="A" LevelBand2="0.499875068664551"
+            EnvDriveBand2="0.241249918937683" EnvColorBand2="0.000000000000000"
+            EnvLevelBand2="0.000000000000000" Band3IsActive="On" Band3Solo="Off"
+            DriveBand3="0.550812542438507" ColorBand3="0.618812501430511"
+            TypeBand3="A" LevelBand3="1.053562164306641" EnvDriveBand3="0.000000000000000"
+            EnvColorBand3="0.000000000000000" EnvLevelBand3="0.000000000000000"
+            InternalLink1="Off" InternalLink2="Off" InternalLink3="Off" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot3>
+  <Info Type="Mixing" InstrumentType="Drums" Character="Distorted" Description="Bottom Snare"
+        ArtistName="El Brujo Caipo"/>
+</Preset>

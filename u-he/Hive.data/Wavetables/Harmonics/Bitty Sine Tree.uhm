@@ -1,0 +1,4 @@
+Info "Bit-reduced sine harmonic series"
+NumFrames=32
+Wave "sin(2*pi*phase*(frame+1))"
+Wave "round(2*x)" // bit-reduce

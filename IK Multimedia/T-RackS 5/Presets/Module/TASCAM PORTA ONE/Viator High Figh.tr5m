@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr5m" GUID="345ed2a4dfd24a5aba803d9c84c589b5">
+  <Slot Bypass="0" Model="4e9c68aa-4ddf-4365-942b-91db2a79dbf5">
+    <Module Input="0.840182244777679" Output="0.492876738309860" TapeType="TYPE II"
+            HFRecAdjust="0.582230925559998" HFPlayAdjust="0.561320185661316"
+            LFPlayAdjust="0.500000000000000" RecLevel="0.568298578262329"
+            InputRepro="Repro" BiasLevel="0.500000000000000" TrueStereo="On"
+            TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

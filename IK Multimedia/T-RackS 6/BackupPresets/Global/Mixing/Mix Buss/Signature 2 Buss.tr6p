@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="10" Version="2" Format="tr6p" GUID="0500bc1acff6481ba685c38892e89db0"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="8" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="ca93eab8-6501-43d5-8c6e-c1620c538692" ChainNodeConnectionID="-1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalGrit="Off" InternalAttackL="1 ms" InternalAttackR="1 ms"
+            InternalReleaseL="0.3 S" InternalReleaseR="0.3 S" InternalRatioL="10 dB"
+            InternalRatioR="10 dB" InternalThresholdL="16.067947387695312"
+            InternalThresholdR="16.067947387695312" InternalMakeUpL="2.501349925994873"
+            InternalMakeUpR="2.501349925994873" InternalSideChainHPFreqL="OFF"
+            InternalSideChainHPFreqR="OFF" InternalLink="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="9" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="94eb0063-0e75-4b44-931b-5ee056b66cf3" ChainNodeConnectionID="56982768"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalPhaseL="Off" InternalPhaseR="Off" InternalCompInL="Off"
+            InternalCompInR="Off" InternalEqInL="On" InternalEqInR="On" InternalFilterInL="Off"
+            InternalFilterInR="Off" InternalEqPreL="Off" InternalEqPreR="Off"
+            InternalEqSCL="Off" InternalEqSCR="Off" InternalFilterSCL="Off"
+            InternalFilterSCR="Off" InternalHPFreqL="30.000000000000000"
+            InternalHPFreqR="30.000000000000000" InternalLPFreqL="20.000000000000000"
+            InternalLPFreqR="20.000000000000000" InternalHFGainL="0.575625300407410"
+            InternalHFGainR="0.575625300407410" InternalHFFreqL="4.479531288146973"
+            InternalHFFreqR="4.479531288146973" InternalHMFGainL="0.000000000000000"
+            InternalHMFGainR="0.000000000000000" InternalHMFFreqL="2.099999904632568"
+            InternalHMFFreqR="2.099999904632568" InternalHMFQL="0.400000005960464"
+            InternalHMFQR="0.400000005960464" InternalLMFGainL="0.727969408035278"
+            InternalLMFGainR="0.727969408035278" InternalLMFFreqL="0.726843714714050"
+            InternalLMFFreqR="0.726843714714050" InternalLMFQL="0.418804705142975"
+            InternalLMFQR="0.418804705142975" InternalLFGainL="0.000000000000000"
+            InternalLFGainR="0.000000000000000" InternalLFFreqL="150.000000000000000"
+            InternalLFFreqR="150.000000000000000" InternalHFBellL="Off" InternalHFBellR="Off"
+            InternalLFBellL="Off" InternalLFBellR="Off" InternalGL="Off"
+            InternalGR="Off" InternalGainL="0.000000000000000" InternalGainR="0.000000000000000"
+            InternalVolumeL="0.000000000000000" InternalVolumeR="0.000000000000000"
+            InternalThresholdL="-10.000000000000000" InternalThresholdR="-10.000000000000000"
+            InternalRatioL="2.000000000000000" InternalRatioR="2.000000000000000"
+            InternalReleaseL="0.400000005960464" InternalReleaseR="0.400000005960464"
+            InternalFastL="Off" InternalFastR="Off" InternalPeakL="Off" InternalPeakR="Off"
+            InternalThresholdExpL="-30.000000000000000" InternalThresholdExpR="-30.000000000000000"
+            InternalHoldExpL="0.000000000000000" InternalHoldExpR="0.000000000000000"
+            InternalRangeL="0.000000000000000" InternalRangeR="0.000000000000000"
+            InternalReleaseExpL="0.699999988079071" InternalReleaseExpR="0.699999988079071"
+            InternalFastExpL="Off" InternalFastExpR="Off" InternalExpL="Off"
+            InternalExpR="Off" InternalLink="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="10" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="2ff300f6-19b9-4e5f-a38f-465571ea9372" ChainNodeConnectionID="56982768"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalInputL="+0.0" InternalInputR="+0.0" InternalCompThresholdL="+10"
+            InternalCompThresholdR="+10" InternalRatioL="2:1" InternalRatioR="2:1"
+            InternalGainL="+4" InternalGainR="+4" InternalCompRecoveryL="400ms"
+            InternalCompRecoveryR="400ms" InternalLimThresholdL="+13.5" InternalLimThresholdR="+13.5"
+            InternalLimRecoveryL="200ms" InternalLimRecoveryR="200ms" InternalOutputL="+1.5"
+            InternalOutputR="+1.5" InternalFastL="On" InternalFastR="On"
+            InternalCompInL="Off" InternalCompInR="Off" InternalLimInL="On"
+            InternalLimInR="On" InternalLink="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Info Type="Mixing" InstrumentType="Buss" Character="Modern" ArtistName="Thomas Warren"/>
+</Preset>

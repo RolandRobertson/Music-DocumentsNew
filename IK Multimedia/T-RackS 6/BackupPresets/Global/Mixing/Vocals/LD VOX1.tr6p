@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="8" Version="2" Format="tr6p" GUID="b94f013a6d3941238a915f6572e3e616"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="8" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="f5412485-f4cd-44ec-a652-689d34b68cfa" ChainNodeConnectionID="46772264"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Mode="1.000000000000000" InternalSoft="0.0" InternalFilterSlope="24dB/oct"
+            InternalBandNumber="3.0" InternalXFreq0="8071.699218750000000"
+            InternalXFreq1="11009.917968750000000" InternalDeEss="-15.000000000000000"
+            InternalRelease="74.496101379394531" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="9" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="8f82f2a4-3f53-4b5c-9abe-a0de656a532d" ChainNodeConnectionID="56982768"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module LM_Input="0.858750343322754" RS_Input="0.858750343322754" LM_Ratio="3.860483169555664"
+            RS_Ratio="3.860483169555664" LM_Attack="0.000000000000000" RS_Attack="0.000000000000000"
+            LM_Release="250.000000000000000" RS_Release="250.000000000000000"
+            LM_Compression="2.990937232971191" RS_Compression="2.990937232971191"
+            LM_Output="3.311751365661621" RS_Output="3.311751365661621" MeterMode="4 dB"
+            Link="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="11" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="15f9be4b-16bb-4c5f-9c4e-46644abf94d1" ChainNodeConnectionID="56982768"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalPhaseL="Off" InternalPhaseR="Off" InternalCompInL="Off"
+            InternalCompInR="Off" InternalEqInL="On" InternalEqInR="On" InternalFilterInL="Off"
+            InternalFilterInR="Off" InternalEqPreL="Off" InternalEqPreR="Off"
+            InternalEqSCL="Off" InternalEqSCR="Off" InternalFilterSCL="Off"
+            InternalFilterSCR="Off" InternalHPFreqL="30.000000000000000"
+            InternalHPFreqR="30.000000000000000" InternalLPFreqL="20.000000000000000"
+            InternalLPFreqR="20.000000000000000" InternalHFGainL="0.703125000000000"
+            InternalHFGainR="0.703125000000000" InternalHFFreqL="4.300000190734863"
+            InternalHFFreqR="4.300000190734863" InternalHMFGainL="-1.278280019760132"
+            InternalHMFGainR="-1.278280019760132" InternalHMFFreqL="2.404062509536743"
+            InternalHMFFreqR="2.404062509536743" InternalHMFQL="0.438679695129395"
+            InternalHMFQR="0.438679695129395" InternalLMFGainL="0.587344765663147"
+            InternalLMFGainR="0.587344765663147" InternalLMFFreqL="0.638812482357025"
+            InternalLMFFreqR="0.638812482357025" InternalLMFQL="0.369615644216537"
+            InternalLMFQR="0.369615644216537" InternalLFGainL="0.543749928474426"
+            InternalLFGainR="0.543749928474426" InternalLFFreqL="150.000000000000000"
+            InternalLFFreqR="150.000000000000000" InternalHFBellL="Off" InternalHFBellR="Off"
+            InternalLFBellL="Off" InternalLFBellR="Off" InternalBlackL="Off"
+            InternalBlackR="Off" InternalGainL="0.000000000000000" InternalGainR="0.000000000000000"
+            InternalVolumeL="0.000000000000000" InternalVolumeR="0.000000000000000"
+            InternalThresholdL="-10.000000000000000" InternalThresholdR="-10.000000000000000"
+            InternalRatioL="4.000000000000000" InternalRatioR="4.000000000000000"
+            InternalReleaseL="1.200000047683716" InternalReleaseR="1.200000047683716"
+            InternalFastL="Off" InternalFastR="Off" InternalPeakL="Off" InternalPeakR="Off"
+            InternalThresholdExpL="-30.000000000000000" InternalThresholdExpR="-30.000000000000000"
+            InternalRangeL="0.000000000000000" InternalRangeR="0.000000000000000"
+            InternalReleaseExpL="0.699999988079071" InternalReleaseExpR="0.699999988079071"
+            InternalFastExpL="Off" InternalFastExpR="Off" InternalExpL="Off"
+            InternalExpR="Off" InternalLink="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Info Type="Vocal" Character="Compressed" ArtistName="Thomas Warren"/>
+</Preset>

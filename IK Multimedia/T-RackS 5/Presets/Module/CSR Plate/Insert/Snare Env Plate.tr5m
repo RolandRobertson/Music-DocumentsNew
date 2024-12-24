@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="1a81dfdd2f42487f821a3f1d9075c4d7">
+  <Slot Bypass="0" Model="06aa7251-968f-4c1e-a267-c414dc9f06ed">
+    <Module InLevel="0" OutLevel="0" Mix="26" InImage="45" OutImage="45"
+            RvbTime="51" LowTime="1.20000004768372" Crossover="11432" HighFreq="17562"
+            HighDamp="24" PreDelay="0" Size="25.3999996185303" Diffusion="52"
+            Buildup="0" Disperse="89" Modulation="16" LoCutF="1000" LoCutG="0"
+            HiCutF="20000" HiCutG="0" TimeLeft="0" LevelLeft="-8.4040994644165"
+            TimeRight="0" LevelRight="-8.6357307434082" EchoTimeLeft="0"
+            EchoFeedLeft="0" EchoTimeRight="0" EchoFeedRight="0" Mod1Source="None"
+            Mod1Destination="InLevel" Mod1Min="0" Mod1Max="100" Mod1Curve="Lin"
+            Mod2Source="None" Mod2Destination="InLevel" Mod2Min="0" Mod2Max="100"
+            Mod2Curve="Lin" Mod3Source="None" Mod3Destination="InLevel" Mod3Min="0"
+            Mod3Max="100" Mod3Curve="Lin" Mod4Source="None" Mod4Destination="InLevel"
+            Mod4Min="0" Mod4Max="100" Mod4Curve="Lin" Mod5Source="None" Mod5Destination="InLevel"
+            Mod5Min="0" Mod5Max="100" Mod5Curve="Lin" Mod6Source="None" Mod6Destination="InLevel"
+            Mod6Min="0" Mod6Max="100" Mod6Curve="Lin" Mod7Source="None" Mod7Destination="InLevel"
+            Mod7Min="0" Mod7Max="100" Mod7Curve="Lin" Mod8Source="None" Mod8Destination="InLevel"
+            Mod8Min="0" Mod8Max="100" Mod8Curve="Lin" LFO1_Type="Sin" LFO1_Rate="0.100000001490116"
+            LFO2_Type="Sin" LFO2_Rate="0.100000001490116" Env1_Input="InS"
+            Env1_Gain="23.8999996185303" Env1_Attack="1" Env1_Release="48"
+            Env2_Input="InS" Env2_Gain="10" Env2_Attack="40" Env2_Release="80"
+            Macro1_Source="Macro1" Macro1_Destination="HighFreq" Macro1_Min="1"
+            Macro1_Max="1" Macro1_Curve="Lin" Macro2_Source="Macro1" Macro2_Destination="Crossover"
+            Macro2_Min="1" Macro2_Max="1" Macro2_Curve="Lin" Macro3_Source="Macro1"
+            Macro3_Destination="Disperse" Macro3_Min="1" Macro3_Max="1" Macro3_Curve="Lin"
+            Macro4_Source="Macro1" Macro4_Destination="Size" Macro4_Min="1"
+            Macro4_Max="1" Macro4_Curve="Lin" Macro5_Source="None" Macro5_Destination="InLevel"
+            Macro5_Min="0" Macro5_Max="1" Macro5_Curve="Lin" Macro6_Source="None"
+            Macro6_Destination="InLevel" Macro6_Min="0" Macro6_Max="1" Macro6_Curve="Lin"
+            Macro7_Source="None" Macro7_Destination="InLevel" Macro7_Min="0"
+            Macro7_Max="1" Macro7_Curve="Lin" Macro8_Source="None" Macro8_Destination="InLevel"
+            Macro8_Min="0" Macro8_Max="1" Macro8_Curve="Lin" Macro1="108"
+            Macro2="64" Macro3="64" Macro4="64" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

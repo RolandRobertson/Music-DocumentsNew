@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="1f5341af87794d9eb1a3c3b059d5414b">
+  <Slot Bypass="0" Model="2381adbc-cd9a-42e6-8b52-a8e539c9ef69">
+    <Module InternalDelayMode="B" InternalMeterMode="Out" InternalBPMSync="On"
+            InternalInputLevel="2.76922988891602" InternalDelayTimeA="491.803009033203"
+            InternalDelayTimeB="245.901992797852" InternalDelayBPMSyncA="1/4"
+            InternalDelayBPMSyncB="1/4" InternalVolumeA="2.16922998428345"
+            InternalVolumeB="4.4461498260498" InternalSustainA="2.72307991981506"
+            InternalSustainB="4.13847017288208" InternalRecLevel="7.69230985641479"
+            InternalTapeWear="10" InternalWowFlutter="2" InternalNoise="4.46154022216797"
+            CurrentChannel="R|S" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

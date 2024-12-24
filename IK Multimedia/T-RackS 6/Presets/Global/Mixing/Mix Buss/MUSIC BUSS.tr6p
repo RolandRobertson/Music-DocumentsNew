@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="9" Version="2" Format="tr6p" GUID="05568c7def904f35a79ffec431d44bb9"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="11" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="c06d8540-2906-4183-9557-22b7c6b66e2e" ChainNodeConnectionID="11"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalRange="12dB" InternalOutputL="0" InternalOutputR="0"
+            InternalLowShiftL="Off" InternalLowShiftR="Off" InternalHiGainL="0.0"
+            InternalHiGainR="0.0" InternalLowGainL="0.0" InternalLowGainR="0.0"
+            InternalPeak1GainL="+1.0 / +0.5 / +0.5" InternalPeak1GainR="+1.0 / +0.5 / +0.5"
+            InternalPeak1FreqL="2000Hz" InternalPeak1FreqR="2000Hz" InternalPeak1QL="6"
+            InternalPeak1QR="6" InternalPeak2GainL="+1.0 / +0.5 / +0.5" InternalPeak2GainR="+1.0 / +0.5 / +0.5"
+            InternalPeak2FreqL="10kHz" InternalPeak2FreqR="10kHz" InternalPeak2QL="6"
+            InternalPeak2QR="6" InternalPeak3GainL="-1.0 / -0.5 / -0.5" InternalPeak3GainR="-1.0 / -0.5 / -0.5"
+            InternalPeak3FreqL="100Hz" InternalPeak3FreqR="100Hz" InternalPeak3QL="5"
+            InternalPeak3QR="5" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="9" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="9bf8f653-6921-4814-be3f-d741df4b2f2d" ChainNodeConnectionID="9"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module ChannelLink="1.0" InputL="1.114573836326599" InputR="1.114573836326599"
+            ThresholdL="4.1" ThresholdR="4.1" AttackL="4.721093654632568"
+            AttackR="4.721093654632568" ReleaseL="4.000000000000000" ReleaseR="4.000000000000000"
+            OutputL="1.781326770782471" OutputR="1.781326770782471" HardL="0.000000000000000"
+            HardR="0.000000000000000" HPSideChL="0.000000000000000" HPSideChR="0.000000000000000"
+            Link="1.0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Mixing" InstrumentType="Buss" Character="Modern" ArtistName="Thomas Warren"/>
+</Preset>

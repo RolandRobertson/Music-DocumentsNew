@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="21" Version="2" Format="tr6p" GUID="318659504d7148b6abe1a1903e687732"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="21" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="0f0c32b2-fee4-4ff1-923b-80836658384d" ChainNodeConnectionID="-94330880"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="0.000000000000000" LoFi="0.467359364032745" Type="Type1"
+            Filter="0.000000000000000" Drive="0.486355483531952" Pitch="0.000000000000000"
+            Compression="0.490296840667725" Output="-3.064219474792480" Hardness="Hard"
+            Noise="0.000000000000000" Wow="0.000000000000000" Flutter="0.000000000000000"
+            DryWet="0.534488320350647" Width="0.000000000000000" CurrentChannel="="
+            ChannelMode="L/R" AdditionalCustomData_LastTouchedParameter="7"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="22" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="90f10378-05ce-4139-a75e-a91a76e1fc8e" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module SideChainHPF="77.4" AttackTime="22.1" ReleaseTime="650.6" StereoEnhancement="0.0"
+            Ratio="3.099999904632568" InputDrive="-3.299999952316284" Output="0.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="23" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="2ef25657-0b4c-442b-9d63-fb7380a77241" ChainNodeConnectionID="-94330880"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalHiL="+2.0" InternalHiR="+2.0" InternalHiFreqL="2.5kHz"
+            InternalHiFreqR="2.5kHz" InternalHiMidL="0.0" InternalHiMidR="0.0"
+            InternalHiMidFreqL="5kHz" InternalHiMidFreqR="5kHz" InternalLowMidL="0.0"
+            InternalLowMidR="0.0" InternalLowMidFreqL="500Hz" InternalLowMidFreqR="500Hz"
+            InternalLowL="+1.0" InternalLowR="+1.0" InternalLowFreqL="50Hz"
+            InternalLowFreqR="50Hz" InternalGainL="0.000000000000000" InternalGainR="0.000000000000000"
+            InternalOutputL="0.000000000000000" InternalOutputR="0.000000000000000"
+            InternalHiShelfL="On" InternalHiShelfR="On" InternalLowShelfL="Off"
+            InternalLowShelfR="Off" InternalEqInL="On" InternalEqInR="On"
+            InternalPreampL="Off" InternalPreampR="Off" InternalPhaseL="Off"
+            InternalPhaseR="Off" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Info Type="Mixing" InstrumentType="Bass" Character="Distorted" Description="Bass with Overdrive"
+        ArtistName="El Brujo Caipo"/>
+</Preset>

@@ -1,0 +1,9 @@
+// by Howard Scarr
+
+Info "5 frames of brightness. Use spectral fade, slow scan."
+
+NumFrames = 5
+Seed = 2
+Wave "1-2*rand"
+Spectrum lowest=0 highest=0 "0"
+Normalize base=each

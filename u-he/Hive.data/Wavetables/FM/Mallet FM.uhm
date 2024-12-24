@@ -1,0 +1,6 @@
+// by Howard Scarr
+
+Info "Modulate Position with envelope / rapid decay, velocity"
+
+Wave "sin(2*pi*phase) + sin(2*pi*(phase*4 + sin(2*pi*(phase*7)) * table*table))"
+Phase "rands*2*pi - pi" // randomize phases

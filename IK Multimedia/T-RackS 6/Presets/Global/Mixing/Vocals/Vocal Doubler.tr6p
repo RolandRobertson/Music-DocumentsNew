@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="15" Version="2" Format="tr6p" GUID="119efe8a45af49a6aee953f680620de6"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="17" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="c2453203-9fff-4466-b060-2ac916b1c160" ChainNodeConnectionID="-723440640"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module GainInputLM="0.044887412339449" GainInputRS="0.044887412339449"
+            GainOutputLM="0.133704185485840" GainOutputRS="0.133704185485840"
+            RatioLM="4" RatioRS="4" AttackLM="6.806990623474121" AttackRS="6.806990623474121"
+            ReleaseLM="6.238461017608643" ReleaseRS="6.238461017608643" MeterMode="GR"
+            DisableGainReduction="0.000000000000000" Link="1.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="15" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="213813f3-a81d-4baf-8add-591fadfb0425" ChainNodeConnectionID="-723440640"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Spring="0.000000000000000" SlowSpeed="-0.486873626708984" FastSpeed="-10.486875534057617"
+            MicDistance="0.000000000000000" Acceleration="1.283990263938904"
+            Deceleration="2.673619985580444" Gain122="0.377777785062790"
+            Gain122A="0.377777785062790" Gain147="0.422222256660461" G37Gain="0.000000000000000"
+            InputHPF="88.605308532714844" Mid="0.500000000000000" Volume122="0.344444423913956"
+            Volume122A="0.377777785062790" Volume147="0.388888895511627"
+            Volume3300W="0.449999988079071" VolumeG37="0.500000000000000"
+            Low="0.500000000000000" High="0.500000000000000" TubeDrive="0.000000000000000"
+            TubeMode="0.500000000000000" Contour="0.500000000000000" HighFreq="4000.000000000000000"
+            MidFreq="1000.000000000000000" LowFreq="100.000000000000000"
+            MidQ="1.000000000000000" HighGain="0.000000000000000" MidGain="0.000000000000000"
+            LowGain="0.000000000000000" Speed="1.000000000000000" Brake="0.000000000000000"
+            LinkHorn="1.000000000000000" LinkDrum="0.000000000000000" GainHornL="0.000000000000000"
+            GainHornR="0.000000000000000" PanHornL="1.0L" PanHornR="1.0R"
+            GainDrumL="0.000000000000000" GainDrumR="0.000000000000000" PanDrumL="1.0L"
+            PanDrumR="1.0R" Output="0.000000000000000" PageMode="Eq Page"
+            Cabs="122" Amps="122" Angle="90" AmpMatch="1.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="16" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="3af5cbd7-b08d-4ff7-8bc5-6868fb30e5c7" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalCurrentBand="1.000000000000000" InternalLink="Off" InternalFilterSlope="12dB/oct"
+            InternalXFreq0="150.000000000000000" InternalXFreq1="1000.000000000000000"
+            InternalXFreq2="6000.000000000000000" InternalMVol="0.000000000000000"
+            InternalBandNumber="4.0" InternalBand0Bypass="Off" InternalBand0IsOn="On"
+            InternalBand0Width="1.000000000000000" InternalBand0Gain="0.000000000000000"
+            InternalBand1Bypass="Off" InternalBand1IsOn="On" InternalBand1Width="1.326424837112427"
+            InternalBand1Gain="0.000000000000000" InternalBand2Bypass="Off"
+            InternalBand2IsOn="On" InternalBand2Width="1.000000000000000"
+            InternalBand2Gain="0.000000000000000" InternalBand3Bypass="Off"
+            InternalBand3IsOn="On" InternalBand3Width="1.699481844902039"
+            InternalBand3Gain="6.213279724121094" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Info Type="Vocal" Character="Vintage" ArtistName="El Brujo Caipo"/>
+</Preset>

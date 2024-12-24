@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="6313e34f08c0427b89d3ad9b6fd03373">
+  <Slot Bypass="0" Model="1577951d-77c5-46f8-a617-8c05666dcfcd">
+    <Module LM_BoostLow="0" RS_BoostLow="0" LM_AttenLow="0" RS_AttenLow="0"
+            LM_BoostHigh="3.09999990463257" RS_BoostHigh="3.09999990463257"
+            LM_AttenHigh="0" RS_AttenHigh="0" LM_AttenSel="5" RS_AttenSel="5"
+            LM_CPS="30" RS_CPS="30" LM_Bandwidth="4" RS_Bandwidth="4" LM_KCS="4"
+            RS_KCS="4" LM_Output="5.09999990463257" RS_Output="5.09999990463257"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

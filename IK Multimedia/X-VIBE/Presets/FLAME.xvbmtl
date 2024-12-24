@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1" Format="xvbmtl" GUID="641733e8-dbaa-4581-a27e-85384b318ca7">
+  <Model Type="Stomp" GUID="6db46983-d9ff-4ebf-a1eb-d59789bdd501">
+    <Parameters Algo="11.0" expression_enable="0.0" bpm_mode="0.0" BPMSync="0.0"
+                bpm="55.0" CabSim="0.0" cab_model_A="0.0" cab_model_B="0.0" METALLIC_SPEED="25.0"
+                METALLIC_SPEED_ts="15.0" METALLIC_DEPTH="54.0" METALLIC_BASS="0.0"
+                METALLIC_MID="0.0" METALLIC_TREBLE="0.0" METALLIC_REGEN="80.0"
+                METALLIC_MANUAL="8.5" METALLIC_MID_Q="0.4000000059604645" METALLIC_MID_FREQ="1000.0"
+                METALLIC_MIX="100.0" METALLIC_X-MODE="0.0" METALLIC_SPEED_A="30.0"
+                METALLIC_SPEED_ts_A="8.0" METALLIC_DEPTH_A="50.0" METALLIC_BASS_A="0.0"
+                METALLIC_MID_A="0.0" METALLIC_TREBLE_A="0.0" METALLIC_REGEN_A="80.0"
+                METALLIC_MANUAL_A="3.0" METALLIC_MID_Q_A="0.4000000059604645"
+                METALLIC_MID_FREQ_A="1000.0" METALLIC_MIX_A="100.0" METALLIC_X-MODE_A="0.0"
+                METALLIC_SPEED_B="30.0" METALLIC_SPEED_ts_B="8.0" METALLIC_DEPTH_B="50.0"
+                METALLIC_BASS_B="0.0" METALLIC_MID_B="0.0" METALLIC_TREBLE_B="0.0"
+                METALLIC_REGEN_B="80.0" METALLIC_MANUAL_B="3.0" METALLIC_MID_Q_B="0.4000000059604645"
+                METALLIC_MID_FREQ_B="1000.0" METALLIC_MIX_B="100.0" METALLIC_X-MODE_B="0.0"/>
+  </Model>
+</Preset>

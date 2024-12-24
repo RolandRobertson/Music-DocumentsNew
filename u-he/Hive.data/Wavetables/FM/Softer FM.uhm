@@ -1,0 +1,81 @@
+/*******************************************************
+
+	Example script creating a wavetable based on FM
+
+	We're using auxiliary wavetable buffers 1 & 2
+	to create an envelope and a Modulator signal as
+	intermediate results.
+
+
+*******************************************************/
+
+Info "Simple FM example"
+
+//------------------------------------------------------
+//
+//	set number of frames to 101 (0-100)
+//
+//------------------------------------------------------
+
+
+	NumFrames = 101
+
+
+//------------------------------------------------------
+//
+//
+//	The Envelope
+//
+//	in buffer "aux2", for each frame create
+//	a value that we will then use as envelope
+//
+//	The variable "table" goes from 0.0 to 1.0
+//	when the first frame is processed it's always 0.0
+//	when the last frame is processed it's always 1.0
+//
+//------------------------------------------------------
+
+
+	Wave target=aux2 "table*table*1.5"
+
+
+//------------------------------------------------------
+//
+//	The Modulator
+//
+//	Create a simple sine at index 1 in buffer "aux2"
+//
+//	The variable "phase" goes from 0.0 to 1.0 each time
+//	a frame is processed
+//
+//------------------------------------------------------
+
+
+	Wave target=aux1 "sin(2*pi*(phase*1))"
+
+
+//------------------------------------------------------
+//
+//	The Carrier + FM
+//
+//	Create a simple sine at index 1 (fundamental)
+//
+//	Add the modulator from aux1 to the phase,
+//	multiplied by the envelope in aux2
+//
+//------------------------------------------------------
+
+
+	Wave "sin(2*pi*(phase*1 + aux1 * aux2))"
+
+
+
+//------------------------------------------------------
+//
+//	One-Line-Alternative
+//
+//	Wave "sin(2*pi*(phase*1 + sin(2*pi*(phase*8)) * table*table*1.5))"
+//
+//	This would work as well, but is less readable
+//
+//------------------------------------------------------

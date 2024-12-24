@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="9" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="0f2f6dc05253444eb5f3843b34459ff9" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="9" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="fc5afb1a-4ef2-49bb-ad7f-336d8f73ab42" ChainNodeConnectionID="1803906800"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalLM_Band1Hz="16.000000000000000" InternalLM_Band1Active="0"
+            InternalLM_Band2Gain="0.000000000000000" InternalLM_Band2Active="0"
+            InternalLM_Band2Hz="100.000000000000000" InternalLM_Band3Gain="0.000000000000000"
+            InternalLM_Band3Active="0" InternalLM_Band3Hz="350.000000000000000"
+            InternalLM_Band3Q_Float="0.699999988079071" InternalLM_Band4Gain="2.000000000000000"
+            InternalLM_Band4Active="1" InternalLM_Band4Hz="3000.000000000000000"
+            InternalLM_Band4Q_Float="0.422611951828003" InternalLM_Band5Gain="0.000000000000000"
+            InternalLM_Band5Active="0" InternalLM_Band5Hz="5000.000000000000000"
+            InternalLM_Band6Hz="10000.000000000000000" InternalLM_Band6Active="1"
+            InternalLM_OutputLevel="0.000000000000000" InternalRS_Band1Hz="16.000000000000000"
+            InternalRS_Band1Active="0" InternalRS_Band2Gain="0.000000000000000"
+            InternalRS_Band2Active="0" InternalRS_Band2Hz="100.000000000000000"
+            InternalRS_Band3Gain="0.000000000000000" InternalRS_Band3Active="0"
+            InternalRS_Band3Hz="350.000000000000000" InternalRS_Band3Q_Float="0.699999988079071"
+            InternalRS_Band4Gain="2.000000000000000" InternalRS_Band4Active="1"
+            InternalRS_Band4Hz="3000.000000000000000" InternalRS_Band4Q_Float="0.422611951828003"
+            InternalRS_Band5Gain="0.000000000000000" InternalRS_Band5Active="0"
+            InternalRS_Band5Hz="5000.000000000000000" InternalRS_Band6Hz="10000.000000000000000"
+            InternalRS_Band6Active="1" InternalRS_OutputLevel="0.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="8" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="cf4ccc69-906b-42f3-9cd6-7eccbf833587" ChainNodeConnectionID="1648549216"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="9.000000000000000" Output="-9.000000000000000" Speed="15"
+            TapeType="250" HFRecAdjust="0.500000000000000" HFPlayAdjust="0.500000000000000"
+            LFPlayAdjust="0.500000000000000" RecLevel="0.500000000000000"
+            PlayLevel="0.500000000000000" BiasLevel="0.500000000000000" InputRepro="Repro"
+            TrueStereo="On" TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Instruments" InstrumentType="Bass" Character="Modern" Genre="House"
+        ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

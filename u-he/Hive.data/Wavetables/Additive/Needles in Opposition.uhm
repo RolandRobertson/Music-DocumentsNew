@@ -1,0 +1,9 @@
+// by Howard Scarr
+
+NumFrames=16
+
+Info "3 overtones moving with different rates / directions"
+
+Wave "sin(2*pi*phase*(frame+1)) * sin(2*pi*phase*(frame*3)+1) * sin(2*pi*phase*abs(frame-16))"
+Wave "x + x*abs(x)" // brighten a bit
+

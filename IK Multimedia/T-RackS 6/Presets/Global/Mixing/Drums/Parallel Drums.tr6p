@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="42" Version="2" Format="tr6p" GUID="fd3b32be748047c69ac1c6510555d7a6"
+        Factory="true">
+  <Slot0 ChainID="7" ChainNodeID="-5" ChainNodeNodeType="1" ChainNodeConnectionID="51"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0"/>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="42" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="ca93eab8-6501-43d5-8c6e-c1620c538692" ChainNodeConnectionID="32"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalGrit="On" InternalAttackL="3 ms" InternalAttackR="3 ms"
+            InternalReleaseL="0.3 S" InternalReleaseR="0.3 S" InternalRatioL="2 dB"
+            InternalRatioR="2 dB" InternalThresholdL="1.988574981689453"
+            InternalThresholdR="1.988574981689453" InternalMakeUpL="1.471974849700928"
+            InternalMakeUpR="1.471974849700928" InternalSideChainHPFreqL="250 Hz"
+            InternalSideChainHPFreqR="250 Hz" InternalLink="Off" CurrentChannel="="
+            ChannelMode="M/S"/>
+  </Slot1>
+  <Slot2 ChainID="7" ChainNodeID="-4" ChainNodeNodeType="2" ChainNodeConnectionID="51"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0"/>
+  <Slot3 Bypass="0" ChainID="51" ChainNodeID="49" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="53821d50-c1d9-4265-9ee9-f8814883a7dd" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module LinkCh="0.000000000000000" OpticalWasPressed="0.000000000000000"
+            GBModeL="0.000000000000000" GBModeR="0.000000000000000" InputL="5.949218750000000"
+            InputR="5.949218750000000" AttackL="0.949375033378601" AttackR="0.949375033378601"
+            ReleaseL="0.551406264305115" ReleaseR="0.551406264305115" OutputL="4.496875286102295"
+            OutputR="4.496875286102295" DryWetL="100.000000000000000" DryWetR="100.000000000000000"
+            RatioL="3/1" RatioR="3/1" SideHPFreqL="10.000000000000000" SideHPFreqR="10.000000000000000"
+            SideBandFreqL="20.000000000000000" SideBandFreqR="20.000000000000000"
+            SideBellL="0.000000000000000" SideBellR="0.000000000000000" HPL="0.000000000000000"
+            HPR="0.000000000000000" DistL="NoDist" DistR="NoDist" ToneL="0.000000000000000"
+            ToneR="0.000000000000000" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot3>
+  <Info Type="Mixing" Character="Compressed"/>
+</Preset>

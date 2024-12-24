@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="9c243f3ee3c44d998eeae025615bf7c8" Factory="true">
+  <Slot Bypass="0" Model="8d12d339-e843-4e4d-8302-8139c9376117">
+    <Module LM_SourceMicModel="iRIG MIC STUDIO" RS_SourceMicModel="iRIG MIC STUDIO"
+            LM_TargetMicModel="RIBBON 121" RS_TargetMicModel="RIBBON 121"
+            LM_InputGain="0.98461502790451" RS_InputGain="0.98461502790451"
+            LM_Proximity="0" RS_Proximity="0" LM_Harmonics="0" RS_Harmonics="0"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Vocal" ArtistName="IK Multimedia"/>
+</Preset>

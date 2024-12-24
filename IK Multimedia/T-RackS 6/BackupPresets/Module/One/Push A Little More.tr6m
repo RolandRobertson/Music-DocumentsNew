@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="11694138fa34477e930ff0cce998a4f1" Factory="true">
+  <Slot Bypass="0" Model="3185ca52-e6ce-42f1-a04a-a4c91f3a2f69">
+    <Module Air="0.614482045173645" Focus="2.83488798141479" Push="4.49636459350586"
+            Body="-0.961134195327759" Width="0.282319068908691" Volume="3.25852298736572"
+            Transient="1.7964448928833" Analog="0" BassPunch="0.262364506721497"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mastering" ArtistName="IK Multimedia"/>
+</Preset>

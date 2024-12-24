@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="fc46f5f1477d4d0db9f52df831a44716" Factory="true">
+  <Slot Bypass="0" Model="8d12d339-e843-4e4d-8302-8139c9376117">
+    <Module LM_SourceMicModel="DYNAMIC 57" RS_SourceMicModel="DYNAMIC 57"
+            LM_TargetMicModel="RIBBON 121" RS_TargetMicModel="RIBBON 121"
+            LM_InputGain="1.47692000865936" RS_InputGain="1.47692000865936"
+            LM_Proximity="0" RS_Proximity="0" LM_Harmonics="3.02564001083374"
+            RS_Harmonics="3.02564001083374" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Instruments" ArtistName="IK Multimedia"/>
+</Preset>

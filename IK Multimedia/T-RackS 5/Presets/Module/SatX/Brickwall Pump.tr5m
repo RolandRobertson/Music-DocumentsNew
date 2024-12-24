@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="0f9c485ed4984ea7868b84c675155043">
+  <Slot Bypass="0" Model="3cfb7d5b-0aca-48f9-ae71-9b1d7ef3211a">
+    <Module InternalInputGainL="40" InternalInputGainR="40" InternalOutputLevelL="-40"
+            InternalOutputLevelR="-40" InternalModeL="TransformerIron" InternalModeR="TransformerIron"
+            InternalLimiter="On" InternalOversample="1X" InternalLink="Off"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

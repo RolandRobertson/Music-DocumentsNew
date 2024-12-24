@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="0434c51a6c694239b52a2fa2af8b66ec" Factory="true">
+  <Slot Bypass="0" Model="15f9be4b-16bb-4c5f-9c4e-46644abf94d1">
+    <Module InternalPhaseL="Off" InternalPhaseR="Off" InternalCompInL="On"
+            InternalCompInR="On" InternalEqInL="On" InternalEqInR="On" InternalFilterInL="Off"
+            InternalFilterInR="Off" InternalEqPreL="Off" InternalEqPreR="Off"
+            InternalEqSCL="Off" InternalEqSCR="Off" InternalFilterSCL="Off"
+            InternalFilterSCR="Off" InternalHPFreqL="30.0200004577637" InternalHPFreqR="30.0200004577637"
+            InternalLPFreqL="19.9949989318848" InternalLPFreqR="19.9949989318848"
+            InternalHFGainL="0" InternalHFGainR="0" InternalHFFreqL="4.25"
+            InternalHFFreqR="4.25" InternalHMFGainL="0" InternalHMFGainR="0"
+            InternalHMFFreqL="2.14999985694885" InternalHMFFreqR="2.14999985694885"
+            InternalHMFQL="0.400000005960464" InternalHMFQR="0.400000005960464"
+            InternalLMFGainL="-2.99940013885498" InternalLMFGainR="-2.99940013885498"
+            InternalLMFFreqL="0.699999988079071" InternalLMFFreqR="0.699999988079071"
+            InternalLMFQL="1.49899995326996" InternalLMFQR="1.49899995326996"
+            InternalLFGainL="0" InternalLFGainR="0" InternalLFFreqL="150"
+            InternalLFFreqR="150" InternalHFBellL="Off" InternalHFBellR="Off"
+            InternalLFBellL="Off" InternalLFBellR="Off" InternalBlackL="On"
+            InternalBlackR="On" InternalGainL="0" InternalGainR="0" InternalVolumeL="0"
+            InternalVolumeR="0" InternalThresholdL="-17.9854774475098" InternalThresholdR="-17.9854774475098"
+            InternalRatioL="5.99959993362427" InternalRatioR="5.99959993362427"
+            InternalReleaseL="0.211625993251801" InternalReleaseR="0.211625993251801"
+            InternalFastL="On" InternalFastR="On" InternalPeakL="On" InternalPeakR="On"
+            InternalThresholdExpL="-29.9953842163086" InternalThresholdExpR="-29.9953842163086"
+            InternalRangeL="0.00399999972432852" InternalRangeR="0.00399999972432852"
+            InternalReleaseExpL="0.699999988079071" InternalReleaseExpR="0.699999988079071"
+            InternalFastExpL="Off" InternalFastExpR="Off" InternalExpL="Off"
+            InternalExpR="Off" InternalLink="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Instruments" ArtistName="IK Multimedia"/>
+</Preset>

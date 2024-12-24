@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="cc11612a960a438b9b3873568d219e17"
+        Factory="true">
+  <Info Type="Effects" Keywords="Filtered Grooves" InstrumentType="Texture"
+        Character="Soft Saturate" ArtistName="IK Multimedia"/>
+  <Slot Model="09cb9685-b5e0-42cb-b68b-3076beb1621f" Bypass="0">
+    <Module Step="0.000000000000000" Env="0.421875000000000" LFO="0.578125000000000"
+            Input="0.000000000000000" DryWet="0.779142320156097" Output="0.000000000000000"
+            Frequency="2152.686035156250000" Resonance="0.297271728515625"
+            Drive="0.372529774904251" Width="0.000000000000000" EnvSensitivity="0.357387453317642"
+            EnvAttack="0.000000000000000" EnvDecay="0.340168952941895" CutoffAmount="1.000000000000000"
+            ResonanceAmount="-0.625078141689301" DriveAmount="0.449694871902466"
+            Wave="3.000000000000000" BPM="120.000000000000000" FadeIn="0.000000000000000"
+            Step01="0.000000000000000" Step02="-0.001757740974426" Step03="0.000000000000000"
+            Step04="0.000000000000000" Step05="0.000000000000000" Step06="0.000000000000000"
+            Step07="0.000000000000000" Step08="0.000000000000000" Step09="0.000000000000000"
+            Step10="0.000000000000000" Step11="0.000000000000000" Step12="0.000000000000000"
+            Step13="0.000000000000000" Step14="0.000000000000000" Step15="0.000000000000000"
+            Step16="0.000000000000000" Type="3.000000000000000" Sync="On"
+            NumOfStep="16.000000000000000" LFORate="1.000000000000000" StepMode="FWR"
+            LFOSync="On" LFORateSync="1/32D" LFORetrig="On" StepDivision="1/16"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

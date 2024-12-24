@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="b13363f2528a412387e4deccde898f9e"
+        Factory="true">
+  <Info Type="Instruments" InstrumentType="Drums" Character="Clean" Genre="Pop"
+        ArtistName="Jack Miele"/>
+  <Slot Model="ef1b97ea-2450-40df-a52f-3a38f7b549a3" Bypass="0">
+    <Module Input="1.444089889526367" Vintage="On" DeEsser="0.000000000000000"
+            DeEsserAB="Off" EQ="0.318575114011765" EQPost="Off" Compression="0.396016895771027"
+            Fast="On" Transient="0.719804644584656" Output="1.215219497680664"
+            StereoEnhance="0.000000000000000" MonoMaker="100.000000000000000"
+            Band1Freq="61.935405731201172" Band1Gain="-15.000000000000000"
+            Band2Freq="112.861297607421875" Band2Gain="9.255319595336914"
+            Band2Q="0.699999988079071" Band3Freq="208.550827026367188" Band3Gain="-8.936170578002930"
+            Band3Q="0.699999988079071" Band4Freq="941.363281250000000" Band4Gain="0.638298034667969"
+            Band4Q="0.699999988079071" Band5Freq="2997.694824218750000" Band5Gain="10.851063728332520"
+            Band5Q="0.699999988079071" Band6Freq="12976.307617187500000"
+            Band6Gain="-15.000000000000000" CurrentChannel="=" ChannelMode="L/R"
+            AdditionalCustomData_EqSelectedBand="4"/>
+  </Slot>
+</Preset>

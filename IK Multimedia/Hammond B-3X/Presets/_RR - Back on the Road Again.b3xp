@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset HammondVolume="0.0" VibratoSwell="1.0" VibratoGreat="1.0" VibratoChorus="0.0"
+        Percussion="0.0" PercussionVolume="1.0" PercussionDecay="1.0"
+        PercussionHarmonic="1.0" UpperDrawBar1="0.0" UpperDrawBar2="0.0"
+        UpperDrawBar3="0.0" UpperDrawBar4="3.0" UpperDrawBar5="6.0" UpperDrawBar6="7.0"
+        UpperDrawBar7="6.0" UpperDrawBar8="8.0" UpperDrawBar9="7.0" LowerDrawBar1="0.0"
+        LowerDrawBar2="8.0" LowerDrawBar3="0.0" LowerDrawBar4="8.0" LowerDrawBar5="8.0"
+        LowerDrawBar6="8.0" LowerDrawBar7="8.0" LowerDrawBar8="8.0" LowerDrawBar9="8.0"
+        PedalsDrawBar1="4.0" PedalsDrawBar2="8.0" ExpressionPedal="0.7716535329818726"
+        ToneWheelModel="3.0" GeneratorLeakage="6.519999980926514" KeyClickOn="6.907528877258301"
+        KeyClickOff="3.104701995849609" KeyClickColor="6.0" KeyClickReleaseVelocity="2.0"
+        PercussionDecayTime="3.160446643829346" PercussionVolumeTrim="0.0"
+        PercussionVolumeCompensation="0.0" ChorusPresence="0.0" ChorusMix="-0.7600002288818359"
+        TonalBalance="0.0" KeyboardSplitMode="0.0" KeyboardSplitNote="60.0"
+        MasterTune="0.0" Transpose="0.0">
+  <UpperDrawbarPresets CurrentPreset="0">
+    <Preset0 Drawbar0="8" Drawbar1="8" Drawbar2="8" Drawbar3="5" Drawbar4="2"
+             Drawbar5="1" Drawbar6="2" Drawbar7="0" Drawbar8="1"/>
+    <Preset1 Drawbar0="0" Drawbar1="0" Drawbar2="5" Drawbar3="3" Drawbar4="2"
+             Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset2 Drawbar0="8" Drawbar1="8" Drawbar2="8" Drawbar3="8" Drawbar4="0"
+             Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset3 Drawbar0="0" Drawbar1="0" Drawbar2="8" Drawbar3="7" Drawbar4="4"
+             Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset4 Drawbar0="8" Drawbar1="0" Drawbar2="0" Drawbar3="8" Drawbar4="8"
+             Drawbar5="8" Drawbar6="8" Drawbar7="8" Drawbar8="8"/>
+    <Preset5 Drawbar0="0" Drawbar1="0" Drawbar2="5" Drawbar3="4" Drawbar4="0"
+             Drawbar5="3" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset6 Drawbar0="0" Drawbar1="0" Drawbar2="4" Drawbar3="6" Drawbar4="7"
+             Drawbar5="5" Drawbar6="3" Drawbar7="0" Drawbar8="0"/>
+    <Preset7 Drawbar0="0" Drawbar1="0" Drawbar2="5" Drawbar3="6" Drawbar4="4"
+             Drawbar5="4" Drawbar6="3" Drawbar7="2" Drawbar8="0"/>
+    <Preset8 Drawbar0="0" Drawbar1="0" Drawbar2="6" Drawbar3="8" Drawbar4="7"
+             Drawbar5="6" Drawbar6="5" Drawbar7="4" Drawbar8="0"/>
+    <Preset9 Drawbar0="3" Drawbar1="2" Drawbar2="7" Drawbar3="6" Drawbar4="4"
+             Drawbar5="5" Drawbar6="2" Drawbar7="2" Drawbar8="2"/>
+    <Preset10 Drawbar0="8" Drawbar1="8" Drawbar2="8" Drawbar3="0" Drawbar4="0"
+              Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset11 Drawbar0="6" Drawbar1="8" Drawbar2="8" Drawbar3="6" Drawbar4="0"
+              Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+  </UpperDrawbarPresets>
+  <LowerDrawbarPresets CurrentPreset="0">
+    <Preset0 Drawbar0="8" Drawbar1="0" Drawbar2="8" Drawbar3="0" Drawbar4="0"
+             Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset1 Drawbar0="0" Drawbar1="0" Drawbar2="4" Drawbar3="5" Drawbar4="4"
+             Drawbar5="5" Drawbar6="4" Drawbar7="4" Drawbar8="0"/>
+    <Preset2 Drawbar0="0" Drawbar1="0" Drawbar2="4" Drawbar3="4" Drawbar4="2"
+             Drawbar5="3" Drawbar6="2" Drawbar7="2" Drawbar8="0"/>
+    <Preset3 Drawbar0="0" Drawbar1="0" Drawbar2="7" Drawbar3="3" Drawbar4="7"
+             Drawbar5="3" Drawbar6="4" Drawbar7="3" Drawbar8="0"/>
+    <Preset4 Drawbar0="0" Drawbar1="0" Drawbar2="4" Drawbar3="5" Drawbar4="4"
+             Drawbar5="4" Drawbar6="2" Drawbar7="2" Drawbar8="0"/>
+    <Preset5 Drawbar0="0" Drawbar1="0" Drawbar2="6" Drawbar3="6" Drawbar4="4"
+             Drawbar5="4" Drawbar6="3" Drawbar7="2" Drawbar8="2"/>
+    <Preset6 Drawbar0="0" Drawbar1="0" Drawbar2="5" Drawbar3="6" Drawbar4="4"
+             Drawbar5="2" Drawbar6="2" Drawbar7="0" Drawbar8="0"/>
+    <Preset7 Drawbar0="0" Drawbar1="0" Drawbar2="6" Drawbar3="8" Drawbar4="4"
+             Drawbar5="5" Drawbar6="4" Drawbar7="3" Drawbar8="3"/>
+    <Preset8 Drawbar0="0" Drawbar1="0" Drawbar2="8" Drawbar3="0" Drawbar4="3"
+             Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset9 Drawbar0="4" Drawbar1="2" Drawbar2="7" Drawbar3="8" Drawbar4="6"
+             Drawbar5="6" Drawbar6="2" Drawbar7="4" Drawbar8="4"/>
+    <Preset10 Drawbar0="0" Drawbar1="0" Drawbar2="8" Drawbar3="8" Drawbar4="0"
+              Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset11 Drawbar0="8" Drawbar1="0" Drawbar2="8" Drawbar3="0" Drawbar4="0"
+              Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+  </LowerDrawbarPresets>
+  <Overscream Drive="1.0" Level="7.486093521118164" Tone="9.300000190734863"
+              EffectOn="0.0"/>
+  <EQPG Gain31Hz="0.0" Gain63Hz="0.0" Gain125Hz="0.0" Gain250Hz="0.0"
+        Gain500Hz="0.0" Gain1kHz="0.0" Gain2kHz="0.0" Gain4kHz="0.0"
+        Gain8kHz="0.0" Gain16kHz="0.0" Gain="0.0" Out="0.0" EffectOn="0.0"/>
+  <ChorusC1 Sync="0.0" SyncRate="0.0" SyncChorus="0.0" VibratoChorus="1.0"
+            MonoStereo="0.0" Chorus="3.230000019073486" VibDepth="4.340000152587891"
+            VibRate="3.440000057220459" Level="5.0" EffectOn="0.0"/>
+  <Wah Wah="18.43124961853027" Auto="50.0" EffectOn="0.0"/>
+  <SpringReverb Time="3.200000286102295" DryWet="7.0" EffectOn="0.0"/>
+  <Black76 Input="0.0281838271766901" Ratio="0.0" Attack="1.0" Release="7.0"
+           Output="0.5011871457099915" EffectOn="0.0"/>
+  <EQ81 Mic="0.0" Gain="11.0" Output="10.0" HPFreq="5.0" LPFreq="0.0"
+        HiFreq="0.0" HiBell="0.0" Hi="0.0" HiPresFreq="0.0" HiPresQ="0.0"
+        HiPresence="0.0" LowPresFreq="0.0" LowPresQ="0.0" LowPresence="0.0"
+        LowFreq="0.0" LowBell="0.0" Low="0.0" EqIn="1.0" Phase="0.0"
+        EffectOn="0.0"/>
+  <Reverb Time="1.016590595245361" Color="9999.9990234375" Density="0.0"
+          Size="1.0" DryWet="4.244091987609863" EffectOn="0.0"/>
+  <Cabinet>
+    <Leslie MicDistance="0.0" SlowSpeed="-9.515615463256836" FastSpeed="0.0"
+            Acceleration="0.6830887794494629" Deceleration="1.0" Phase="0.0"
+            Amplifier="2.0" LeslieGain="0.6409005522727966" LeslieInputHPF="60.31999969482422"
+            LeslieLow="0.5" LeslieMid="0.3400000035762787" LeslieHigh="0.3440000116825104"
+            LeslieVolume="1.0" Cabinet="0.0" LowFreq="100.0" LowGain="0.0"
+            MidFreq="1000.0" MidGain="0.0" MidQ="1.0" HighFreq="4000.0" HighGain="0.0"
+            HornLGain="0.0" HornLPan="-1.0" HornRGain="0.0" HornRPan="1.0"
+            HornLink="0.0" DrumLGain="0.0" DrumLPan="-1.0" DrumRGain="0.0"
+            DrumRPan="1.0" DrumLink="0.0" Output="-3.757315635681152" DIGain="-27.59531211853027"
+            GuitarAmpGain="-15.0" GuitarAmpModel="0.0" DIOn="0.0" GuitarAmpOn="0.0"
+            LeslieOn="1.0" Speed="0.0" Brake="0.0"/>
+    <BritishTubeLead Gain="4.0" Bass="8.0" Mid="6.5" Treble="0.5" Presence="1.399999976158142"
+                     Spring="0.0" Volume="10.0" CabSize="100.0"/>
+    <HiAmp NormalVolume="6.800000190734863" BrightVolume="6.953125" Bass="4.300000190734863"
+           Middle="5.0" Treble="5.800000190734863" Presence="2.5" Master="10.0"
+           Channel="0.0" Spring="0.0"/>
+  </Cabinet>
+</Preset>

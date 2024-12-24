@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="51" Version="2" Format="tr6p" GUID="7d626f96e35340eb9f1c355d4318bf7e"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="38" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="3cfb7d5b-0aca-48f9-ae71-9b1d7ef3211a" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalLink="Off" InternalInputGainL="2.972031593322754" InternalInputGainR="2.972031593322754"
+            InternalOutputLevelL="0.000000000000000" InternalOutputLevelR="0.000000000000000"
+            InternalModeL="Master6dB" InternalModeR="Master6dB" InternalLimiter="Off"
+            InternalOversample="1X" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="14" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="cf4ccc69-906b-42f3-9cd6-7eccbf833587" ChainNodeConnectionID="2"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="1.954687118530273" Output="-2.026874542236328" Speed="30"
+            TapeType="499" HFRecAdjust="0.500000000000000" HFPlayAdjust="0.500000000000000"
+            LFPlayAdjust="0.500000000000000" RecLevel="0.500000000000000"
+            PlayLevel="0.500000000000000" BiasLevel="0.500000000000000" InputRepro="Repro"
+            TrueStereo="On" TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 ChainID="7" ChainNodeID="-91" ChainNodeNodeType="1" ChainNodeConnectionID="78"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0"/>
+  <Slot3 Bypass="0" ChainID="7" ChainNodeID="51" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="c2453203-9fff-4466-b060-2ac916b1c160" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module GainInputLM="0.022278865799308" GainInputRS="0.022278865799308"
+            GainOutputLM="0.186404183506966" GainOutputRS="0.186404183506966"
+            RatioLM="4" RatioRS="4" AttackLM="6.006084442138672" AttackRS="6.006084442138672"
+            ReleaseLM="6.381992340087891" ReleaseRS="6.381992340087891" MeterMode="GR"
+            DisableGainReduction="0.000000000000000" Link="1.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot3>
+  <Slot4 ChainID="7" ChainNodeID="-90" ChainNodeNodeType="2" ChainNodeConnectionID="78"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0"/>
+  <Slot5 Bypass="0" ChainID="78" ChainNodeID="64" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="e9ef0d86-ee42-45de-8a1c-5a4459f2a2b9" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalChannelMode="Link" InternalCtrlBiasL="3.500000000000000"
+            InternalCtrlBiasR="3.500000000000000" InternalTimeConstantL="5"
+            InternalTimeConstantR="5" InternalInputAttenL="-14.000000000000000"
+            InternalInputAttenR="-15.000000000000000" InternalThresholdL="7.349219322204590"
+            InternalThresholdR="7.349219322204590" InternalOutputLevel="-0.955937385559082"
+            InternalMeterMode="GR" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot5>
+  <Info Type="Mixing" InstrumentType="Guitar" Character="Modern" Description="AC Guitar Strum"
+        ArtistName="El Brujo Caipo"/>
+</Preset>

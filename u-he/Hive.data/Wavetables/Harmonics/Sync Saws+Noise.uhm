@@ -1,0 +1,7 @@
+// by Howard Scarr
+
+Info "Fuzzy sawtooth overtones"
+
+NumFrames=10
+Wave "2*rands + frac(phase*(frame+1))-1.5"
+Spectrum lowest=0 highest=0 "0"

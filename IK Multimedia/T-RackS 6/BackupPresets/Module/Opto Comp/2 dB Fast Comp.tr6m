@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="b4beb451314b4d799e76c73f0ca40867" Factory="true">
+  <Slot Bypass="0" Model="8f82f2a4-3f53-4b5c-9abe-a0de656a532d">
+    <Module LM_Input="0" RS_Input="0" LM_Ratio="1.91403102874756" RS_Ratio="1.91403102874756"
+            LM_Attack="0" RS_Attack="0" LM_Release="30" RS_Release="30" LM_Compression="10"
+            RS_Compression="10" LM_Output="2.70000004768372" RS_Output="2.70000004768372"
+            MeterMode="4 dB" Link="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mastering" ArtistName="IK Multimedia"/>
+</Preset>

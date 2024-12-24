@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="79d9c463cdaf412681b7ce85cb021efc">
+  <Slot Bypass="0" Model="8d12d339-e843-4e4d-8302-8139c9376117">
+    <Module LM_SourceMicModel="CONDENSER 87" RS_SourceMicModel="CONDENSER 87"
+            LM_TargetMicModel="DYNAMIC 57" RS_TargetMicModel="DYNAMIC 57"
+            LM_InputGain="0.98461502790451" RS_InputGain="0.98461502790451"
+            LM_Proximity="0" RS_Proximity="0" LM_Harmonics="0" RS_Harmonics="0"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

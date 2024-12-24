@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="323efd4f3a5941a290279f520e5e58af">
+  <Slot Bypass="0" Model="3185ca52-e6ce-42f1-a04a-a4c91f3a2f69">
+    <Module Air="0.62022078037262" Focus="0.482007145881653" Push="0.727086186408997"
+            Body="-2.11721873283386" Width="-0.460276126861572" Volume="0.422463715076447"
+            Transient="-0.099095344543457" Analog="0.256150990724564" BassPunch="0.233549982309341"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

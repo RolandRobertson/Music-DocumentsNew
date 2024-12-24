@@ -1,0 +1,10 @@
+// By Delta Sign
+
+Info "A strange combination of phase distortion and bit reduction on a sine wave."
+
+NumFrames=256
+
+Wave "round((sin(2*pi*(phase^((1-table)*0.9+0.1)))*((1-table)*12+0.51)))"
+Wave end=0 "sin(2*pi*phase)"
+
+Normalize base=each

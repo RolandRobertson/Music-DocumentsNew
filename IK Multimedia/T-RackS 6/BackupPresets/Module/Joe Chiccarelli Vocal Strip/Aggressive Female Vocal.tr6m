@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr5m" GUID="22b4ad0aa25b463a884b37b195db65ea"
+        Factory="true">
+  <Slot Bypass="0" Model="25240387-7f6d-4102-ad51-7d20d86b3cc5">
+    <Module InternalDeEsserAmount="2.899132013320923" InternalDeEsserType="1.000000000000000"
+            InternalInput="0.000000000000000" InternalComp1="3.473805427551270"
+            InternalComp2="5.401281833648682" InternalComp3="4.670868873596191"
+            InternalComp1Out="0.799097597599030" InternalComp2Out="-20.880031585693359"
+            InternalComp3Out="-10.501622200012207" InternalComp1Mute="0.000000000000000"
+            InternalComp2Mute="0.000000000000000" InternalComp3Mute="0.000000000000000"
+            InternalHPFreq="61.000000000000000" InternalBody="3.886910438537598"
+            InternalPresence="0.750777721405029" InternalAir="5.468225002288818"
+            InternalPrePost="1.000000000000000" InternalReverb="5.704617023468018"
+            InternalReverbAB="1.000000000000000" InternalSize="1.174397468566895"
+            InternalMod="3.752296924591064" InternalModAB="1.000000000000000"
+            InternalEcho="5.536326885223389" InternalEchoAB="1.000000000000000"
+            InternalTime="1/8t" InternalOutput="-1.161757349967957" InternalColor="-1.875687122344971"
+            InternalDrive="3.874325275421143" InternalDryWet="72.868507385253906"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Vocal" ArtistName="IK Multimedia"/>
+</Preset>

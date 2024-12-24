@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="12207446801e49948451ddeb97c779d6" Factory="true">
+  <Slot Bypass="0" Model="006b7a35-6d22-47bf-9c41-7b03b5ffc704">
+    <Module ThresholdLow="-12.0" ThresholdMid="0.0" ThresholdHi="0.0" LevelLow="-8.3"
+            LevelMid="0.0" LevelHi="1.8" CrossoverLowMid="210" CrossoverMidHi="10952"
+            ReleaseTime="194.600006103516" Overload="-0.400000005960464"
+            InputDrive="5.09999990463257" Output="0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Instruments" ArtistName="IK Multimedia"/>
+</Preset>

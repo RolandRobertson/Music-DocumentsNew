@@ -1,0 +1,5 @@
+Info "Harmonic series, but squares. Use switch interpolation for 8-bit game effects"
+
+NumFrames = 16
+Wave "-1 + 2*floor(2*frac(phase*(frame+1))>1)"
+Spectrum lowest=0 highest=0 "0"

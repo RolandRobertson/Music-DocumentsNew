@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1" Format="xvbrot" GUID="3ba07f46-791c-4c01-822f-dfc55b6d5e35">
+  <Model Type="Stomp" GUID="6db46983-d9ff-4ebf-a1eb-d59789bdd501">
+    <Parameters Algo="12.0" expression_enable="0.0" bpm_mode="1.0" BPMSync="0.0"
+                bpm="136.3636322021484" CabSim="0.0" cab_model_A="0.0" cab_model_B="0.0"
+                ROTARY_SPEED="45.0" ROTARY_SPEED_ts="9.0" ROTARY_DEPTH="51.0"
+                ROTARY_BASS="3.000000953674316" ROTARY_MID="-2.999999284744263"
+                ROTARY_TREBLE="1.000000953674316" ROTARY_COLOR="3.0" ROTARY_DRIVE="100.0"
+                ROTARY_MID_Q="0.4000000059604645" ROTARY_MID_FREQ="1000.0" ROTARY_MIX="100.0"
+                ROTARY_X-MODE="0.0" ROTARY_SPEED_A="20.0" ROTARY_SPEED_ts_A="9.0"
+                ROTARY_DEPTH_A="100.0" ROTARY_BASS_A="0.0" ROTARY_MID_A="0.0"
+                ROTARY_TREBLE_A="0.0" ROTARY_COLOR_A="0.0" ROTARY_DRIVE_A="0.0"
+                ROTARY_MID_Q_A="0.4000000059604645" ROTARY_MID_FREQ_A="1000.0"
+                ROTARY_MIX_A="100.0" ROTARY_X-MODE_A="0.0" ROTARY_SPEED_B="20.0"
+                ROTARY_SPEED_ts_B="9.0" ROTARY_DEPTH_B="100.0" ROTARY_BASS_B="0.0"
+                ROTARY_MID_B="0.0" ROTARY_TREBLE_B="0.0" ROTARY_COLOR_B="0.0"
+                ROTARY_DRIVE_B="0.0" ROTARY_MID_Q_B="0.4000000059604645" ROTARY_MID_FREQ_B="1000.0"
+                ROTARY_MIX_B="100.0" ROTARY_X-MODE_B="0.0"/>
+  </Model>
+</Preset>

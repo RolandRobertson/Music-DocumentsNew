@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="15" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="6204cacea0d34047bed4cee43b475c9f" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="15" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="9bf8f653-6921-4814-be3f-d741df4b2f2d" ChainNodeConnectionID="32767"
+         ChainNodeAlwaysLast="0" ModulePresetPath="">
+    <Module ChannelLink="1.0" InputL="1.000000000000000" InputR="1.000000000000000"
+            ThresholdL="5.9" ThresholdR="5.9" AttackL="7.280786514282227"
+            AttackR="7.280786514282227" ReleaseL="1.000000000000000" ReleaseR="1.000000000000000"
+            OutputL="1.148153662681580" OutputR="1.148153662681580" HardL="0.000000000000000"
+            HardR="0.000000000000000" HPSideChL="0.000000000000000" HPSideChR="0.000000000000000"
+            Link="0.0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="18" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="1577951d-77c5-46f8-a617-8c05666dcfcd" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="">
+    <Module LM_BoostLow="3.307316064834595" RS_BoostLow="3.307316064834595"
+            LM_AttenLow="1.064275264739990" RS_AttenLow="1.064275264739990"
+            LM_BoostHigh="6.199999809265137" RS_BoostHigh="6.199999809265137"
+            LM_AttenHigh="0.000000000000000" RS_AttenHigh="0.000000000000000"
+            LM_AttenSel="5" RS_AttenSel="5" LM_CPS="30" RS_CPS="30" LM_Bandwidth="6.629230499267578"
+            RS_Bandwidth="6.629230499267578" LM_KCS="12" RS_KCS="12" LM_Output="5.000000000000000"
+            RS_Output="5.000000000000000" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="20" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="3185ca52-e6ce-42f1-a04a-a4c91f3a2f69" ChainNodeConnectionID="-1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="">
+    <Module Air="-0.064581342041492" Focus="0.748014271259308" Push="2.557454109191895"
+            Body="0.000000000000000" Width="0.628006458282471" Volume="1.956061720848083"
+            Transient="0.000000000000000" Analog="0.536686718463898" BassPunch="0.300000011920929"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Info Type="Mastering" InstrumentType="Buss" Character="Open" Genre="Jazz"
+        ArtistName="IK Multimedia"/>
+</Preset>

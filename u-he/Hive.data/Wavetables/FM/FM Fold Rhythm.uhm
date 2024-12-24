@@ -1,0 +1,20 @@
+// By Delta Sign
+
+Info "A rhythmic wavetable that utilizes phase modulation and wave folding. Great for wobbles."
+
+NumFrames = 256
+
+Envelope L0=0 T1=0.125 L1=1 T2=0.125 L2=0
+Wave "(sin(2*pi*phase))*(env(table))^4"
+Envelope L0=0 T1=0.25 L1=0 T2=0 L2=1 T3=0.125 L3=0
+Wave blend=add "(sin(4*pi*phase))*(env(table))^4"
+Envelope L0=0 T1=0.5 L1=0 T2=0 L2=0.25 T3=0.0625 L3=0 T4=0 L4=0.5 T5=0.0625 L5=0 T6=0 L6=1 T7=0.0625 L7=0
+Wave blend=add "(sin(8*pi*phase))*(env(table))^4"
+Envelope L0=0 T1=0.75 L1=0 T2=0 L2=1 T3=0.125 L3=0
+Wave blend=add "(sin(2*pi*phase))*(env(table))^4"
+Envelope L0=0 T1=0.875 L1=0 T2=0 L2=0 T3=0.125 L3=1
+Wave blend=add "(sin(4*pi*phase))*(env(table))^4"
+Envelope L0=1 T1=0.25 L1=0 L2=1 T2=0 L3=0 T3=0.25 L4=1 T4=0
+Wave "((sin(2*pi*phase+(x*16)))*env(table)^4)%0.1"
+
+Normalize base=all

@@ -1,0 +1,55 @@
+	Info "UHM tutorial all about the Spectrum function"
+
+	/********************************************************
+
+		Same waveforms, but using the spectrum function
+
+		The Spectrum function works just like Wave, but sets
+		the 1024 magnitudes of the harmonics inside a
+		wavetable. It's Additive Synthesis.
+
+	********************************************************/
+
+
+	NumFrames = 5
+
+
+
+		// Sine (frame 0)
+		//
+		// Learn: You can narrow down which harmonics to process by setting
+		// the highest and lowest harmonic. Lowest defaults to 1 (fundamental)
+
+	Spectrum start=0 end=0 lowest=1 highest=2 "1"
+
+
+		// Sawtooth (frame 1)
+		//
+		// we need all harmonics divided by their number. We get the number by the index
+		// of the process, i.e. it starts with 1 and ends with 1024 for 1024 harmonic
+		// magnitudes present in a 2048 sized wavetable.
+
+	Spectrum start=1 end=1 "1/index"
+
+
+		// Square (frame 2)
+		//
+		// we need only odd harmonics. This is what multiplying by ((index % 2)==1) does
+		// The modulo operator a % b gives us the remainder of a / b, which is a number
+		// between 0 and b. 5.1 % 2 = 1.2
+
+	Spectrum start=2 end=2 "1/index * ((index % 2)==1)"
+
+
+		// Triangle (frame 3)
+		// like square,we only need odd harmonics
+		// unlike square or saw, we have to divide them by index^2
+		// we also need to invert every 2nd of the odd harmonics
+		// latter is what multiplying by (1-2*((index % 4)==3)) does
+
+	Spectrum start=3 end=3 "1/(index*index) * ((index % 2)==1) * (1-2*((index % 4)==3))"
+
+
+		// Narrow Peak (frame 4, all harmonics)
+
+	Spectrum start=4 end=4 "1/40"

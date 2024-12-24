@@ -1,0 +1,10 @@
+// by Howard Scarr
+
+Info "Two fractalizations in parallel"
+
+NumFrames=17
+Wave "2*(frac(phase*(16 * table + 1)))"
+Wave "x + 2*frac(phase*(frame+1)) - sin(pi*phase/2) -2"
+
+Spectrum lowest=0 highest=0 "0" // DC-removal trick
+Normalize base=each

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="71" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="5d20bdf2dec34a0cbe576989c25eb69b" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="59" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="81bd49fe-2b99-4cfa-999d-3c54f8645531" ChainNodeConnectionID="-910799360"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InLevel="-2.400000095367432" OutLevel="0.000000000000000" Mix="49.095077514648438"
+            InImage="45.000000000000000" OutImage="45.000000000000000" MidSlope="8.120928764343262"
+            LowSlope="1.129890918731689" Crossover="219.000000000000000"
+            HighFreq="20000.000000000000000" HighDamp="17.980678558349609"
+            PreDelay="10.000000000000000" RvbTime="37.500000000000000" Diffusion="46.284099578857422"
+            Buildup="53.107143402099609" LoCutF="20.000000000000000" LoCutG="0.000000000000000"
+            HiCutF="4100.000000000000000" HiCutG="24.000000000000000" TimeLeft="58.916137695312500"
+            LevelLeft="-4.614105224609375" TimeRight="111.684906005859375"
+            LevelRight="-6.285415649414062" Mod1Source="None" Mod1Destination="InLevel"
+            Mod1Min="0.000000000000000" Mod1Max="100.000000000000000" Mod1Curve="Lin"
+            Mod2Source="None" Mod2Destination="InLevel" Mod2Min="0.000000000000000"
+            Mod2Max="100.000000000000000" Mod2Curve="Lin" Mod3Source="None"
+            Mod3Destination="InLevel" Mod3Min="0.000000000000000" Mod3Max="100.000000000000000"
+            Mod3Curve="Lin" Mod4Source="None" Mod4Destination="InLevel" Mod4Min="0.000000000000000"
+            Mod4Max="100.000000000000000" Mod4Curve="Lin" Mod5Source="None"
+            Mod5Destination="InLevel" Mod5Min="0.000000000000000" Mod5Max="100.000000000000000"
+            Mod5Curve="Lin" Mod6Source="None" Mod6Destination="InLevel" Mod6Min="0.000000000000000"
+            Mod6Max="100.000000000000000" Mod6Curve="Lin" Mod7Source="None"
+            Mod7Destination="InLevel" Mod7Min="0.000000000000000" Mod7Max="100.000000000000000"
+            Mod7Curve="Lin" Mod8Source="None" Mod8Destination="InLevel" Mod8Min="0.000000000000000"
+            Mod8Max="100.000000000000000" Mod8Curve="Lin" LFO1_Type="Sin"
+            LFO1_Rate="0.009999999776483" LFO2_Type="Sin" LFO2_Rate="0.009999999776483"
+            Env1_Input="InL" Env1_Gain="0.000000000000000" Env1_Attack="1.000000000000000"
+            Env1_Release="10.000000000000000" Env2_Input="InL" Env2_Gain="0.000000000000000"
+            Env2_Attack="1.000000000000000" Env2_Release="10.000000000000000"
+            Macro1_Source="None" Macro1_Destination="InLevel" Macro1_Min="0.000000000000000"
+            Macro1_Max="1.000000000000000" Macro1_Curve="Lin" Macro2_Source="None"
+            Macro2_Destination="InLevel" Macro2_Min="0.000000000000000" Macro2_Max="1.000000000000000"
+            Macro2_Curve="Lin" Macro3_Source="None" Macro3_Destination="InLevel"
+            Macro3_Min="0.000000000000000" Macro3_Max="1.000000000000000"
+            Macro3_Curve="Lin" Macro4_Source="None" Macro4_Destination="InLevel"
+            Macro4_Min="0.000000000000000" Macro4_Max="1.000000000000000"
+            Macro4_Curve="Lin" Macro5_Source="None" Macro5_Destination="InLevel"
+            Macro5_Min="0.000000000000000" Macro5_Max="1.000000000000000"
+            Macro5_Curve="Lin" Macro6_Source="None" Macro6_Destination="InLevel"
+            Macro6_Min="0.000000000000000" Macro6_Max="1.000000000000000"
+            Macro6_Curve="Lin" Macro7_Source="None" Macro7_Destination="InLevel"
+            Macro7_Min="0.000000000000000" Macro7_Max="1.000000000000000"
+            Macro7_Curve="Lin" Macro8_Source="None" Macro8_Destination="InLevel"
+            Macro8_Min="0.000000000000000" Macro8_Max="1.000000000000000"
+            Macro8_Curve="Lin" Macro1="66.000000000000000" Macro2="66.000000000000000"
+            Macro3="66.000000000000000" Macro4="66.000000000000000" CurrentChannel="="
+            ChannelMode="L/R" AdditionalCustomData_UIPage="0"/>
+  </Slot0>
+  <Slot1 ChainID="7" ChainNodeID="-17" ChainNodeNodeType="1" ChainNodeConnectionID="73"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0"/>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="69" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="09cb9685-b5e0-42cb-b68b-3076beb1621f" ChainNodeConnectionID="-1310101888"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Step="0.000000000000000" Env="0.843750000000000" LFO="0.156250000000000"
+            Input="0.000000000000000" DryWet="1.000000000000000" Output="0.000000000000000"
+            Frequency="5948.655761718750000" Resonance="0.324158370494843"
+            Drive="0.311329752206802" Width="0.000000000000000" EnvSensitivity="0.542179763317108"
+            EnvAttack="0.302464604377747" EnvDecay="0.202790528535843" CutoffAmount="1.000000000000000"
+            ResonanceAmount="0.000000000000000" DriveAmount="0.000000000000000"
+            Wave="4.000000000000000" BPM="120.000000000000000" FadeIn="0.000000000000000"
+            Step01="0.000000000000000" Step02="0.000000000000000" Step03="0.000000000000000"
+            Step04="0.000000000000000" Step05="0.000000000000000" Step06="0.000000000000000"
+            Step07="0.000000000000000" Step08="0.000000000000000" Step09="0.000000000000000"
+            Step10="0.000000000000000" Step11="0.000000000000000" Step12="0.000000000000000"
+            Step13="0.000000000000000" Step14="0.000000000000000" Step15="0.000000000000000"
+            Step16="0.000000000000000" Type="3.000000000000000" Sync="On"
+            NumOfStep="16.000000000000000" LFORate="1.000000000000000" StepMode="FWR"
+            LFOSync="On" LFORateSync="6.000000000000000" LFORetrig="Off"
+            StepDivision="5.000000000000000" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Slot3 ChainID="7" ChainNodeID="-16" ChainNodeNodeType="2" ChainNodeConnectionID="73"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0"/>
+  <Slot4 Bypass="0" ChainID="7" ChainNodeID="68" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="4e9c68aa-4ddf-4365-942b-91db2a79dbf5" ChainNodeConnectionID="-1310101856"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="1.000000000000000" Output="0.553013324737549" TapeType="TYPE I"
+            HFRecAdjust="0.615591824054718" HFPlayAdjust="0.745215058326721"
+            LFPlayAdjust="0.500000000000000" RecLevel="0.501489043235779"
+            InputRepro="Repro" BiasLevel="0.623732149600983" TrueStereo="On"
+            TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot4>
+  <Slot5 Bypass="0" ChainID="73" ChainNodeID="71" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="27f96c17-336e-4096-a4b2-7d147f2c0df3" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module In="5.356409072875977" Out="-12.175374984741211" DryWet="1.000000000000000"
+            Pan="0.000000000000000" StereoMode="PingPong" Time="78.000000000000000"
+            Sync="Off" TimeSync="1/8D" Feedback="0.272510677576065" HighPass="493.327362060546875"
+            LowPass="978.841857910156250" Resonance="1.775246262550354" Doubling="0.000000000000000"
+            DoublingOn="Off" BitReduction="0.308163702487946" BitReductionOn="On"
+            BitReductionToDry="On" Downsampling="0.000000000000000" DownsamplingOn="Off"
+            DownsamplingToDry="Off" Clipping="0.000000000000000" ClippingOn="On"
+            Gate="-50.000000000000000" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot5>
+  <Info Type="Effects" InstrumentType="Buss" Character="Soft Saturate"
+        ArtistName="IK Multimedia"/>
+</Preset>

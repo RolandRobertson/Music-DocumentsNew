@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="36497c7434304388bc19f2a6bbe55627">
+  <Slot Bypass="0" Model="7f4e1fbf-b3d4-4161-95e4-8402ac75ec90">
+    <Module InternalInputL="7.59999990463257" InternalInputR="7.59999990463257"
+            InternalOutputCeilingL="-0.100000001490116" InternalOutputCeilingR="-0.100000001490116"
+            InternalAttackTimeL="7.96000003814697" InternalAttackTimeR="7.96000003814697"
+            InternalReleaseTimeL="37.0400009155273" InternalReleaseTimeR="37.0400009155273"
+            InternalStyle="Advanced 2" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

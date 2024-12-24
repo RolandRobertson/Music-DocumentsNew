@@ -1,0 +1,6 @@
+// by Howard Scarr
+
+Info "3-op FM. Modulate Position with an envelope, maximum velocity"
+
+NumFrames=64
+Wave "sin(2*pi*phase)/3 + sin(2*pi*(phase*2 + sin(2*pi*(phase*3)) * table*3))"

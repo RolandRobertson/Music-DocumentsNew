@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="29" Version="2" Format="tr6p" GUID="23e47556c1f8435a81f0b51984894495"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="29" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="cf4ccc69-906b-42f3-9cd6-7eccbf833587" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="0.000000000000000" Output="0.000000000000000" Speed="30"
+            TapeType="456" HFRecAdjust="0.585015654563904" HFPlayAdjust="0.740859389305115"
+            LFPlayAdjust="0.639578104019165" RecLevel="0.500000000000000"
+            PlayLevel="0.500000000000000" BiasLevel="0.500000000000000" InputRepro="Repro"
+            TrueStereo="On" TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="17" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="ca93eab8-6501-43d5-8c6e-c1620c538692" ChainNodeConnectionID="-1141683712"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalGrit="Off" InternalAttackL="30 ms" InternalAttackR="30 ms"
+            InternalReleaseL="0.3 S" InternalReleaseR="0.3 S" InternalRatioL="2 dB"
+            InternalRatioR="2 dB" InternalThresholdL="4.032947540283203"
+            InternalThresholdR="4.032947540283203" InternalMakeUpL="2.153850078582764"
+            InternalMakeUpR="2.153850078582764" InternalSideChainHPFreqL="60 Hz"
+            InternalSideChainHPFreqR="60 Hz" InternalLink="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Mixing" Character="Modern" ArtistName="El Brujo Caipo"/>
+</Preset>

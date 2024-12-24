@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="103838cc65d94a9c87cab06cbf89446f">
+  <Slot Bypass="0" Model="213813f3-a81d-4baf-8add-591fadfb0425">
+    <Module Spring="0.297031044960022" SlowSpeed="0" FastSpeed="0" MicDistance="0"
+            Acceleration="1" Deceleration="1" Gain122="0.439999997615814"
+            Gain122A="0.399924397468567" Gain147="0.422222256660461" G37Gain="0"
+            InputHPF="20" Mid="0.5" Volume122="0.449999988079071" Volume122A="0.400281816720963"
+            Volume147="0.388888895511627" Volume3300W="0.449999988079071"
+            VolumeG37="0.5" Low="0.5" High="0.5" TubeDrive="0" TubeMode="0.5"
+            Contour="0.5" HighFreq="4000" MidFreq="1000" LowFreq="100" MidQ="1"
+            HighGain="0" MidGain="0" LowGain="0" Speed="0" Brake="0" LinkHorn="1"
+            LinkDrum="0" GainHornL="-2.78816914558411" GainHornR="-2.78816914558411"
+            PanHornL="1.0L" PanHornR="1.0R" GainDrumL="1.38571178913116"
+            GainDrumR="-201" PanDrumL="C" PanDrumR="1.0R" Output="0" PageMode="Setup Page"
+            Cabs="122A" Amps="122A" Angle="90" AmpMatch="1" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+</Preset>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="12" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="46ac23b4176e4f9dad099de8fae7a328" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="9" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="3aa443b0-4228-472a-b598-b77bc1e9e52e" ChainNodeConnectionID="1800302320"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="0.500000000000000" FreqX01="130.994445800781250" FreqX12="1539.516235351562500"
+            FreqX23="5037.382324218750000" Attack="7.000000000000000" Release="150.000000000000000"
+            Bleed="0.253718763589859" DryWet="0.498906254768372" Output="0.398015618324280"
+            Band0IsActive="On" Band0Solo="Off" DriveBand0="0.500000000000000"
+            ColorBand0="0.500000000000000" TypeBand0="B" LevelBand0="0.000000000000000"
+            EnvDriveBand0="0.000000000000000" EnvColorBand0="0.000000000000000"
+            EnvLevelBand0="0.000000000000000" Band1IsActive="On" Band1Solo="Off"
+            DriveBand1="0.500000000000000" ColorBand1="0.500000000000000"
+            TypeBand1="B" LevelBand1="0.000000000000000" EnvDriveBand1="0.000000000000000"
+            EnvColorBand1="0.000000000000000" EnvLevelBand1="0.000000000000000"
+            Band2IsActive="On" Band2Solo="Off" DriveBand2="0.501812517642975"
+            ColorBand2="0.500000000000000" TypeBand2="B" LevelBand2="0.000000000000000"
+            EnvDriveBand2="0.000000000000000" EnvColorBand2="0.000000000000000"
+            EnvLevelBand2="0.000000000000000" Band3IsActive="On" Band3Solo="Off"
+            DriveBand3="0.501812517642975" ColorBand3="0.500000000000000"
+            TypeBand3="B" LevelBand3="0.000000000000000" EnvDriveBand3="0.000000000000000"
+            EnvColorBand3="0.000000000000000" EnvLevelBand3="0.000000000000000"
+            InternalLink1="On" InternalLink2="On" InternalLink3="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="12" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="4e9c68aa-4ddf-4365-942b-91db2a79dbf5" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="0.896686434745789" Output="0.500377118587494" TapeType="TYPE II"
+            HFRecAdjust="0.585078120231628" HFPlayAdjust="0.512312471866608"
+            LFPlayAdjust="0.572468757629395" RecLevel="0.500000000000000"
+            InputRepro="Repro" BiasLevel="0.567578136920929" TrueStereo="Off"
+            TransportModeling="Off" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Instruments" InstrumentType="Guitar" Character="Vintage"
+        Genre="Jazz" ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

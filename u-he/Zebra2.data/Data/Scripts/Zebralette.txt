@@ -1,0 +1,2 @@
+ALTERNATIVE name='Original' filename='Zebraletteorig.txt'
+INCLUDE filename='default'

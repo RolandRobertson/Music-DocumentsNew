@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="cefff23e96614e138405fe7585f8e8a9">
+  <Slot Bypass="0" Model="3cfb7d5b-0aca-48f9-ae71-9b1d7ef3211a">
+    <Module InternalInputGainL="22" InternalInputGainR="22" InternalOutputLevelL="-22"
+            InternalOutputLevelR="-22" InternalModeL="SolidStatePushPull"
+            InternalModeR="SolidStatePushPull" InternalLimiter="Off" InternalOversample="2X"
+            InternalLink="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

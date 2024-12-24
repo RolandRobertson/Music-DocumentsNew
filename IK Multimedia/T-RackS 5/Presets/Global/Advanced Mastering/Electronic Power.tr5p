@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="17" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="1" GUID="9a6380fdcb7a47c787a4b62bb5d0f8aa">
+  <Slot0 Bypass="0" Model="" ChainID="7" ChainNodeID="8" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="fe8b53f3-8573-41e5-b28f-0fb4fcfe381d" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="">
+    <Module InternalGainL="26.1180000305176" InternalGainR="26.1180000305176"
+            InternalPeakReductionL="25.9687004089355" InternalPeakReductionR="25.9687004089355"
+            InternalMeterMode="GR" InternalLimitCompress="Compress" InternalLink="On"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 ChainID="7" ChainNodeID="-17" ChainNodeNodeType="1" ChainNodeConnectionID="27"
+         ChainNodeAlwaysLast="0" ModulePresetPath=""/>
+  <Slot2 Bypass="0" Model="" ChainID="7" ChainNodeID="13" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="1577951d-77c5-46f8-a617-8c05666dcfcd" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="">
+    <Module LM_BoostLow="2.20000004768372" RS_BoostLow="2.20000004768372"
+            LM_AttenLow="0" RS_AttenLow="0" LM_BoostHigh="4.09999990463257"
+            RS_BoostHigh="4.09999990463257" LM_AttenHigh="0" RS_AttenHigh="0"
+            LM_AttenSel="10" RS_AttenSel="10" LM_CPS="100" RS_CPS="100" LM_Bandwidth="10"
+            RS_Bandwidth="10" LM_KCS="12" RS_KCS="12" LM_Output="5" RS_Output="5"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Slot3 ChainID="7" ChainNodeID="-16" ChainNodeNodeType="2" ChainNodeConnectionID="27"
+         ChainNodeAlwaysLast="0" ModulePresetPath=""/>
+  <Slot4 Bypass="0" Model="" ChainID="7" ChainNodeID="17" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="9e15f64f-be76-43d7-bdaf-95ee7f72cfae" ChainNodeConnectionID="4294967295"
+         ChainNodeAlwaysLast="0" ModulePresetPath="">
+    <Module InternalCurrentBand="0" InternalLink="Off" InternalSoloM="Off"
+            InternalSoloS="Off" InternalFilterSlope="24dB/oct" InternalXFreq0="120.226425170898"
+            InternalXFreq1="1318.25634765625" InternalXFreq2="15000" InternalMVol="2"
+            InternalBandNumber="4" InternalBand1Bypass="Off" InternalBand1IsOn="On"
+            InternalBand1ThresholdLR="-14.7380046844482" InternalBand1ThresholdM="-14"
+            InternalBand1ThresholdS="-14" InternalBand1RatioLR="2.59454011917114"
+            InternalBand1RatioM="2.59454011917114" InternalBand1RatioS="2.59454011917114"
+            InternalBand1AttackLR="5.82959365844727" InternalBand1AttackM="10"
+            InternalBand1AttackS="10" InternalBand1ReleaseLR="98.2715301513672"
+            InternalBand1ReleaseM="250" InternalBand1ReleaseS="250" InternalBand1GainLR="2.17064952850342"
+            InternalBand1GainM="0" InternalBand1GainSide="0" InternalBand2Bypass="Off"
+            InternalBand2IsOn="On" InternalBand2ThresholdLR="-26.263484954834"
+            InternalBand2ThresholdM="-14" InternalBand2ThresholdS="-14" InternalBand2RatioLR="2"
+            InternalBand2RatioM="2" InternalBand2RatioS="2" InternalBand2AttackLR="15.4080171585083"
+            InternalBand2AttackM="10" InternalBand2AttackS="10" InternalBand2ReleaseLR="341.690277099609"
+            InternalBand2ReleaseM="250" InternalBand2ReleaseS="250" InternalBand2GainLR="0.860069274902344"
+            InternalBand2GainM="0" InternalBand2GainSide="0" InternalBand3Bypass="Off"
+            InternalBand3IsOn="On" InternalBand3ThresholdLR="-33.1446876525879"
+            InternalBand3ThresholdM="-23" InternalBand3ThresholdS="-23" InternalBand3RatioLR="2.52363443374634"
+            InternalBand3RatioM="3" InternalBand3RatioS="3" InternalBand3AttackLR="5.98784017562866"
+            InternalBand3AttackM="10" InternalBand3AttackS="10" InternalBand3ReleaseLR="160.491363525391"
+            InternalBand3ReleaseM="250" InternalBand3ReleaseS="250" InternalBand3GainLR="2.33447170257568"
+            InternalBand3GainM="0" InternalBand3GainSide="0" InternalBand4Bypass="Off"
+            InternalBand4IsOn="On" InternalBand4ThresholdLR="-31.8173294067383"
+            InternalBand4ThresholdM="-24" InternalBand4ThresholdS="-24" InternalBand4RatioLR="3.62304878234863"
+            InternalBand4RatioM="4" InternalBand4RatioS="4" InternalBand4AttackLR="10"
+            InternalBand4AttackM="10" InternalBand4AttackS="10" InternalBand4ReleaseLR="250"
+            InternalBand4ReleaseM="250" InternalBand4ReleaseS="250" InternalBand4GainLR="1.87687397003174"
+            InternalBand4GainM="0" InternalBand4GainSide="0" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot4>
+  <Slot5 Bypass="0" Model="" ChainID="7" ChainNodeID="28" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="9ca4631f-8670-467d-a26c-424c746e24f9" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="">
+    <Module InputGainL="2" InputGainR="2" OutputLevelL="-0.100000001490116"
+            OutputLevelR="-0.100000001490116" UnityGainMonitor="0" InfrasonicFilter="1"
+            Oversampling="4X" Dithering="NoDith" Mode="Mode4" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot5>
+  <Slot6 Bypass="0" Model="" ChainID="27" ChainNodeID="20" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="ca93eab8-6501-43d5-8c6e-c1620c538692" ChainNodeConnectionID="32767"
+         ChainNodeAlwaysLast="0" ModulePresetPath="">
+    <Module InternalGrit="Off" InternalAttackL="1 ms" InternalAttackR="1 ms"
+            InternalReleaseL="0.3 S" InternalReleaseR="0.3 S" InternalRatioL="2 dB"
+            InternalRatioR="2 dB" InternalThresholdL="17.7992172241211" InternalThresholdR="17.7992172241211"
+            InternalMakeUpL="-3.87312626838684" InternalMakeUpR="-3.87312626838684"
+            InternalSideChainHPFreqL="OFF" InternalSideChainHPFreqR="OFF"
+            InternalLink="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot6>
+  <SlotMasterMatch Bypass="1" Model="">
+    <Module Reference1StartSample="0" Reference1EndSample="1" Reference2StartSample="0"
+            Reference2EndSample="1" Reference3StartSample="0" Reference3EndSample="1"
+            EqSmoothing="0.200000002980232" EqAmount="0.5" LoudnessAmount="0.75"
+            ReferenceLoudness="0" TargetLoudness="0" AwgAmount="0" LowFreq="20"
+            HiFreq="20000" LowFreqEnable="0" HiFreqEnable="0" LinearPhaseEnable="1"
+            GuiState="0" SelectedTrack="0" SelectedPeakFilter="-1" LearnReferenceButtonState="0"
+            LearnTargetButtonState="0" MatchButtonState="0" PlayButton1State="0"
+            PlayButton2State="0" PlayButton3State="0" PeakFilterF1="20" PeakFilterQ1="0.5"
+            PeakFilterG1="0" PeakFilterE1="0" PeakFilterF2="20" PeakFilterQ2="0.5"
+            PeakFilterG2="0" PeakFilterE2="0" PeakFilterF3="20" PeakFilterQ3="0.5"
+            PeakFilterG3="0" PeakFilterE3="0" PeakFilterF4="20" PeakFilterQ4="0.5"
+            PeakFilterG4="0" PeakFilterE4="0" PeakFilterF5="20" PeakFilterQ5="0.5"
+            PeakFilterG5="0" PeakFilterE5="0" PeakFilterF6="20" PeakFilterQ6="0.5"
+            PeakFilterG6="0" PeakFilterE6="0" PeakFilterF7="20" PeakFilterQ7="0.5"
+            PeakFilterG7="0" PeakFilterE7="0" PeakFilterF8="20" PeakFilterQ8="0.5"
+            PeakFilterG8="0" PeakFilterE8="0" CurrentChannel="=" ChannelMode="L/R"
+            CustomData_track0="9.AbPAk0FbzkG." CustomData_track1="9.AbPAk0FbzkG."
+            CustomData_track2="9.AbPAk0FbzkG." CustomData_ReferenceMeanCurve="9.AbPAk0FbzkG."
+            CustomData_ReferenceMaxCurve="9.AbPAk0FbzkG." CustomData_TargetMeanCurve="9.AbPAk0FbzkG."
+            CustomData_TargetMaxCurve="9.AbPAk0FbzkG." CustomData_empty="9.AbPAk0FbzkG."/>
+  </SlotMasterMatch>
+</Preset>

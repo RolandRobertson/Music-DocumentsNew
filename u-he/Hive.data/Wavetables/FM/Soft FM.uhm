@@ -1,0 +1,7 @@
+// by Howard Scarr
+
+Info "2-op FM for typical FM brass, with subtle bit-reduction"
+
+Wave "sin(2*pi*(phase+sin(2*pi*(phase)) * table*table*2))"
+Wave "round(2^6*x)/2^6" // 7-bit
+

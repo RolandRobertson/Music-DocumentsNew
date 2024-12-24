@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1" Format="xvbchx" GUID="81074c7d-a7ed-4ba3-b269-1a1b5f3e3e62">
+  <Model Type="Stomp" GUID="6db46983-d9ff-4ebf-a1eb-d59789bdd501">
+    <Parameters Algo="2.0" expression_enable="0.0" bpm_mode="1.0" BPMSync="0.0"
+                bpm="115.3846130371094" CabSim="0.0" cab_model_A="0.0" cab_model_B="0.0"
+                CHORUS_X_SPEED="30.0" CHORUS_X_DEPTH="58.0" CHORUS_X_BASS="-0.5999999046325684"
+                CHORUS_X_MID="-1.399999976158142" CHORUS_X_TREBLE="3.300000190734863"
+                CHORUS_X_MID_Q="0.4000000059604645" CHORUS_X_MID_FREQ="1000.0"
+                CHORUS_X_MIX="100.0" CHORUS_X_X-MODE="0.0" CHORUS_X_SPEED_A="50.0"
+                CHORUS_X_DEPTH_A="8.0" CHORUS_X_BASS_A="0.0" CHORUS_X_MID_A="0.0"
+                CHORUS_X_TREBLE_A="0.0" CHORUS_X_MID_Q_A="0.4000000059604645"
+                CHORUS_X_MID_FREQ_A="1000.0" CHORUS_X_MIX_A="100.0" CHORUS_X_X-MODE_A="0.0"
+                CHORUS_X_SPEED_B="50.0" CHORUS_X_DEPTH_B="8.0" CHORUS_X_BASS_B="0.0"
+                CHORUS_X_MID_B="0.0" CHORUS_X_TREBLE_B="0.0" CHORUS_X_MID_Q_B="0.4000000059604645"
+                CHORUS_X_MID_FREQ_B="1000.0" CHORUS_X_MIX_B="100.0" CHORUS_X_X-MODE_B="0.0"/>
+  </Model>
+</Preset>

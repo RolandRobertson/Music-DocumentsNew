@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="9a3802ac578f4ee28ae111ddc33693e2">
+  <Slot Bypass="0" Mute="0" Model="3e8dc241-ed5d-414e-ba69-427349b6120b">
+    <Module AutomationGain31Hz="-12" AutomationGain63Hz="-2.97143" AutomationGain125Hz="0"
+            AutomationGain250Hz="0.914286" AutomationGain500Hz="1.90735e-06"
+            AutomationGain1kHz="0" AutomationGain2kHz="1" AutomationGain4kHz="2.74286"
+            AutomationGain8kHz="2.74286" AutomationGain16kHz="2.51429" AutomationGain="9.04"
+            AutomationOutput="-3.52" AutomationEqIn="1" AutomationPreamp="1"
+            AutomationPhase="0" GUIGain31Hz="-12" GUIGain63Hz="-2.97143"
+            GUIGain125Hz="0" GUIGain250Hz="0.914286" GUIGain500Hz="1.90735e-06"
+            GUIGain1kHz="0" GUIGain2kHz="1" GUIGain4kHz="2.74286" GUIGain8kHz="2.74286"
+            GUIGain16kHz="2.51429" GUIGain="9.04" GUIOutput="-3.52" GUIEqIn="1"
+            GUIPreamp="1" GUIPhase="0" ChannelMode="L/R" CurrentChannel="="
+            InternalGain31HzL="-12" InternalGain31HzR="-12" InternalGain63HzL="-2.97143"
+            InternalGain63HzR="-2.97143" InternalGain125HzL="0" InternalGain125HzR="0"
+            InternalGain250HzL="0.914286" InternalGain250HzR="0.914286" InternalGain500HzL="1.90735e-06"
+            InternalGain500HzR="1.90735e-06" InternalGain1kHzL="0" InternalGain1kHzR="0"
+            InternalGain2kHzL="1" InternalGain2kHzR="1" InternalGain4kHzL="2.74286"
+            InternalGain4kHzR="2.74286" InternalGain8kHzL="2.74286" InternalGain8kHzR="2.74286"
+            InternalGain16kHzL="2.51429" InternalGain16kHzR="2.51429" InternalGainL="9.04"
+            InternalGainR="9.04" InternalOutputL="-3.52" InternalOutputR="-3.52"
+            InternalEqInL="On" InternalEqInR="On" InternalPreampL="On" InternalPreampR="On"
+            InternalPhaseL="Off" InternalPhaseR="Off"/>
+  </Slot>
+</Preset>

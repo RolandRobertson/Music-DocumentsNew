@@ -1,0 +1,8 @@
+// by Howard Scarr
+
+Info "Harmonic series of trapezoid waves. Try multiple Tables."
+
+NumFrames=16
+Wave "round(sin(2*pi*phase*(frame+1)))+y"
+Spectrum lowest=0 highest=0 "0" // DC-removal
+Normalize base=each

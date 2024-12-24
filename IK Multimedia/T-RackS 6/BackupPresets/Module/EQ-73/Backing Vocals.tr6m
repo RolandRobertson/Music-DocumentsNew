@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="26d32112c2ec4254a1f241f75c5b1e25"
+        Factory="true">
+  <Slot Model="f276fe8c-6c8b-471c-80d3-48f918ec40b5" Bypass="0">
+    <Module InternalMicL="Off" InternalMicR="Off" InternalEqInL="On" InternalEqInR="On"
+            InternalPhaseL="Off" InternalPhaseR="Off" InternalGainL="+4"
+            InternalGainR="+4" InternalLowFreqL="110Hz" InternalLowFreqR="110Hz"
+            InternalLowL="2.973789215087891" InternalLowR="2.973789215087891"
+            InternalHiL="2.981784820556641" InternalHiR="2.981784820556641"
+            InternalPresFreqL="0.35kHz" InternalPresFreqR="0.35kHz" InternalPresenceL="-3.047193527221680"
+            InternalPresenceR="-3.047193527221680" InternalHPFreqL="80Hz"
+            InternalHPFreqR="80Hz" InternalOutputL="-4" InternalOutputR="-4"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Vocal" Character="Modern" Genre="Pop" ArtistName="Jack Miele"/>
+</Preset>

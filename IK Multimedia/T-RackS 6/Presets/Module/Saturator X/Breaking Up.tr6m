@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="e8f0fa5e21ce41db9fe033a0b7ce8cd2" Factory="true">
+  <Slot Bypass="0" Model="3cfb7d5b-0aca-48f9-ae71-9b1d7ef3211a">
+    <Module InternalInputGainL="9" InternalInputGainR="9" InternalOutputLevelL="-8"
+            InternalOutputLevelR="-8" InternalModeL="TubeClassA" InternalModeR="TubeClassA"
+            InternalLimiter="Off" InternalOversample="2X" InternalLink="On"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Harmonic" ArtistName="IK Multimedia"/>
+</Preset>

@@ -1,0 +1,30 @@
+	Info "Resonant filter sweep through distortion"
+
+	//---------------------------------------------
+	//
+	//	set number of frames to 101 (0-100)
+	//
+	//---------------------------------------------
+
+	NumFrames = 101
+
+	//---------------------------------------------
+	//
+	//	sawtooth lowpassed forward and backward
+	//
+	//---------------------------------------------
+
+	Wave "lowpass(2*phase-1, table+0.1, 0.5)"
+
+	Wave direction=bwd "lowpass(x, table+0.1, 0.5)"
+
+	//---------------------------------------------
+	//
+	//	lotsa tanh distortion
+	//
+	//---------------------------------------------
+
+	Wave "tanh(x *((1-table)*4+1))"
+
+	Spectrum lowest=0 highest=0 "0"
+	Normalize db=0 Base=each

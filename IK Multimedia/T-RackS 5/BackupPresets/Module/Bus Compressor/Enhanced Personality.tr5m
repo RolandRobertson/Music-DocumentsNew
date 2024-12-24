@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="7cf981c3d57b43d481c93a9b0d378531">
+  <Slot Bypass="0" Model="ca93eab8-6501-43d5-8c6e-c1620c538692">
+    <Module InternalGrit="On" InternalAttackL="1 ms" InternalAttackR="1 ms"
+            InternalReleaseL="0.6 S" InternalReleaseR="0.6 S" InternalRatioL="4 dB"
+            InternalRatioR="4 dB" InternalThresholdL="9.53845977783203" InternalThresholdR="9.53845977783203"
+            InternalMakeUpL="3" InternalMakeUpR="3" InternalSideChainHPFreqL="OFF"
+            InternalSideChainHPFreqR="OFF" InternalLink="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+</Preset>

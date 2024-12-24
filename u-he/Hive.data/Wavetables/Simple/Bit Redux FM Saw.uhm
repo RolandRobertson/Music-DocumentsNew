@@ -1,0 +1,8 @@
+// by Howard Scarr
+
+Info "From saw to sine, reduced to 3 bits"
+Envelope L0=2.2 T1=1 L1=0
+Wave "sin(2*pi*phase + env(table) * lowpass(y,0.95,0))"
+Wave "round(x*2)/2"
+
+Spectrum lowest=0 highest=0 "0"

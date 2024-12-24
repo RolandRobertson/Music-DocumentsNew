@@ -1,0 +1,11 @@
+// Simplified version of a wavetable by Denis Druzhinin
+
+Info "Mirrored saws, synced and put in a dome-shaped window for maximum smoothness"
+
+Envelope L0=0 T1=0.5 L1=1 T2=0.5 L2=0
+
+Wave "frac(abs(1-2*phase) * 2 * (1 + 4 * table))"
+Wave "x * env(phase)^0.5"
+
+Spectrum lowest=0 highest=0 "0"
+Normalize base=each

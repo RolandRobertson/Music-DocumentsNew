@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr5m" GUID="fc5246fa97df4391aac7bd6342d73c7d">
+  <Slot Bypass="0" Model="53821d50-c1d9-4265-9ee9-f8814883a7dd">
+    <Module LinkCh="0.000000000000000" OpticalWasPressed="0.000000000000000"
+            GBModeL="1.000000000000000" GBModeR="1.000000000000000" InputL="4.187724113464355"
+            InputR="4.187724113464355" AttackL="3.033833980560303" AttackR="3.033833980560303"
+            ReleaseL="10.000000000000000" ReleaseR="10.000000000000000" OutputL="6.236909866333008"
+            OutputR="6.236909866333008" DryWetL="100.000000000000000" DryWetR="100.000000000000000"
+            RatioL="1/1" RatioR="1/1" SideHPFreqL="10.000000000000000" SideHPFreqR="10.000000000000000"
+            SideBandFreqL="1000.000000000000000" SideBandFreqR="1000.000000000000000"
+            SideBellL="1.000000000000000" SideBellR="1.000000000000000" HPL="0.000000000000000"
+            HPR="0.000000000000000" DistL="Dist2" DistR="Dist2" ToneL="0.000000000000000"
+            ToneR="0.000000000000000" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

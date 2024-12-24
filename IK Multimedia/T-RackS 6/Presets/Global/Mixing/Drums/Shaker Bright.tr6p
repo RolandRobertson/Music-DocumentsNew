@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="9" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="6f9a1d0b2d7f43559c3cc9659aa39ef9" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="8" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="f276fe8c-6c8b-471c-80d3-48f918ec40b5" ChainNodeConnectionID="1314561888"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalMicL="Off" InternalMicR="Off" InternalEqInL="On" InternalEqInR="On"
+            InternalPhaseL="Off" InternalPhaseR="Off" InternalGainL="0" InternalGainR="0"
+            InternalLowFreqL="Off" InternalLowFreqR="Off" InternalLowL="0.000000000000000"
+            InternalLowR="0.000000000000000" InternalHiL="4.009500503540039"
+            InternalHiR="4.009500503540039" InternalPresFreqL="3.2kHz" InternalPresFreqR="3.2kHz"
+            InternalPresenceL="1.961000442504883" InternalPresenceR="1.961000442504883"
+            InternalHPFreqL="160Hz" InternalHPFreqR="160Hz" InternalOutputL="0"
+            InternalOutputR="0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="10" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="3aa443b0-4228-472a-b598-b77bc1e9e52e" ChainNodeConnectionID="119773280"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="0.500000000000000" FreqX01="150.000000000000000" FreqX12="1000.000000000000000"
+            FreqX23="6000.000000000000000" Attack="7.000000000000000" Release="150.000000000000000"
+            Bleed="0.500000000000000" DryWet="0.493062496185303" Output="0.500000000000000"
+            Band0IsActive="Off" Band0Solo="Off" DriveBand0="0.300000011920929"
+            ColorBand0="0.300000011920929" TypeBand0="A" LevelBand0="0.000000000000000"
+            EnvDriveBand0="0.000000000000000" EnvColorBand0="0.000000000000000"
+            EnvLevelBand0="0.000000000000000" Band1IsActive="Off" Band1Solo="Off"
+            DriveBand1="0.300000011920929" ColorBand1="0.300000011920929"
+            TypeBand1="A" LevelBand1="0.000000000000000" EnvDriveBand1="0.000000000000000"
+            EnvColorBand1="0.000000000000000" EnvLevelBand1="0.000000000000000"
+            Band2IsActive="Off" Band2Solo="Off" DriveBand2="0.300000011920929"
+            ColorBand2="0.300000011920929" TypeBand2="A" LevelBand2="0.000000000000000"
+            EnvDriveBand2="0.000000000000000" EnvColorBand2="0.000000000000000"
+            EnvLevelBand2="0.000000000000000" Band3IsActive="On" Band3Solo="Off"
+            DriveBand3="0.303406268358231" ColorBand3="0.300000011920929"
+            TypeBand3="B" LevelBand3="0.000000000000000" EnvDriveBand3="0.000000000000000"
+            EnvColorBand3="0.000000000000000" EnvLevelBand3="0.000000000000000"
+            InternalLink1="Off" InternalLink2="Off" InternalLink3="Off" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="9" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="ca93eab8-6501-43d5-8c6e-c1620c538692" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalGrit="On" InternalAttackL="10 ms" InternalAttackR="10 ms"
+            InternalReleaseL="0.3 S" InternalReleaseR="0.3 S" InternalRatioL="4 dB"
+            InternalRatioR="4 dB" InternalThresholdL="-2.000000000000000"
+            InternalThresholdR="-2.000000000000000" InternalMakeUpL="0.000000000000000"
+            InternalMakeUpR="0.000000000000000" InternalSideChainHPFreqL="OFF"
+            InternalSideChainHPFreqR="OFF" InternalLink="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot2>
+  <Info Type="Instruments" InstrumentType="Percussion" Character="Bright"
+        Genre="Pop" ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

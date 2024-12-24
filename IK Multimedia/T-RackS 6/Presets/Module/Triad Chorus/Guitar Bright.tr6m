@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="629ac8d1a0cf46e5a978162f59a977ab"
+        Factory="true">
+  <Info Type="Instruments" InstrumentType="Guitar" Character="Open"/>
+  <Slot Model="3f0a9a75-d6db-4a0f-82b8-cbabb17a4285" Bypass="0">
+    <Module InputLevel="0.000000000000000" OutputLevel="0.000000000000000"
+            Feedback="0.349962264299393" Stereo="Mono" Amount1="1.000000000000000"
+            Amount2="0.738055884838104" Amount3="1.000000000000000" Pan1="-1.000000000000000"
+            Pan2="0.000000000000000" Pan3="1.000000000000000" Phase1="0.000000000000000"
+            Phase2="80.054687500000000" Phase3="180.000000000000000" Rate1="0.200000002980232"
+            Rate2="0.200000002980232" Rate3="0.200000002980232" Rate1Sync="1/8"
+            Rate2Sync="1/8" Rate3Sync="1/8" BPMSync1="Off" BPMSync2="Off"
+            BPMSync3="Off" Voice1On="On" Voice2On="Off" Voice3On="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+</Preset>

@@ -1,0 +1,6 @@
+// by Howard Scarr
+
+Info "2-op FM with bit-reduction"
+
+Wave "sin(2*pi*(phase+sin(2*pi*(phase))*table^2*2))"
+Wave "round(2*x)/2" // 3-bit

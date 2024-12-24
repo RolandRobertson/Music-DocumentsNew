@@ -1,0 +1,7 @@
+// by Howard Scarr
+
+Info "Fuzzy sine wave overtones"
+
+NumFrames=21
+Wave "4*rands + sin(2.3*pi*phase*(frame+1))-2"
+Spectrum lowest=0 highest=0 "0"

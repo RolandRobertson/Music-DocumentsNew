@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="4137c984079e44e9bae9cf4ebd2e0c10"
+        Factory="true">
+  <Info Type="Effects" Character="Wet" ArtistName="IK Multimedia"/>
+  <Slot Model="27f96c17-336e-4096-a4b2-7d147f2c0df3" Bypass="0">
+    <Module In="0.000000000000000" Out="0.000000000000000" DryWet="0.989594757556915"
+            Pan="0.000000000000000" StereoMode="Stereo" Time="23.467321395874023"
+            Sync="On" TimeSync="1/8D" Feedback="0.699809789657593" HighPass="322.391937255859375"
+            LowPass="1964.210693359375000" Resonance="0.779918253421783"
+            Doubling="0.000292968761642" DoublingOn="On" BitReduction="0.000000000000000"
+            BitReductionOn="Off" BitReductionToDry="Off" Downsampling="0.099323242902756"
+            DownsamplingOn="Off" DownsamplingToDry="Off" Clipping="0.000000000000000"
+            ClippingOn="Off" Gate="-36.000000000000000" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+</Preset>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="84f0c765c09143f09748fe14b0f8c617"
+        Factory="true">
+  <Slot Model="ef1b97ea-2450-40df-a52f-3a38f7b549a3" Bypass="0">
+    <Module Input="0.000000000000000" Vintage="Off" DeEsser="0.342050194740295"
+            DeEsserAB="Off" EQ="0.860576152801514" EQPost="Off" Compression="0.494161248207092"
+            Fast="On" Transient="0.157721653580666" Output="0.000000000000000"
+            StereoEnhance="0.000000000000000" MonoMaker="100.000000000000000"
+            Band1Freq="40.184654235839844" Band1Gain="-13.404254913330078"
+            Band2Freq="121.017486572265625" Band2Gain="1.276595711708069"
+            Band2Q="0.699999988079071" Band3Freq="295.615234375000000" Band3Gain="-1.914893627166748"
+            Band3Q="0.699999988079071" Band4Freq="1972.283203125000000" Band4Gain="0.957446813583374"
+            Band4Q="0.699999988079071" Band5Freq="7962.140136718750000" Band5Gain="2.234042644500732"
+            Band5Q="0.699999988079071" Band6Freq="17639.423828125000000"
+            Band6Gain="-3.191489458084106" CurrentChannel="=" ChannelMode="L/R"
+            AdditionalCustomData_EqSelectedBand="5"/>
+  </Slot>
+  <Info Type="Vocal" Character="Clean" Genre="Pop" ArtistName="Jack Miele"/>
+</Preset>

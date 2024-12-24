@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="329d6bdc55df4b68a8cfd98d8e77deda" Factory="true">
+  <Slot Bypass="0" Model="9bf8f653-6921-4814-be3f-d741df4b2f2d">
+    <Module InputL="1.3" InputR="1.3" ThresholdL="6.8" ThresholdR="6.8" AttackL="7.64104461669922"
+            AttackR="7.64104461669922" ReleaseL="0" ReleaseR="0" OutputL="1.93033385276794"
+            OutputR="1.93033385276794" HardL="1" HardR="1" HPSideChL="1"
+            HPSideChR="1" Link="0" ChannelLink="1.0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Instruments" ArtistName="IK Multimedia"/>
+</Preset>

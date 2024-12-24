@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="bdec6bbd975d4d9b9383bd37e27d6438"
+        Factory="true">
+  <Slot Model="ef1b97ea-2450-40df-a52f-3a38f7b549a3" Bypass="0">
+    <Module Input="0.000000000000000" Vintage="On" DeEsser="0.000000000000000"
+            DeEsserAB="Off" EQ="0.416349232196808" EQPost="Off" Compression="0.318900018930435"
+            Fast="On" Transient="0.199922487139702" Output="0.000000000000000"
+            StereoEnhance="-0.013269782066345" MonoMaker="100.000000000000000"
+            Band1Freq="60.000000000000000" Band1Gain="-15.000000000000000"
+            Band2Freq="139.140716552734375" Band2Gain="1.276595711708069"
+            Band2Q="0.500000000000000" Band3Freq="664.113098144531250" Band3Gain="2.553191423416138"
+            Band3Q="0.699999988079071" Band4Freq="325.950012207031250" Band4Gain="-3.829787254333496"
+            Band4Q="1.000000000000000" Band5Freq="3747.633544921875000" Band5Gain="1.914893627166748"
+            Band5Q="0.300000011920929" Band6Freq="11605.565429687500000"
+            Band6Gain="-12.127659797668457" CurrentChannel="=" ChannelMode="L/R"
+            AdditionalCustomData_EqPreset="EGuitar" AdditionalCustomData_EqSelectedBand="2"/>
+  </Slot>
+  <Info Type="Instruments" InstrumentType="Guitar" Character="Distorted"
+        Genre="Rock" ArtistName="Jack Miele"/>
+</Preset>

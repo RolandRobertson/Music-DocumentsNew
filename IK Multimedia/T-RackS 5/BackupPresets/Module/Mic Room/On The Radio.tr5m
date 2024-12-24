@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="1f30a2e7f2444d7b9cb0dfb44a3981d9">
+  <Slot Bypass="0" Model="8d12d339-e843-4e4d-8302-8139c9376117">
+    <Module LM_SourceMicModel="DYNAMIC 58" RS_SourceMicModel="DYNAMIC 58"
+            LM_TargetMicModel="DYNAMIC 20" RS_TargetMicModel="DYNAMIC 20"
+            LM_InputGain="2.70769000053406" RS_InputGain="2.70769000053406"
+            LM_Proximity="4" RS_Proximity="4" LM_Harmonics="4" RS_Harmonics="4"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

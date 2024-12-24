@@ -1,0 +1,12 @@
+// By Delta Sign
+
+Info "Filtered spectral noise."
+
+NumFrames = 256
+
+Wave "rand"
+Spectrum lowest=16 "x*(table^4)"
+Wave "lowpass(x,(1-table),0)"
+Spectrum lowest=0 highest=0 "0"
+
+Normalize base=each

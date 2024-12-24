@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="14" Version="2" Format="tr6p" GUID="dff92edd7ad14d2abe52ccfd63c680c7"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="12" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="3cfb7d5b-0aca-48f9-ae71-9b1d7ef3211a" ChainNodeConnectionID="2"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalLink="On" InternalInputGainL="7.447500228881836" InternalInputGainR="7.447500228881836"
+            InternalOutputLevelL="-7.447500228881836" InternalOutputLevelR="-7.447500228881836"
+            InternalModeL="Master6dB" InternalModeR="Master6dB" InternalLimiter="Off"
+            InternalOversample="1X" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="13" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="cf4ccc69-906b-42f3-9cd6-7eccbf833587" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="4.739999771118164" Output="0.000000000000000" Speed="30"
+            TapeType="456" HFRecAdjust="0.500000000000000" HFPlayAdjust="0.500000000000000"
+            LFPlayAdjust="0.500000000000000" RecLevel="0.500000000000000"
+            PlayLevel="0.500000000000000" BiasLevel="0.500000000000000" InputRepro="Repro"
+            TrueStereo="On" TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="14" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="fe8b53f3-8573-41e5-b28f-0fb4fcfe381d" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalGainL="30.018749237060547" InternalGainR="30.018749237060547"
+            InternalPeakReductionL="29.204374313354492" InternalPeakReductionR="29.204374313354492"
+            InternalMeterMode="GR" InternalLimitCompress="Limit" InternalLink="On"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Info Type="Mixing" InstrumentType="Guitar" Character="Clean" Description="Nylon Guitar"
+        ArtistName="El Brujo Caipo"/>
+</Preset>

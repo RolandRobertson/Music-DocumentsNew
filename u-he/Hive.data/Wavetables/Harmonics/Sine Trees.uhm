@@ -1,0 +1,9 @@
+// by Howard Scarr
+
+Info "32 sine harmonics, pure then bit-reduced. Try Tables=2"
+
+NumFrames=64
+Spectrum start=32 end=63 "index==(frame-31)"
+Wave "round(2*x)"
+Spectrum start=0 end=31 "index==(frame+1)"
+Normalize base=each

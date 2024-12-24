@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="30" Version="2" Format="tr6p" GUID="6244d0b835f74dc5b52b0ebd9547ea05"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="12" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="fe8b53f3-8573-41e5-b28f-0fb4fcfe381d" ChainNodeConnectionID="2"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalGainL="37.400001525878906" InternalGainR="37.400001525878906"
+            InternalPeakReductionL="28.020000457763672" InternalPeakReductionR="28.020000457763672"
+            InternalMeterMode="GR" InternalLimitCompress="Limit" InternalLink="On"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="28" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="f276fe8c-6c8b-471c-80d3-48f918ec40b5" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalMicL="Off" InternalMicR="Off" InternalEqInL="On" InternalEqInR="On"
+            InternalPhaseL="Off" InternalPhaseR="Off" InternalGainL="0" InternalGainR="0"
+            InternalLowFreqL="Off" InternalLowFreqR="Off" InternalLowL="0.000000000000000"
+            InternalLowR="0.000000000000000" InternalHiL="2.940500259399414"
+            InternalHiR="2.940500259399414" InternalPresFreqL="3.2kHz" InternalPresFreqR="3.2kHz"
+            InternalPresenceL="-0.992500305175781" InternalPresenceR="-0.992500305175781"
+            InternalHPFreqL="Off" InternalHPFreqR="Off" InternalOutputL="0"
+            InternalOutputR="0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="29" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="f5412485-f4cd-44ec-a652-689d34b68cfa" ChainNodeConnectionID="155561472"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Mode="1.000000000000000" InternalSoft="0.0" InternalFilterSlope="24dB/oct"
+            InternalBandNumber="2.0" InternalXFreq0="8513.576171875000000"
+            InternalXFreq1="15868.299804687500000" InternalDeEss="-18.668844223022461"
+            InternalRelease="74.496101379394531" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Slot3 Bypass="0" ChainID="7" ChainNodeID="30" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="c2453203-9fff-4466-b060-2ac916b1c160" ChainNodeConnectionID="155561472"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module GainInputLM="0.022928867489100" GainInputRS="0.022928867489100"
+            GainOutputLM="0.161329180002213" GainOutputRS="0.161329180002213"
+            RatioLM="4" RatioRS="4" AttackLM="7.000000000000000" AttackRS="7.000000000000000"
+            ReleaseLM="5.194367408752441" ReleaseRS="5.194367408752441" MeterMode="GR"
+            DisableGainReduction="0.000000000000000" Link="1.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot3>
+  <Info Type="Mixing" Character="Modern" Description="Female Vocal" ArtistName="El Brujo Caipo"/>
+</Preset>

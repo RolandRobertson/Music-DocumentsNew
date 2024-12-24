@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="99ebaae739f44088b7cf47eea1827ed6"
+        Factory="true">
+  <Slot Model="27f96c17-336e-4096-a4b2-7d147f2c0df3" Bypass="0">
+    <Module In="0.000000000000000" Out="0.000000000000000" DryWet="1.000000000000000"
+            Pan="0.000000000000000" StereoMode="Stereo" Time="163.276779174804688"
+            Sync="Off" TimeSync="1/8D" Feedback="0.091615475714207" HighPass="101.801055908203125"
+            LowPass="4467.494140625000000" Resonance="0.831470668315887"
+            Doubling="0.174882695078850" DoublingOn="On" BitReduction="0.000000000000000"
+            BitReductionOn="Off" BitReductionToDry="Off" Downsampling="0.000000000000000"
+            DownsamplingOn="Off" DownsamplingToDry="Off" Clipping="0.000000000000000"
+            ClippingOn="Off" Gate="-50.000000000000000" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Vocal" Character="Vintage" Genre="Rock" ArtistName="Jack Miele"/>
+</Preset>

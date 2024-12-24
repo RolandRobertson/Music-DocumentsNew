@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="7868bd9d645a425e99f6ba458f095cc3" Factory="true">
+  <Slot Bypass="0" Model="f8fd5639-da16-4332-86c3-e1e0e7272048">
+    <Module InternalLM_Band1Gain="0" InternalLM_Band1Resonance="0.699999988079071"
+            InternalLM_Band1Mode="LowShelf" InternalLM_Band1Active="0" InternalLM_Band1Hz="130"
+            InternalLM_Band1Q_Peaking="1" InternalLM_Band1Q_Shelving="1"
+            InternalLM_Band2Gain="0" InternalLM_Band2Resonance="0.699999988079071"
+            InternalLM_Band2Mode="Peaking" InternalLM_Band2Active="0" InternalLM_Band2Hz="250"
+            InternalLM_Band2Q_Peaking="0.699999988079071" InternalLM_Band2Q_Shelving="0.699999988079071"
+            InternalLM_Band3Gain="0" InternalLM_Band3Resonance="0.699999988079071"
+            InternalLM_Band3Mode="Peaking" InternalLM_Band3Active="0" InternalLM_Band3Hz="1000"
+            InternalLM_Band3Q_Peaking="0.699999988079071" InternalLM_Band3Q_Shelving="0.699999988079071"
+            InternalLM_Band4Gain="3" InternalLM_Band4Resonance="0.699999988079071"
+            InternalLM_Band4Mode="Peaking" InternalLM_Band4Active="1" InternalLM_Band4Hz="270"
+            InternalLM_Band4Q_Peaking="1" InternalLM_Band4Q_Shelving="0.699999988079071"
+            InternalLM_Band5Gain="5" InternalLM_Band5Resonance="0.699999988079071"
+            InternalLM_Band5Mode="Peaking" InternalLM_Band5Active="0" InternalLM_Band5Hz="16000"
+            InternalLM_Band5Q_Peaking="2" InternalLM_Band5Q_Shelving="0.699999988079071"
+            InternalLM_Band6Gain="0" InternalLM_Band6Resonance="0.699999988079071"
+            InternalLM_Band6Mode="HighShelf" InternalLM_Band6Active="0" InternalLM_Band6Hz="3000"
+            InternalLM_Band6Q_Peaking="0.25" InternalLM_Band6Q_Shelving="0.25"
+            InternalRS_Band1Gain="0" InternalRS_Band1Resonance="0.699999988079071"
+            InternalRS_Band1Mode="LowShelf" InternalRS_Band1Active="0" InternalRS_Band1Hz="130"
+            InternalRS_Band1Q_Peaking="1" InternalRS_Band1Q_Shelving="1"
+            InternalRS_Band2Gain="0" InternalRS_Band2Resonance="0.699999988079071"
+            InternalRS_Band2Mode="Peaking" InternalRS_Band2Active="0" InternalRS_Band2Hz="250"
+            InternalRS_Band2Q_Peaking="0.699999988079071" InternalRS_Band2Q_Shelving="0.699999988079071"
+            InternalRS_Band3Gain="0" InternalRS_Band3Resonance="0.699999988079071"
+            InternalRS_Band3Mode="Peaking" InternalRS_Band3Active="0" InternalRS_Band3Hz="1000"
+            InternalRS_Band3Q_Peaking="0.699999988079071" InternalRS_Band3Q_Shelving="0.699999988079071"
+            InternalRS_Band4Gain="3" InternalRS_Band4Resonance="0.699999988079071"
+            InternalRS_Band4Mode="Peaking" InternalRS_Band4Active="1" InternalRS_Band4Hz="270"
+            InternalRS_Band4Q_Peaking="1" InternalRS_Band4Q_Shelving="0.699999988079071"
+            InternalRS_Band5Gain="5" InternalRS_Band5Resonance="0.699999988079071"
+            InternalRS_Band5Mode="Peaking" InternalRS_Band5Active="0" InternalRS_Band5Hz="16000"
+            InternalRS_Band5Q_Peaking="2" InternalRS_Band5Q_Shelving="0.699999988079071"
+            InternalRS_Band6Gain="0" InternalRS_Band6Resonance="0.699999988079071"
+            InternalRS_Band6Mode="HighShelf" InternalRS_Band6Active="0" InternalRS_Band6Hz="3000"
+            InternalRS_Band6Q_Peaking="0.25" InternalRS_Band6Q_Shelving="0.25"
+            InternalRS_OutputLevel="0" InternalLM_OutputLevel="0" InternalLinearPhase="1"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mastering" ArtistName="IK Multimedia"/>
+</Preset>

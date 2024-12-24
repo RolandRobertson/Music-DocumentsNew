@@ -1,0 +1,3 @@
+ALTERNATIVE name='Original' filename='Zebrifyorig.txt'
+ALTERNATIVE name='DotEight' filename='Zebrify_DotEight.txt'
+INCLUDE filename='default'

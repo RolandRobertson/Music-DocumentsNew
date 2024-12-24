@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="38a64124d53c489ea208741e30c3d3cf" Factory="true">
+  <Slot Bypass="0" Model="8a315a2b-07e6-4deb-bef8-a4bb867a4b81">
+    <Module InLevel="-2.40000009536743" OutLevel="0" Mix="100" InImage="45"
+            OutImage="45" RvbTime="66.3077011108398" LowTime="1.66393005847931"
+            Crossover="11756" HighFreq="8546.7197265625" HighDamp="24" PreDelay="40"
+            Size="40" Diffusion="70.3845977783203" Buildup="47" Disperse="75.2307968139648"
+            Modulation="39" ModMove="10.1000003814697" LoCutF="1000" LoCutG="0"
+            HiCutF="4100" HiCutG="24" TimeLeft="0" LevelLeft="-96" TimeRight="0"
+            LevelRight="-96" Mod1Source="None" Mod1Destination="InLevel"
+            Mod1Min="0" Mod1Max="100" Mod1Curve="Lin" Mod2Source="None" Mod2Destination="InLevel"
+            Mod2Min="0" Mod2Max="100" Mod2Curve="Lin" Mod3Source="None" Mod3Destination="InLevel"
+            Mod3Min="0" Mod3Max="100" Mod3Curve="Lin" Mod4Source="None" Mod4Destination="InLevel"
+            Mod4Min="0" Mod4Max="100" Mod4Curve="Lin" Mod5Source="None" Mod5Destination="InLevel"
+            Mod5Min="0" Mod5Max="100" Mod5Curve="Lin" Mod6Source="None" Mod6Destination="InLevel"
+            Mod6Min="0" Mod6Max="100" Mod6Curve="Lin" Mod7Source="None" Mod7Destination="InLevel"
+            Mod7Min="0" Mod7Max="100" Mod7Curve="Lin" Mod8Source="None" Mod8Destination="InLevel"
+            Mod8Min="0" Mod8Max="100" Mod8Curve="Lin" LFO1_Type="Sin" LFO1_Rate="0.100000001490116"
+            LFO2_Type="Sin" LFO2_Rate="0.100000001490116" Env1_Input="InS"
+            Env1_Gain="10" Env1_Attack="40" Env1_Release="80" Env2_Input="InS"
+            Env2_Gain="10" Env2_Attack="40" Env2_Release="80" Macro1_Source="None"
+            Macro1_Destination="InLevel" Macro1_Min="0" Macro1_Max="1" Macro1_Curve="Lin"
+            Macro2_Source="None" Macro2_Destination="InLevel" Macro2_Min="0"
+            Macro2_Max="1" Macro2_Curve="Lin" Macro3_Source="None" Macro3_Destination="InLevel"
+            Macro3_Min="0" Macro3_Max="1" Macro3_Curve="Lin" Macro4_Source="None"
+            Macro4_Destination="InLevel" Macro4_Min="0" Macro4_Max="1" Macro4_Curve="Lin"
+            Macro5_Source="None" Macro5_Destination="InLevel" Macro5_Min="0"
+            Macro5_Max="1" Macro5_Curve="Lin" Macro6_Source="None" Macro6_Destination="InLevel"
+            Macro6_Min="0" Macro6_Max="1" Macro6_Curve="Lin" Macro7_Source="None"
+            Macro7_Destination="InLevel" Macro7_Min="0" Macro7_Max="1" Macro7_Curve="Lin"
+            Macro8_Source="None" Macro8_Destination="InLevel" Macro8_Min="0"
+            Macro8_Max="1" Macro8_Curve="Lin" Macro1="66" Macro2="66" Macro3="66"
+            Macro4="66" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Effects" ArtistName="IK Multimedia"/>
+</Preset>

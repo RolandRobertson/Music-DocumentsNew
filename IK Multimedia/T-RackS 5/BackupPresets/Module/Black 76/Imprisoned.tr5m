@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="f8efb735200c4537b143d6d76ef87e63">
+  <Slot Bypass="0" Model="c2453203-9fff-4466-b060-2ac916b1c160">
+    <Module GainInputLM="0.0363080017268658" GainInputRS="0.0363080017268658"
+            GainOutputLM="0.218899995088577" GainOutputRS="0.218899995088577"
+            RatioLM="20" RatioRS="20" AttackLM="7" AttackRS="7" ReleaseLM="1"
+            ReleaseRS="1" MeterMode="GR" DisableGainReduction="0" Link="0"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

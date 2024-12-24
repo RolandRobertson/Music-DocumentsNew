@@ -1,0 +1,11 @@
+// by Howard Scarr
+
+Info "Fractalized sawtooth. Use spectral fade interpolation."
+
+NumFrames=128
+
+Envelope L0=1 T1=1 L1=1 T2=1 L2=0 // "max" fractalize window
+
+Wave "env(phase*2)*(1-2*frac(phase*45*(table+4/128)*128/124))" // shift 4 frames
+
+Spectrum lowest=0 highest=0 "0"

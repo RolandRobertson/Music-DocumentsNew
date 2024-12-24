@@ -1,0 +1,7 @@
+// by Howard Scarr
+Info "Various additive bell tones without the fundamental"
+
+NumFrames = 20
+Seed = 75 // experiment with this
+Spectrum lowest=2 highest=120 "((index % round(rand*12))==1) * rand/(index)^2"
+Normalize db=0

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="16" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="5eae3a3569fb4345b5328b358be9e7a4" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="10" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="7a444c0f-eaae-43f1-a654-04a29885333b" ChainNodeConnectionID="1793683184"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalEqInL="On" InternalEqInR="On" InternalPhaseL="Off" InternalPhaseR="Off"
+            InternalMicL="Off" InternalMicR="Off" InternalGainL="0" InternalGainR="0"
+            InternalOutputL="0" InternalOutputR="0" InternalHPFreqL="82Hz"
+            InternalHPFreqR="82Hz" InternalLPFreqL="12kHz" InternalLPFreqR="12kHz"
+            InternalHiFreqL="15kHz" InternalHiFreqR="15kHz" InternalHiBellL="Off"
+            InternalHiBellR="Off" InternalHiL="3.000000000000000" InternalHiR="3.000000000000000"
+            InternalHiPresFreqL="2.2kHz" InternalHiPresFreqR="2.2kHz" InternalHiPresQL="On"
+            InternalHiPresQR="On" InternalHiPresenceL="2.000000000000000"
+            InternalHiPresenceR="2.000000000000000" InternalLowPresFreqL="680Hz"
+            InternalLowPresFreqR="680Hz" InternalLowPresQL="On" InternalLowPresQR="On"
+            InternalLowPresenceL="-2.000000000000000" InternalLowPresenceR="-2.000000000000000"
+            InternalLowFreqL="330Hz" InternalLowFreqR="330Hz" InternalLowBellL="Off"
+            InternalLowBellR="Off" InternalLowL="3.045938491821289" InternalLowR="3.045938491821289"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="16" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="f3bc2ff8-7305-4d34-8586-e7554aa2640c" ChainNodeConnectionID="145224880"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="9.000000000000000" Output="-9.000000000000000" Speed="15"
+            TapeType="GP9" HFRecAdjust="0.571109354496002" HFPlayAdjust="0.586875021457672"
+            RecLevel="0.500000000000000" PlayLevel="0.500000000000000" BiasLevel="0.500000000000000"
+            InputRepro="Repro" TrueStereo="On" TransportModeling="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Instruments" InstrumentType="Strings" Character="Bright"
+        Genre="Jazz" ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

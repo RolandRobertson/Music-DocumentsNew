@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="e64719ea206546d58807721902587fac">
+  <Slot Bypass="0" Model="fe8b53f3-8573-41e5-b28f-0fb4fcfe381d">
+    <Module InternalGainL="34.8358993530273" InternalGainR="34.8358993530273"
+            InternalPeakReductionL="26.9943599700928" InternalPeakReductionR="26.9943599700928"
+            InternalMeterMode="GR" InternalLimitCompress="Compress" InternalLink="On"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

@@ -1,0 +1,6 @@
+// by Howard Scarr
+
+Info "Octave square, then various chords"
+
+NumFrames = 6
+Wave "-2 + 2*floor(2*frac(phase*(frame+1))>=1) + 2*floor(2*frac(phase*(frame+2))>=1)"

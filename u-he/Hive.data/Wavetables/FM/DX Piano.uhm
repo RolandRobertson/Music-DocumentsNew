@@ -1,0 +1,12 @@
+// by Urs Heckmann
+
+Info "Two 2-op FM voices stacked in a single table"
+
+NumFrames = 101
+Wave target=aux2 "(exp(table*6)-1)/1000 + 0.001"
+Wave target=aux1 "sin(2*pi*(phase*14))"
+Wave "0.33 * sin(2*pi*(phase*1 + aux1 * aux2))"
+Wave target=aux2 "(exp(table*1)-1)/2"
+Wave target=aux1 "sin(2*pi*(phase*1))"
+Wave blend=add "sin(2*pi*(phase*1 + aux1 * aux2))"
+Normalize dB=0

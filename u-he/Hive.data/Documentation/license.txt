@@ -1,0 +1,64 @@
+﻿
+LICENSE AND LEGAL INFORMATION
+
+This document outlines a legal agreement with Heckmann Audio GmbH (the "author") for the use of this u-he product (the "software").
+
+By installing the software you agree to the terms of use listed below. If you do not agree with all terms, you do not have the right to install the software. In this case, any parts of the software as well as any audio material created using the software must be removed from all storage media in your possession
+
+
+1. SOFTWARE LICENSE
+
+The author grants any person the right to:
+
+- test this software in demo mode (i.e. unregistered) to determine its usefulness
+
+- use this software after purchase and registration (see point 4. below) for any purposes that do not conflict with any of the other rules within this agreement
+
+- use this software for press-related publication, limited to:
+
+a) textual descriptions or reviews of the functional and musical aspects
+b) visual demonstration of the graphic user interface
+c) audio demonstrations of the product's capabilities – the software's name, author and website address (http://www.u-he.com) must be clearly indicated.
+
+The demo version of this software may be freely distributed under the following conditions:
+
+- this license agreement must accompany the software
+
+- the software must be distributed free of charge, it may not exploited commercially in any way
+
+- serial codes or means of circumventing the demo mode limitations must not be disclosed
+
+- the software is not modified so that its intended core functionality (as an audio plugin) is altered
+
+- no parts of the software are reverse engineered, decompiled, disassembled etc.
+
+- no text or graphic information (such as labels or copyright notices) are removed or changed
+
+
+2. COPYRIGHT NOTES
+
+The software is protected by German copyright laws and rules laid out within international treaties. All copyrights pertaining to the software are owned by Heckmann Audio GmbH.
+
+
+3. WARRANTY DISCLAIMER
+
+The software is provided to the user "as-is" without warranty of any kind, express or implied. This includes, but is not limited to, any warranty of merchantability, usefulness and fitness for any specific purpose. The author does not guarantee that the functions of the software will meet personal requirements, that it is 100% error-free or that any bugs in the software will be corrected in future. The user bears the entire risk of using the software and shall in no way claim the author's responsibility for damages incurred by its use or abuse, including (but not limited to) misinterpretation of the software's documentation or functionality.
+
+
+4. REGISTRATION
+
+The current procedures, terms & conditions and the benefits of purchase and registration can be found at http://www.u-he.com (also available on request via e-mail to support@u-he.com). Persons found distributing or allowing the distribution of serial numbers, reverse engineering the registration scheme or taking any other action that infringes the terms of this agreement will be prosecuted.
+
+
+5. LICENSE TRANSFERS
+
+The author allows licenses to be resold/transferred after a license has been owned by the current licensee for a minimum of 9 months. IMPORTANT: The licensee should not disclose the serial number directly to the new licensee, but should inform the author via email (see point 4. above) of an intention to sell. Transfer is usually possible within two days following a request including name and e-mail address of the new owner. More information about resale is available via support@u-he.com.
+
+
+6. CONTACT
+
+Urs Heckmann
+www.u-he.com
+support@u-he.com
+
+© 2012 by Heckmann Audio GmbH (u-he). All rights reserved.

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="21" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="fd16cfe426924c23b73147762b6ba678" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="18" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="e9ef0d86-ee42-45de-8a1c-5a4459f2a2b9" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalChannelMode="Link" InternalCtrlBiasL="3.500000000000000"
+            InternalCtrlBiasR="3.500000000000000" InternalTimeConstantL="3"
+            InternalTimeConstantR="3" InternalInputAttenL="-7.000000000000000"
+            InternalInputAttenR="-7.000000000000000" InternalThresholdL="1.491927623748779"
+            InternalThresholdR="1.491927623748779" InternalOutputLevel="0.470468521118164"
+            InternalMeterMode="GR" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="20" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="9bf8f653-6921-4814-be3f-d741df4b2f2d" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module ChannelLink="1.0" InputL="1.256455183029175" InputR="1.256455183029175"
+            ThresholdL="6.9" ThresholdR="6.9" AttackL="3.209687471389771"
+            AttackR="3.209687471389771" ReleaseL="4.000000000000000" ReleaseR="4.000000000000000"
+            OutputL="1.189385294914246" OutputR="1.189385294914246" HardL="0.000000000000000"
+            HardR="0.000000000000000" HPSideChL="1.000000000000000" HPSideChR="1.000000000000000"
+            Link="1.0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="21" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="9ca4631f-8670-467d-a26c-424c746e24f9" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InputGainL="1.515753746032715" InputGainR="1.515753746032715"
+            OutputLevelL="-0.100000001490116" OutputLevelR="-0.100000001490116"
+            UnityGainMonitor="0" InfrasonicFilter="1" Oversampling="4X" Dithering="NoDith"
+            Mode="Mode1" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Info Type="Mastering" InstrumentType="Buss" Character="Vintage" Genre="Pop"
+        ArtistName="Maor Appelbaum Mastering"/>
+</Preset>

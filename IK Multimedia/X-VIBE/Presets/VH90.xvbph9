@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1" Format="xvbph9" GUID="cb5f79c3-0642-4e39-8f8f-baa10818d474">
+  <Model Type="Stomp" GUID="6db46983-d9ff-4ebf-a1eb-d59789bdd501">
+    <Parameters Algo="4.0" expression_enable="0.0" bpm_mode="1.0" BPMSync="0.0"
+                bpm="127.6595764160156" CabSim="0.0" cab_model_A="0.0" cab_model_B="0.0"
+                PHAZER_9_SPEED="45.0" PHAZER_9_SPEED_ts="6.0" PHAZER_9_DEPTH="100.0"
+                PHAZER_9_BASS="2.300000190734863" PHAZER_9_MID="-0.6999999284744263"
+                PHAZER_9_TREBLE="3.100000143051147" PHAZER_9_MID_Q="0.4000000059604645"
+                PHAZER_9_MID_FREQ="1000.0" PHAZER_9_MIX="100.0" PHAZER_9_X-MODE="0.0"
+                PHAZER_9_SPEED_A="55.0" PHAZER_9_SPEED_ts_A="8.0" PHAZER_9_DEPTH_A="70.0"
+                PHAZER_9_BASS_A="0.0" PHAZER_9_MID_A="0.0" PHAZER_9_TREBLE_A="0.0"
+                PHAZER_9_MID_Q_A="0.4000000059604645" PHAZER_9_MID_FREQ_A="1000.0"
+                PHAZER_9_MIX_A="100.0" PHAZER_9_X-MODE_A="0.0" PHAZER_9_SPEED_B="55.0"
+                PHAZER_9_SPEED_ts_B="8.0" PHAZER_9_DEPTH_B="70.0" PHAZER_9_BASS_B="0.0"
+                PHAZER_9_MID_B="0.0" PHAZER_9_TREBLE_B="0.0" PHAZER_9_MID_Q_B="0.4000000059604645"
+                PHAZER_9_MID_FREQ_B="1000.0" PHAZER_9_MIX_B="100.0" PHAZER_9_X-MODE_B="0.0"/>
+  </Model>
+</Preset>

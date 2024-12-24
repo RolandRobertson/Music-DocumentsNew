@@ -1,0 +1,8 @@
+// by Howard Scarr
+
+Info "Sweep rapidly for digital noise"
+
+NumFrames = 45
+Wave "(index%(50-frame)==0)*rands + (index%(50-frame)!=0)*y"
+Spectrum lowest=0 highest=0 "0" // DC-removal
+Normalize base=each

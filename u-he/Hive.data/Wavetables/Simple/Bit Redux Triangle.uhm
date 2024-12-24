@@ -1,0 +1,8 @@
+// by Howard Scarr
+
+Info "Position progressively reduces bits"
+
+NumFrames = 16
+Wave "round((16-frame)*(1-2*abs(1-2*phase)))/(16-frame)"
+
+Spectrum lowest=0 highest=0 "0"

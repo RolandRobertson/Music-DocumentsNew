@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="9d9e15e946ee44eda597afd051669115">
+  <Slot Bypass="0" Model="7a444c0f-eaae-43f1-a654-04a29885333b">
+    <Module InternalEqInL="On" InternalEqInR="On" InternalPhaseL="Off" InternalPhaseR="Off"
+            InternalMicL="On" InternalMicR="On" InternalGainL="+6" InternalGainR="+6"
+            InternalOutputL="-6" InternalOutputR="-6" InternalHPFreqL="150Hz"
+            InternalHPFreqR="150Hz" InternalLPFreqL="Off" InternalLPFreqR="Off"
+            InternalHiFreqL="10kHz" InternalHiFreqR="10kHz" InternalHiBellL="Off"
+            InternalHiBellR="Off" InternalHiL="4" InternalHiR="4" InternalHiPresFreqL="5.6kHz"
+            InternalHiPresFreqR="5.6kHz" InternalHiPresQL="Off" InternalHiPresQR="Off"
+            InternalHiPresenceL="0" InternalHiPresenceR="0" InternalLowPresFreqL="470Hz"
+            InternalLowPresFreqR="470Hz" InternalLowPresQL="Off" InternalLowPresQR="Off"
+            InternalLowPresenceL="-4" InternalLowPresenceR="-4" InternalLowFreqL="Off"
+            InternalLowFreqR="Off" InternalLowBellL="Off" InternalLowBellR="Off"
+            InternalLowL="0" InternalLowR="0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr5m" GUID="aa8bacea505843c799c47bca1c10622e">
+  <Slot Bypass="0" Model="25240387-7f6d-4102-ad51-7d20d86b3cc5">
+    <Module InternalDeEsserAmount="4.476764202117920" InternalDeEsserType="0.000000000000000"
+            InternalInput="-1.143650174140930" InternalComp1="3.311489105224609"
+            InternalComp2="3.074184656143188" InternalComp3="3.265020608901978"
+            InternalComp1Out="2.679159402847290" InternalComp2Out="2.308990240097046"
+            InternalComp3Out="-14.560972213745117" InternalComp1Mute="0.000000000000000"
+            InternalComp2Mute="0.000000000000000" InternalComp3Mute="0.000000000000000"
+            InternalHPFreq="238.000000000000000" InternalBody="0.263004362583160"
+            InternalPresence="3.479138374328613" InternalAir="2.487588882446289"
+            InternalPrePost="0.000000000000000" InternalReverb="0.000000000000000"
+            InternalReverbAB="0.000000000000000" InternalSize="2.508492946624756"
+            InternalMod="2.562886714935303" InternalModAB="1.000000000000000"
+            InternalEcho="7.287779808044434" InternalEchoAB="0.000000000000000"
+            InternalTime="1/16" InternalOutput="-2.673381805419922" InternalColor="0.975873470306396"
+            InternalDrive="6.785404682159424" InternalDryWet="95.267608642578125"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

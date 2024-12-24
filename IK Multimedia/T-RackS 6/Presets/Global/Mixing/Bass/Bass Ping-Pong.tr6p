@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="8" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="f3e6728bcaa44e2ea6864247b1479cf1" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="9" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="53821d50-c1d9-4265-9ee9-f8814883a7dd" ChainNodeConnectionID="1803906800"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module LinkCh="0.000000000000000" OpticalWasPressed="1.000000000000000"
+            GBModeL="0.000000000000000" GBModeR="0.000000000000000" InputL="3.000000000000000"
+            InputR="3.000000000000000" AttackL="10.000000000000000" AttackR="10.000000000000000"
+            ReleaseL="0.000000000000000" ReleaseR="0.000000000000000" OutputL="6.000000000000000"
+            OutputR="6.000000000000000" DryWetL="100.000000000000000" DryWetR="100.000000000000000"
+            RatioL="10/1" RatioR="10/1" SideHPFreqL="10.000000000000000"
+            SideHPFreqR="10.000000000000000" SideBandFreqL="6000.000000000000000"
+            SideBandFreqR="6000.000000000000000" SideBellL="0.000000000000000"
+            SideBellR="0.000000000000000" HPL="1.000000000000000" HPR="1.000000000000000"
+            DistL="NoDist" DistR="NoDist" ToneL="0.000000000000000" ToneR="0.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="8" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="27f96c17-336e-4096-a4b2-7d147f2c0df3" ChainNodeConnectionID="1323603296"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module In="0.000000000000000" Out="0.000000000000000" DryWet="0.300000011920929"
+            Pan="0.000000000000000" StereoMode="PingPong" Time="250.000000000000000"
+            Sync="On" TimeSync="1/8" Feedback="0.200000002980232" HighPass="200.000000000000000"
+            LowPass="1959.781982421875000" Resonance="1.359550118446350"
+            Doubling="0.102609373629093" DoublingOn="On" BitReduction="0.000000000000000"
+            BitReductionOn="Off" BitReductionToDry="Off" Downsampling="0.000000000000000"
+            DownsamplingOn="Off" DownsamplingToDry="Off" Clipping="0.000000000000000"
+            ClippingOn="Off" Gate="-50.000000000000000" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Instruments" InstrumentType="Bass" Character="Dynamic"
+        Genre="House" ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

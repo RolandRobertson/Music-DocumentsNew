@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="caeb950d155f4b52a97207e8b31148e1" Factory="true">
+  <Slot Bypass="0" Model="136578b8-d7a3-4497-a03d-8c3eccfcca0c">
+    <Module LM_Gain="6.0" RS_Gain="6.0" LM_Slope="-10.0" RS_Slope="-10.0"
+            LM_Output="0.0" RS_Output="0.0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mastering" ArtistName="IK Multimedia"/>
+</Preset>

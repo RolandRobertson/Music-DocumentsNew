@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr5m" GUID="d974658219e74b6fa038ca5918b43139"
+        Factory="true">
+  <Slot Bypass="0" Model="203417ac-17e0-48df-b16e-95ba4eeac870">
+    <Module Input="0.636000037193298" Output="0.443999975919724" Speed="Fast"
+            TapeType="911" HFRecAdjust="0.500000000000000" HFPlayAdjust="0.500000000000000"
+            LFPlayAdjust="0.500000000000000" RecLevel="0.500000000000000"
+            PlayLevel="0.500000000000000" InputRepro="Input" BiasLevel="0.500000000000000"
+            TrueStereo="On" TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Harmonic" ArtistName="IK Multimedia"/>
+</Preset>

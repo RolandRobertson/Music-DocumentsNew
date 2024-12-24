@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="6e87bf823e764fe9b2d44d5198da2191">
+  <Slot Bypass="0" Model="90f10378-05ce-4139-a75e-a91a76e1fc8e">
+    <Module SideChainHPF="32.0" AttackTime="36.2" ReleaseTime="183.3" StereoEnhancement="0.9"
+            Ratio="4.67999982833862" InputDrive="0" Output="0.800000011920929"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

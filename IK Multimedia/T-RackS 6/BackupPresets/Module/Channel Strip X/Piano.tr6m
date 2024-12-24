@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="1a884e81ce2d4f73bef8c81e50706e70"
+        Factory="true">
+  <Slot Model="ef1b97ea-2450-40df-a52f-3a38f7b549a3" Bypass="0">
+    <Module Input="0.000000000000000" Vintage="Off" DeEsser="0.000000000000000"
+            DeEsserAB="Off" EQ="0.635887682437897" EQPost="On" Compression="0.498373657464981"
+            Fast="On" Transient="0.000000000000000" Output="0.822875022888184"
+            StereoEnhance="0.339089751243591" MonoMaker="100.000000000000000"
+            Band1Freq="25.354806900024414" Band1Gain="-15.000000000000000"
+            Band2Freq="85.375457763671875" Band2Gain="3.510638236999512"
+            Band2Q="0.699999988079071" Band3Freq="275.691802978515625" Band3Gain="-3.510638236999512"
+            Band3Q="0.699999988079071" Band4Freq="1315.866455078125000" Band4Gain="1.276595711708069"
+            Band4Q="0.699999988079071" Band5Freq="4249.155273437500000" Band5Gain="3.191489458084106"
+            Band5Q="0.699999988079071" Band6Freq="16222.614257812500000"
+            Band6Gain="-5.106382846832275" CurrentChannel="=" ChannelMode="L/R"
+            AdditionalCustomData_EqSelectedBand="2"/>
+  </Slot>
+  <Info Type="Instruments" InstrumentType="Piano" ArtistName="Jack Miele"/>
+</Preset>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="15" Version="2" Format="tr6p" GUID="e1d18c29d9a14029829c6ecd6309f3fd"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="12" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="1577951d-77c5-46f8-a617-8c05666dcfcd" ChainNodeConnectionID="-1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module LM_BoostLow="0.000000000000000" RS_BoostLow="0.000000000000000"
+            LM_AttenLow="1.652656197547913" RS_AttenLow="1.652656197547913"
+            LM_BoostHigh="0.436874985694885" RS_BoostHigh="0.436874985694885"
+            LM_AttenHigh="0.000000000000000" RS_AttenHigh="0.000000000000000"
+            LM_AttenSel="10" RS_AttenSel="10" LM_CPS="60" RS_CPS="60" LM_Bandwidth="7.294843673706055"
+            RS_Bandwidth="7.294843673706055" LM_KCS="12" RS_KCS="12" LM_Output="5.000000000000000"
+            RS_Output="5.000000000000000" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="13" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="3cfb7d5b-0aca-48f9-ae71-9b1d7ef3211a" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalLink="On" InternalInputGainL="0.238750129938126" InternalInputGainR="0.238750129938126"
+            InternalOutputLevelL="-0.238750129938126" InternalOutputLevelR="-0.238750129938126"
+            InternalModeL="Tape2" InternalModeR="Tape2" InternalLimiter="Off"
+            InternalOversample="1X" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="14" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="f5412485-f4cd-44ec-a652-689d34b68cfa" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Mode="1.000000000000000" InternalSoft="1.0" InternalFilterSlope="24dB/oct"
+            InternalBandNumber="3.0" InternalXFreq0="4750.000000000000000"
+            InternalXFreq1="6124.727539062500000" InternalDeEss="-15.000000000000000"
+            InternalRelease="74.496101379394531" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Slot3 Bypass="0" ChainID="7" ChainNodeID="15" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="c2453203-9fff-4466-b060-2ac916b1c160" ChainNodeConnectionID="-1154732544"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module GainInputLM="0.022422866895795" GainInputRS="0.022422866895795"
+            GainOutputLM="0.188791662454605" GainOutputRS="0.188791662454605"
+            RatioLM="4" RatioRS="4" AttackLM="3.176428318023682" AttackRS="3.176428318023682"
+            ReleaseLM="7.000000000000000" ReleaseRS="7.000000000000000" MeterMode="GR"
+            DisableGainReduction="0.000000000000000" Link="1.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot3>
+  <Info Type="Vocal" Character="Soft Saturate" ArtistName="Thomas Warren"/>
+</Preset>

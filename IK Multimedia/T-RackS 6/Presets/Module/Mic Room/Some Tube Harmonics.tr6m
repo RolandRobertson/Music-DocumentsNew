@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="c40a097140f24994964fb4a9109aa55b" Factory="true">
+  <Slot Bypass="0" Model="8d12d339-e843-4e4d-8302-8139c9376117">
+    <Module LM_SourceMicModel="DYNAMIC 58" RS_SourceMicModel="DYNAMIC 58"
+            LM_TargetMicModel="CONDENSER 12" RS_TargetMicModel="CONDENSER 12"
+            LM_InputGain="6" RS_InputGain="6" LM_Proximity="0" RS_Proximity="0"
+            LM_Harmonics="5.94871997833252" RS_Harmonics="5.94871997833252"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Effects" ArtistName="IK Multimedia"/>
+</Preset>

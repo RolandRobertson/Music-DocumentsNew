@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset HammondVolume="0.00000000000000000000" VibratoSwell="0.00000000000000000000"
+        VibratoGreat="1.00000000000000000000" VibratoChorus="4.00000000000000000000"
+        Percussion="1.00000000000000000000" PercussionVolume="1.00000000000000000000"
+        PercussionDecay="1.00000000000000000000" PercussionHarmonic="1.00000000000000000000"
+        UpperDrawBar1="8.00000000000000000000" UpperDrawBar2="8.00000000000000000000"
+        UpperDrawBar3="0.00000000000000000000" UpperDrawBar4="6.00000000000000000000"
+        UpperDrawBar5="8.00000000000000000000" UpperDrawBar6="8.00000000000000000000"
+        UpperDrawBar7="8.00000000000000000000" UpperDrawBar8="8.00000000000000000000"
+        UpperDrawBar9="8.00000000000000000000" LowerDrawBar1="0.00000000000000000000"
+        LowerDrawBar2="5.00000000000000000000" LowerDrawBar3="0.00000000000000000000"
+        LowerDrawBar4="8.00000000000000000000" LowerDrawBar5="8.00000000000000000000"
+        LowerDrawBar6="8.00000000000000000000" LowerDrawBar7="8.00000000000000000000"
+        LowerDrawBar8="8.00000000000000000000" LowerDrawBar9="8.00000000000000000000"
+        PedalsDrawBar1="4.00000000000000000000" PedalsDrawBar2="8.00000000000000000000"
+        ExpressionPedal="1.00000000000000000000" ToneWheelModel="3.00000000000000000000"
+        GeneratorLeakage="3.88894057273864746094" KeyClickOn="5.38752841949462890625"
+        KeyClickOff="3.90470218658447265625" KeyClickColor="6.00000000000000000000"
+        KeyClickReleaseVelocity="2.00000000000000000000" PercussionDecayTime="2.16092181205749511719"
+        PercussionVolumeTrim="-2.90541076660156250000" PercussionVolumeCompensation="0.00000000000000000000"
+        ChorusPresence="0.00000000000000000000" ChorusMix="5.00000000000000000000"
+        TonalBalance="0.00000000000000000000" MasterTune="0.00000000000000000000"
+        Transpose="0.00000000000000000000" PitchBendAmount="2.00000000000000000000">
+  <UpperDrawbarPresets CurrentPreset="0">
+    <Preset0 Drawbar0="0" Drawbar1="0" Drawbar2="8" Drawbar3="2" Drawbar4="0"
+             Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset1 Drawbar0="0" Drawbar1="0" Drawbar2="5" Drawbar3="3" Drawbar4="2"
+             Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset2 Drawbar0="8" Drawbar1="8" Drawbar2="8" Drawbar3="8" Drawbar4="0"
+             Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset3 Drawbar0="0" Drawbar1="0" Drawbar2="8" Drawbar3="7" Drawbar4="4"
+             Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset4 Drawbar0="8" Drawbar1="0" Drawbar2="0" Drawbar3="8" Drawbar4="8"
+             Drawbar5="8" Drawbar6="8" Drawbar7="8" Drawbar8="8"/>
+    <Preset5 Drawbar0="0" Drawbar1="0" Drawbar2="5" Drawbar3="4" Drawbar4="0"
+             Drawbar5="3" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset6 Drawbar0="0" Drawbar1="0" Drawbar2="4" Drawbar3="6" Drawbar4="7"
+             Drawbar5="5" Drawbar6="3" Drawbar7="0" Drawbar8="0"/>
+    <Preset7 Drawbar0="0" Drawbar1="0" Drawbar2="5" Drawbar3="6" Drawbar4="4"
+             Drawbar5="4" Drawbar6="3" Drawbar7="2" Drawbar8="0"/>
+    <Preset8 Drawbar0="0" Drawbar1="0" Drawbar2="6" Drawbar3="8" Drawbar4="7"
+             Drawbar5="6" Drawbar6="5" Drawbar7="4" Drawbar8="0"/>
+    <Preset9 Drawbar0="3" Drawbar1="2" Drawbar2="7" Drawbar3="6" Drawbar4="4"
+             Drawbar5="5" Drawbar6="2" Drawbar7="2" Drawbar8="2"/>
+    <Preset10 Drawbar0="8" Drawbar1="8" Drawbar2="8" Drawbar3="8" Drawbar4="0"
+              Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset11 Drawbar0="8" Drawbar1="8" Drawbar2="8" Drawbar3="0" Drawbar4="0"
+              Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+  </UpperDrawbarPresets>
+  <LowerDrawbarPresets CurrentPreset="0">
+    <Preset0 Drawbar0="8" Drawbar1="3" Drawbar2="8" Drawbar3="0" Drawbar4="0"
+             Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset1 Drawbar0="0" Drawbar1="0" Drawbar2="4" Drawbar3="5" Drawbar4="4"
+             Drawbar5="5" Drawbar6="4" Drawbar7="4" Drawbar8="0"/>
+    <Preset2 Drawbar0="0" Drawbar1="0" Drawbar2="4" Drawbar3="4" Drawbar4="2"
+             Drawbar5="3" Drawbar6="2" Drawbar7="2" Drawbar8="0"/>
+    <Preset3 Drawbar0="0" Drawbar1="0" Drawbar2="7" Drawbar3="3" Drawbar4="7"
+             Drawbar5="3" Drawbar6="4" Drawbar7="3" Drawbar8="0"/>
+    <Preset4 Drawbar0="0" Drawbar1="0" Drawbar2="4" Drawbar3="5" Drawbar4="4"
+             Drawbar5="4" Drawbar6="2" Drawbar7="2" Drawbar8="0"/>
+    <Preset5 Drawbar0="0" Drawbar1="0" Drawbar2="6" Drawbar3="6" Drawbar4="4"
+             Drawbar5="4" Drawbar6="3" Drawbar7="2" Drawbar8="2"/>
+    <Preset6 Drawbar0="0" Drawbar1="0" Drawbar2="5" Drawbar3="6" Drawbar4="4"
+             Drawbar5="2" Drawbar6="2" Drawbar7="0" Drawbar8="0"/>
+    <Preset7 Drawbar0="0" Drawbar1="0" Drawbar2="6" Drawbar3="8" Drawbar4="4"
+             Drawbar5="5" Drawbar6="4" Drawbar7="3" Drawbar8="3"/>
+    <Preset8 Drawbar0="0" Drawbar1="0" Drawbar2="8" Drawbar3="0" Drawbar4="3"
+             Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset9 Drawbar0="4" Drawbar1="2" Drawbar2="7" Drawbar3="8" Drawbar4="6"
+             Drawbar5="6" Drawbar6="2" Drawbar7="4" Drawbar8="4"/>
+    <Preset10 Drawbar0="0" Drawbar1="0" Drawbar2="8" Drawbar3="8" Drawbar4="0"
+              Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+    <Preset11 Drawbar0="8" Drawbar1="4" Drawbar2="8" Drawbar3="0" Drawbar4="1"
+              Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
+  </LowerDrawbarPresets>
+  <Overscream Drive="1.00000000000000000000" Level="7.48609352111816406250"
+              Tone="9.30000019073486328125" EffectOn="0.00000000000000000000"/>
+  <EQPG Gain31Hz="0.00000000000000000000" Gain63Hz="0.00000000000000000000"
+        Gain125Hz="0.00000000000000000000" Gain250Hz="0.00000000000000000000"
+        Gain500Hz="0.00000000000000000000" Gain1kHz="0.00000000000000000000"
+        Gain2kHz="0.33411312103271484375" Gain4kHz="0.53780746459960937500"
+        Gain8kHz="0.54029083251953125000" Gain16kHz="0.00000000000000000000"
+        Gain="0.00000000000000000000" Out="0.00000000000000000000" EffectOn="1.00000000000000000000"/>
+  <ChorusC1 Sync="0.00000000000000000000" SyncRate="0.00000000000000000000"
+            SyncChorus="0.00000000000000000000" VibratoChorus="1.00000000000000000000"
+            MonoStereo="0.00000000000000000000" Chorus="3.23000001907348632812"
+            VibDepth="4.34000015258789062500" VibRate="3.44000005722045898438"
+            Level="10.00000000000000000000" EffectOn="1.00000000000000000000"/>
+  <Wah Wah="48.31035232543945312500" Auto="50.00000000000000000000"
+       EffectOn="1.00000000000000000000"/>
+  <SpringReverb Time="1.94853091239929199219" DryWet="4.95036649703979492188"
+                EffectOn="1.00000000000000000000"/>
+  <Black76 Input="0.05631963163614273071" Ratio="0.00000000000000000000"
+           Attack="1.00000000000000000000" Release="6.09126853942871093750"
+           Output="0.55750614404678344727" EffectOn="1.00000000000000000000"/>
+  <EQ81 Mic="0.00000000000000000000" Gain="15.00000000000000000000" Output="10.00000000000000000000"
+        HPFreq="5.00000000000000000000" LPFreq="0.00000000000000000000"
+        HiFreq="0.00000000000000000000" HiBell="0.00000000000000000000"
+        Hi="0.00000000000000000000" HiPresFreq="0.00000000000000000000"
+        HiPresQ="0.00000000000000000000" HiPresence="0.00000000000000000000"
+        LowPresFreq="0.00000000000000000000" LowPresQ="0.00000000000000000000"
+        LowPresence="0.00000000000000000000" LowFreq="0.00000000000000000000"
+        LowBell="0.00000000000000000000" Low="0.00000000000000000000"
+        EqIn="1.00000000000000000000" Phase="0.00000000000000000000"
+        EffectOn="0.00000000000000000000"/>
+  <Reverb Time="1.78726792335510253906" Color="9999.99902343750000000000"
+          Density="0.00000000000000000000" Size="1.00000000000000000000"
+          DryWet="8.49655723571777343750" EffectOn="0.00000000000000000000"/>
+  <Cabinet>
+    <Leslie MicDistance="0.00000000000000000000" SlowSpeed="0.00000000000000000000"
+            FastSpeed="0.00000000000000000000" Acceleration="1.00000000000000000000"
+            Deceleration="1.00000000000000000000" Phase="0.00000000000000000000"
+            Amplifier="3.00000000000000000000" LeslieGain="0.17591871321201324463"
+            LeslieInputHPF="20.00000000000000000000" LeslieLow="0.50000000000000000000"
+            LeslieMid="0.50000000000000000000" LeslieHigh="0.56528127193450927734"
+            LeslieVolume="1.00000000000000000000" Cabinet="0.00000000000000000000"
+            LowFreq="100.00000000000000000000" LowGain="0.00000000000000000000"
+            MidFreq="1000.00000000000000000000" MidGain="0.00000000000000000000"
+            MidQ="1.00000000000000000000" HighFreq="4000.00000000000000000000"
+            HighGain="0.00000000000000000000" HornLGain="0.00000000000000000000"
+            HornLPan="-1.00000000000000000000" HornRGain="0.00000000000000000000"
+            HornRPan="1.00000000000000000000" HornLink="0.00000000000000000000"
+            DrumLGain="0.00000000000000000000" DrumLPan="-1.00000000000000000000"
+            DrumRGain="0.00000000000000000000" DrumRPan="1.00000000000000000000"
+            DrumLink="0.00000000000000000000" Output="-12.37003517150878906250"
+            DIGain="-27.59531211853027343750" GuitarAmpGain="-15.00000000000000000000"
+            GuitarAmpModel="0.00000000000000000000" DIOn="0.00000000000000000000"
+            GuitarAmpOn="0.00000000000000000000" LeslieOn="1.00000000000000000000"
+            Speed="0.00000000000000000000" Brake="0.00000000000000000000"/>
+    <BritishTubeLead Gain="4.00000000000000000000" Bass="8.00000000000000000000" Mid="6.50000000000000000000"
+                     Treble="0.50000000000000000000" Presence="1.39999997615814208984"
+                     Spring="0.00000000000000000000" Volume="10.00000000000000000000"
+                     CabSize="100.00000000000000000000"/>
+    <HiAmp NormalVolume="6.80000019073486328125" BrightVolume="6.95312500000000000000"
+           Bass="4.30000019073486328125" Middle="5.00000000000000000000"
+           Treble="5.80000019073486328125" Presence="2.50000000000000000000"
+           Master="10.00000000000000000000" Channel="0.00000000000000000000"
+           Spring="0.00000000000000000000"/>
+  </Cabinet>
+</Preset>

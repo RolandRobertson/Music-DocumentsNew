@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="f9cf8932273c47d98ec8d6839610446c">
+  <Slot Bypass="0" Model="d902df31-6e75-4063-ae6e-0966524e1bc7">
+    <Module InternalCurrentBand="0" InternalLink="Off" InternalSoloM="Off"
+            InternalSoloS="Off" InternalFilterSlope="24dB/oct" InternalBrickwall="On"
+            InternalXFreq0="150" InternalXFreq1="1000" InternalXFreq2="6000"
+            InternalMVol="2" InternalBandNumber="4" InternalBand0Bypass="Off"
+            InternalBand0IsOn="On" InternalBand0ThresholdLR="-5.30000019073486"
+            InternalBand0ThresholdM="-5" InternalBand0ThresholdS="-24.2000007629395"
+            InternalBand0AttackLR="0.0500000007450581" InternalBand0AttackM="0.0500000007450581"
+            InternalBand0AttackS="0.0500000007450581" InternalBand0ReleaseLR="90"
+            InternalBand0ReleaseM="90" InternalBand0ReleaseS="90" InternalBand0GainLR="0.299998998641968"
+            InternalBand0GainM="1" InternalBand0GainS="0.75" InternalBand1Bypass="Off"
+            InternalBand1IsOn="On" InternalBand1ThresholdLR="-6" InternalBand1ThresholdM="-6"
+            InternalBand1ThresholdS="0" InternalBand1AttackLR="0.0500000007450581"
+            InternalBand1AttackM="0.0500000007450581" InternalBand1AttackS="0.0500000007450581"
+            InternalBand1ReleaseLR="90" InternalBand1ReleaseM="90" InternalBand1ReleaseS="90"
+            InternalBand1GainLR="0.299998998641968" InternalBand1GainM="1"
+            InternalBand1GainS="0" InternalBand2Bypass="Off" InternalBand2IsOn="On"
+            InternalBand2ThresholdLR="-3.90000009536743" InternalBand2ThresholdM="-3.90000009536743"
+            InternalBand2ThresholdS="-7.19999980926514" InternalBand2AttackLR="0.0500000007450581"
+            InternalBand2AttackM="0.0500000007450581" InternalBand2AttackS="0.0500000007450581"
+            InternalBand2ReleaseLR="90" InternalBand2ReleaseM="90" InternalBand2ReleaseS="90"
+            InternalBand2GainLR="0.299998998641968" InternalBand2GainM="1"
+            InternalBand2GainS="0" InternalBand3Bypass="Off" InternalBand3IsOn="On"
+            InternalBand3ThresholdLR="-7.30000019073486" InternalBand3ThresholdM="-7.30000019073486"
+            InternalBand3ThresholdS="-18.5" InternalBand3AttackLR="0.0500000007450581"
+            InternalBand3AttackM="0.0500000007450581" InternalBand3AttackS="0.0500000007450581"
+            InternalBand3ReleaseLR="90" InternalBand3ReleaseM="90" InternalBand3ReleaseS="90"
+            InternalBand3GainLR="0.299998998641968" InternalBand3GainM="1"
+            InternalBand3GainS="0.5" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

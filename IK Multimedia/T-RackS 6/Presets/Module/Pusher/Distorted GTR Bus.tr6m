@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="222fed022ff247bab43b441f5dc1216f"
+        Factory="true">
+  <Slot Model="3aa443b0-4228-472a-b598-b77bc1e9e52e" Bypass="0">
+    <Module Input="0.500000000000000" FreqX01="150.000000000000000" FreqX12="1000.000000000000000"
+            FreqX23="6000.000000000000000" Attack="7.000000000000000" Release="150.000000000000000"
+            Bleed="0.546832501888275" DryWet="0.492809325456619" Output="0.548668444156647"
+            Band0IsActive="On" Band0Solo="Off" DriveBand0="0.266904294490814"
+            ColorBand0="0.300000011920929" TypeBand0="B" LevelBand0="0.000000000000000"
+            EnvDriveBand0="0.000000000000000" EnvColorBand0="0.000000000000000"
+            EnvLevelBand0="0.000000000000000" Band1IsActive="On" Band1Solo="Off"
+            DriveBand1="0.625045299530029" ColorBand1="0.657305777072906"
+            TypeBand1="C" LevelBand1="-1.517490386962891" EnvDriveBand1="0.142827630043030"
+            EnvColorBand1="-0.160705327987671" EnvLevelBand1="0.220648407936096"
+            Band2IsActive="On" Band2Solo="Off" DriveBand2="0.598981261253357"
+            ColorBand2="0.300000011920929" TypeBand2="C" LevelBand2="1.486022472381592"
+            EnvDriveBand2="0.123289346694946" EnvColorBand2="0.094331979751587"
+            EnvLevelBand2="-0.233178198337555" Band3IsActive="On" Band3Solo="Off"
+            DriveBand3="0.366023689508438" ColorBand3="0.567461073398590"
+            TypeBand3="A" LevelBand3="-4.038026809692383" EnvDriveBand3="0.108871579170227"
+            EnvColorBand3="-0.068544447422028" EnvLevelBand3="0.000000000000000"
+            InternalLink1="Off" InternalLink2="Off" InternalLink3="Off" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mixing" InstrumentType="Guitar" Character="Distorted" Genre="Rock"
+        ArtistName="Jack Miele"/>
+</Preset>

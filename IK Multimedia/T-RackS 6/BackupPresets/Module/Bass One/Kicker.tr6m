@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="07266b3b3ec04aa19ce09cc051fecf1e"
+        Factory="true">
+  <Slot Model="fb02d4d8-00ba-4fc1-b880-944bab44e735" Bypass="0">
+    <Module LoFreq="10.000000000000000" HiFreq="121.981254577636719" Enhance="0.496078133583069"
+            Focus="0.710078120231628" Drive="0.000000000000000" Harmonics="0.276343733072281"
+            Analog="0.404374986886978" Push="10.492967605590820" Output="0.899999976158142"
+            Mode="Heavy" Sub="On" Solo="Off" MeterMode="Multi" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mixing" Keywords="Kick Enhancer" InstrumentType="Drums"
+        Character="Modern" ArtistName="IK Multimedia"/>
+</Preset>

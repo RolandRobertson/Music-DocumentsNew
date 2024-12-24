@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="14" Version="2" Format="tr6p" GUID="e2badbb22fe84498b053c982c968c8bf"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="13" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="94eb0063-0e75-4b44-931b-5ee056b66cf3" ChainNodeConnectionID="-1878615552"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalPhaseL="Off" InternalPhaseR="Off" InternalCompInL="On"
+            InternalCompInR="On" InternalEqInL="On" InternalEqInR="On" InternalFilterInL="Off"
+            InternalFilterInR="Off" InternalEqPreL="On" InternalEqPreR="On"
+            InternalEqSCL="Off" InternalEqSCR="Off" InternalFilterSCL="On"
+            InternalFilterSCR="On" InternalHPFreqL="74.574996948242188" InternalHPFreqR="74.574996948242188"
+            InternalLPFreqL="13.648436546325684" InternalLPFreqR="13.648436546325684"
+            InternalHFGainL="2.587030410766602" InternalHFGainR="2.587030410766602"
+            InternalHFFreqL="7.628125667572021" InternalHFFreqR="7.628125667572021"
+            InternalHMFGainL="0.000000000000000" InternalHMFGainR="0.000000000000000"
+            InternalHMFFreqL="2.099999904632568" InternalHMFFreqR="2.099999904632568"
+            InternalHMFQL="0.403945326805115" InternalHMFQR="0.403945326805115"
+            InternalLMFGainL="-1.897617340087891" InternalLMFGainR="-1.897617340087891"
+            InternalLMFFreqL="0.615562498569489" InternalLMFFreqR="0.615562498569489"
+            InternalLMFQL="0.380924105644226" InternalLMFQR="0.380924105644226"
+            InternalLFGainL="2.022186279296875" InternalLFGainR="2.022186279296875"
+            InternalLFFreqL="73.914062500000000" InternalLFFreqR="73.914062500000000"
+            InternalHFBellL="On" InternalHFBellR="On" InternalLFBellL="On"
+            InternalLFBellR="On" InternalGL="Off" InternalGR="Off" InternalGainL="0.000000000000000"
+            InternalGainR="0.000000000000000" InternalVolumeL="0.000000000000000"
+            InternalVolumeR="0.000000000000000" InternalThresholdL="-10.000000000000000"
+            InternalThresholdR="-10.000000000000000" InternalRatioL="2.000000000000000"
+            InternalRatioR="2.000000000000000" InternalReleaseL="0.400000005960464"
+            InternalReleaseR="0.400000005960464" InternalFastL="Off" InternalFastR="Off"
+            InternalPeakL="Off" InternalPeakR="Off" InternalThresholdExpL="-0.041281260550022"
+            InternalThresholdExpR="-0.041281260550022" InternalHoldExpL="0.275968730449677"
+            InternalHoldExpR="0.275968730449677" InternalRangeL="40.000000000000000"
+            InternalRangeR="40.000000000000000" InternalReleaseExpL="0.540343821048737"
+            InternalReleaseExpR="0.540343821048737" InternalFastExpL="On"
+            InternalFastExpR="On" InternalExpL="Off" InternalExpR="Off" InternalLink="On"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="14" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="8f82f2a4-3f53-4b5c-9abe-a0de656a532d" ChainNodeConnectionID="-1878615552"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module LM_Input="2.000249862670898" RS_Input="2.000249862670898" LM_Ratio="2.000000000000000"
+            RS_Ratio="2.000000000000000" LM_Attack="0.760965347290039" RS_Attack="0.760965347290039"
+            LM_Release="250.000000000000000" RS_Release="250.000000000000000"
+            LM_Compression="4.910156250000000" RS_Compression="4.910156250000000"
+            LM_Output="2.000000000000000" RS_Output="2.000000000000000" MeterMode="4 dB"
+            Link="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Mixing" InstrumentType="Drums" Character="Clean" Description="Tight Gated Kick"
+        ArtistName="El Brujo Caipo"/>
+</Preset>

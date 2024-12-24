@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="af0c144d78164d6ea4cd4c954f577350">
+  <Slot Bypass="0" Model="f5412485-f4cd-44ec-a652-689d34b68cfa">
+    <Module Mode="1" InternalSoft="0" InternalFilterSlope="12dB/oct" InternalBandNumber="2"
+            InternalXFreq0="8421.8798828125" InternalXFreq1="15868.2998046875"
+            InternalDeEss="-15.3487997055054" InternalRelease="182.805999755859"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

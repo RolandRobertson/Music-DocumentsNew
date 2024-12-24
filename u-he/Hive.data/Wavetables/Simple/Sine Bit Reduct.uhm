@@ -1,0 +1,13 @@
+Info "Large table of sine waves with progressive bit reduction"
+
+NumFrames=128
+Wave "sin(2*pi*phase)"
+Wave "round(((table+0.04)*32)*x)/((table+0.04)*32)"
+NumFrames=256
+Move start=0 end=127 to=128
+Wave start=0 end=127 "main_fi(127-(frame-128), index)"
+Wave end=0 "sin(2*pi*phase)"
+Move start=0 end=0 to=255
+Wave start=128 blend=add "rands*((frame-128)/127)"
+Spectrum lowest=0 highest=0 "0"
+Normalize base=each

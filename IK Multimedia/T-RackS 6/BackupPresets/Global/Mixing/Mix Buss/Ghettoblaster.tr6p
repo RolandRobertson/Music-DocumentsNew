@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="59" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="21f6d098bccc47bfa01b2053eac69efe" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="59" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="ef1b97ea-2450-40df-a52f-3a38f7b549a3" ChainNodeConnectionID="1582406656"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="-9.998823165893555" Vintage="Off" DeEsser="0.190772637724876"
+            DeEsserAB="Off" EQ="0.500000000000000" EQPost="Off" Compression="0.553924143314362"
+            Fast="Off" Transient="0.328269541263580" Output="0.000000000000000"
+            StereoEnhance="0.000000000000000" MonoMaker="100.000000000000000"
+            Band1Freq="50.000000000000000" Band1Gain="0.000000000000000"
+            Band2Freq="120.000000000000000" Band2Gain="0.000000000000000"
+            Band2Q="0.699999988079071" Band3Freq="350.000000000000000" Band3Gain="0.000000000000000"
+            Band3Q="0.699999988079071" Band4Freq="1200.000000000000000" Band4Gain="0.000000000000000"
+            Band4Q="0.699999988079071" Band5Freq="5000.000000000000000" Band5Gain="0.000000000000000"
+            Band5Q="0.699999988079071" Band6Freq="11934.034179687500000"
+            Band6Gain="6.063829898834229" CurrentChannel="=" ChannelMode="L/R"
+            AdditionalCustomData_EqSelectedBand="5"/>
+  </Slot0>
+  <Slot1 ChainID="7" ChainNodeID="-10" ChainNodeNodeType="1" ChainNodeConnectionID="64"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0"/>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="58" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="8befc6ca-2099-4f42-9783-98cdf786b609" ChainNodeConnectionID="1582406656"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="1.000000000000000" Output="0.575832426548004" TapeType="35"
+            HFRecAdjust="0.500000000000000" HighGain="3.473173141479492"
+            HighFreq="6300.000000000000000" MidGain="-3.013350486755371"
+            MidFreq="610.449035644531250" LowGain="3.689617156982422" LowFreq="93.121086120605469"
+            RecLevel="0.617014646530151" InputRepro="Repro" BiasLevel="0.678235292434692"
+            TrueStereo="On" TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Slot3 ChainID="7" ChainNodeID="-9" ChainNodeNodeType="2" ChainNodeConnectionID="64"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0"/>
+  <Slot4 Bypass="0" ChainID="64" ChainNodeID="61" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="fe7dcfdd-284a-40e1-8594-ac39e5f6a3f9" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalInput="0.000000000000000" InternalDry="-300.000000000000000"
+            InternalWet="-11.720290184020996" InternalSoloDry="0.000000000000000"
+            InternalSoloWet="0.000000000000000" InternalPreDelay="0.000000000000000"
+            InternalDecay="45.000000000000000" InternalHPFreq="277.000000000000000"
+            InternalLow="0.000000000000000" InternalHigh="0.000000000000000"
+            InternalLPFreq="25444.000000000000000" InternalIR="Spring_3_HIGH"
+            InternalMic="1.000000000000000" InternalWidth="100.000000000000000"
+            InternalMono="0.000000000000000" CurrentChannel="=" ChannelMode="L/R"
+            AdditionalCustomData_OldCoordsX="0.0" AdditionalCustomData_OldCoordsY="0.0"/>
+  </Slot4>
+  <Info Type="Harmonic" InstrumentType="Buss" Character="Soft Saturate"
+        ArtistName="IK Multimedia"/>
+</Preset>

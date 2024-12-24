@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="10" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="c5495254da054e5fba78102e07d39cf7" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="8" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="68624d42-c6bd-4401-849b-0bc025ef6fcc" ChainNodeConnectionID="-231676576"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalHiL="+4.0" InternalHiR="+4.0" InternalHiFreqL="10kHz"
+            InternalHiFreqR="10kHz" InternalMidL="-4.0" InternalMidR="-4.0"
+            InternalMidFreqL="1500Hz" InternalMidFreqR="1500Hz" InternalLowL="-4.0"
+            InternalLowR="-4.0" InternalLowFreqL="400Hz" InternalLowFreqR="400Hz"
+            InternalGainL="0.000000000000000" InternalGainR="0.000000000000000"
+            InternalOutputL="0.000000000000000" InternalOutputR="0.000000000000000"
+            InternalHiShelfL="On" InternalHiShelfR="On" InternalLowShelfL="On"
+            InternalLowShelfR="On" InternalBandPassL="Off" InternalBandPassR="Off"
+            InternalEqInL="On" InternalEqInR="On" InternalPreampL="On" InternalPreampR="On"
+            InternalPhaseL="Off" InternalPhaseR="Off" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="10" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="2ff300f6-19b9-4e5f-a38f-465571ea9372" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalInputL="+0.0" InternalInputR="+0.0" InternalCompThresholdL="+0"
+            InternalCompThresholdR="+0" InternalRatioL="2:1" InternalRatioR="2:1"
+            InternalGainL="+4" InternalGainR="+4" InternalCompRecoveryL="100ms"
+            InternalCompRecoveryR="100ms" InternalLimThresholdL="+10.0" InternalLimThresholdR="+10.0"
+            InternalLimRecoveryL="50ms" InternalLimRecoveryR="50ms" InternalOutputL="-1.5"
+            InternalOutputR="-1.5" InternalFastL="On" InternalFastR="On"
+            InternalCompInL="On" InternalCompInR="On" InternalLimInL="On"
+            InternalLimInR="On" InternalLink="Off" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Instruments" InstrumentType="Percussion" Character="Bright"
+        Genre="Techno" ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

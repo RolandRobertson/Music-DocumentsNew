@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="645ae69eace74bffabb763d9b7e841d1">
+  <Slot Bypass="0" Model="2381adbc-cd9a-42e6-8b52-a8e539c9ef69">
+    <Module InternalDelayMode="Stereo" InternalMeterMode="Out" InternalBPMSync="On"
+            InternalInputLevel="0" InternalDelayTimeA="245.901992797852"
+            InternalDelayTimeB="245.901992797852" InternalDelayBPMSyncA="1/4"
+            InternalDelayBPMSyncB="1/4" InternalVolumeA="3.52308011054993"
+            InternalVolumeB="2.29229998588562" InternalSustainA="5.36922979354858"
+            InternalSustainB="4.26153993606567" InternalRecLevel="0" InternalTapeWear="0"
+            InternalWowFlutter="0" InternalNoise="0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="f896b9e737a14abcb46b1dbd2e744ae1" Factory="true">
+  <Slot Bypass="0" Model="fc5afb1a-4ef2-49bb-ad7f-336d8f73ab42">
+    <Module InternalLM_Band1Hz="31" InternalLM_Band1Active="1" InternalLM_Band2Gain="12"
+            InternalLM_Band2Active="1" InternalLM_Band2Hz="92" InternalLM_Band3Gain="-5.19999980926514"
+            InternalLM_Band3Active="1" InternalLM_Band3Hz="620" InternalLM_Band3Q_Float="1"
+            InternalLM_Band4Gain="3.79999995231628" InternalLM_Band4Active="1"
+            InternalLM_Band4Hz="3381" InternalLM_Band4Q_Float="1" InternalLM_Band5Gain="6"
+            InternalLM_Band5Active="1" InternalLM_Band5Hz="8300" InternalLM_Band6Hz="10083"
+            InternalLM_Band6Active="1" InternalLM_OutputLevel="0" InternalRS_Band1Hz="31"
+            InternalRS_Band1Active="1" InternalRS_Band2Gain="12" InternalRS_Band2Active="1"
+            InternalRS_Band2Hz="92" InternalRS_Band3Gain="-5.19999980926514"
+            InternalRS_Band3Active="1" InternalRS_Band3Hz="620" InternalRS_Band3Q_Float="1"
+            InternalRS_Band4Gain="3.79999995231628" InternalRS_Band4Active="1"
+            InternalRS_Band4Hz="3381" InternalRS_Band4Q_Float="1" InternalRS_Band5Gain="6"
+            InternalRS_Band5Active="1" InternalRS_Band5Hz="8300" InternalRS_Band6Hz="10083"
+            InternalRS_Band6Active="1" InternalRS_OutputLevel="0" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Effects" ArtistName="IK Multimedia"/>
+</Preset>

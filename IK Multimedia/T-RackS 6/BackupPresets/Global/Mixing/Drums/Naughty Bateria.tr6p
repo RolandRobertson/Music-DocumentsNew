@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="19" Version="2" Format="tr6p" GUID="dd931200c9e14a158370878eed217c9e"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="19" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="ca93eab8-6501-43d5-8c6e-c1620c538692" ChainNodeConnectionID="1664372224"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalGrit="On" InternalAttackL="0.3 ms" InternalAttackR="0.3 ms"
+            InternalReleaseL="0.1 S" InternalReleaseR="0.1 S" InternalRatioL="10 dB"
+            InternalRatioR="10 dB" InternalThresholdL="-10.007676124572754"
+            InternalThresholdR="-10.007676124572754" InternalMakeUpL="6.497911453247070"
+            InternalMakeUpR="6.497911453247070" InternalSideChainHPFreqL="150 Hz"
+            InternalSideChainHPFreqR="150 Hz" InternalLink="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="17" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="ef1b97ea-2450-40df-a52f-3a38f7b549a3" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="0.000000000000000" Vintage="Off" DeEsser="0.000000000000000"
+            DeEsserAB="Off" EQ="0.500000000000000" EQPost="Off" Compression="0.337468743324280"
+            Fast="Off" Transient="0.000000000000000" Output="0.000000000000000"
+            StereoEnhance="0.000000000000000" MonoMaker="100.000000000000000"
+            Band1Freq="65.490966796875000" Band1Gain="1.914893627166748"
+            Band2Freq="120.000000000000000" Band2Gain="0.000000000000000"
+            Band2Q="0.699999988079071" Band3Freq="673.445861816406250" Band3Gain="-2.234042644500732"
+            Band3Q="0.799999952316284" Band4Freq="1200.000000000000000" Band4Gain="0.000000000000000"
+            Band4Q="0.699999988079071" Band5Freq="5000.000000000000000" Band5Gain="0.000000000000000"
+            Band5Q="0.699999988079071" Band6Freq="8779.181640625000000" Band6Gain="3.191489458084106"
+            CurrentChannel="=" ChannelMode="L/R" AdditionalCustomData_EqSelectedBand="0"/>
+  </Slot1>
+  <Info Type="Mixing" InstrumentType="Drums" Character="Compressed" Description="Squashed Drums"
+        ArtistName="El Brujo Caipo"/>
+</Preset>

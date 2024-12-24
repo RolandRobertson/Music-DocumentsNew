@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="8f02061d3c8c4af9a5c9d7fad7893c24" Factory="true">
+  <Slot Bypass="0" Model="1577951d-77c5-46f8-a617-8c05666dcfcd">
+    <Module LM_BoostLow="0" RS_BoostLow="0" LM_AttenLow="0.200000002980232"
+            RS_AttenLow="0.200000002980232" LM_BoostHigh="4" RS_BoostHigh="4"
+            LM_AttenHigh="0" RS_AttenHigh="0" LM_AttenSel="5" RS_AttenSel="5"
+            LM_CPS="60" RS_CPS="60" LM_Bandwidth="5.19999980926514" RS_Bandwidth="5.19999980926514"
+            LM_KCS="4" RS_KCS="4" LM_Output="5.5" RS_Output="5.5" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mixing" ArtistName="IK Multimedia"/>
+</Preset>

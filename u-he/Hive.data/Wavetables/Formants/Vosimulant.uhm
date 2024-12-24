@@ -1,0 +1,11 @@
+Info "Variation of the Vosimplified wavetable with a larger variety of timbres"
+
+NumFrames = 64
+seed=1958423
+
+Wave "(1-phase)*abs(sin(2*(floor(3*randf*randf)+1)*pi*phase))"
+Wave "(1-phase)*abs(sin(2*(floor(5*randf)+1)*pi*phase+0.33*frame*lowpass((x*x+x),1,0)))"
+
+Spectrum lowest=0 highest=0 "0"
+
+Normalize db=0 Base=each

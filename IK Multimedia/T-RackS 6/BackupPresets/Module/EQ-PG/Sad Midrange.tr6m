@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="9f114c82e5c944db8d045137c38fd8fe" Factory="true">
+  <Slot Bypass="0" Model="3e8dc241-ed5d-414e-ba69-427349b6120b">
+    <Module InternalGain31HzL="-7.77143001556396" InternalGain31HzR="-7.77143001556396"
+            InternalGain63HzL="-2.74286007881165" InternalGain63HzR="-2.74286007881165"
+            InternalGain125HzL="-0.457138001918793" InternalGain125HzR="-0.457138001918793"
+            InternalGain250HzL="1.60000002384186" InternalGain250HzR="1.60000002384186"
+            InternalGain500HzL="3.42857003211975" InternalGain500HzR="3.42857003211975"
+            InternalGain1kHzL="4.80000019073486" InternalGain1kHzR="4.80000019073486"
+            InternalGain2kHzL="4.80000019073486" InternalGain2kHzR="4.80000019073486"
+            InternalGain4kHzL="1.60000002384186" InternalGain4kHzR="1.60000002384186"
+            InternalGain8kHzL="-1.60000002384186" InternalGain8kHzR="-1.60000002384186"
+            InternalGain16kHzL="1.60000002384186" InternalGain16kHzR="1.60000002384186"
+            InternalGainL="0" InternalGainR="0" InternalOutputL="-2.24000000953674"
+            InternalOutputR="-2.24000000953674" InternalEqInL="On" InternalEqInR="On"
+            InternalPreampL="Off" InternalPreampR="Off" InternalPhaseL="Off"
+            InternalPhaseR="Off" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Effects" ArtistName="IK Multimedia"/>
+</Preset>

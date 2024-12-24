@@ -1,0 +1,2 @@
+ALTERNATIVE name='red wood' filename='Diva_orig.txt'
+INCLUDE filename='default'

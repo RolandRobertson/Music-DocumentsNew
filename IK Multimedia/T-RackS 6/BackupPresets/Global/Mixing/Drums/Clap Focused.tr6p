@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="12" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="caa54176196e4d6aaf56a6a7f2cd1364" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="8" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="2ef25657-0b4c-442b-9d63-fb7380a77241" ChainNodeConnectionID="1825561440"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalHiL="+3.0" InternalHiR="+3.0" InternalHiFreqL="7kHz"
+            InternalHiFreqR="7kHz" InternalHiMidL="+2.0" InternalHiMidR="+2.0"
+            InternalHiMidFreqL="1.5kHz" InternalHiMidFreqR="1.5kHz" InternalLowMidL="+1.0"
+            InternalLowMidR="+1.0" InternalLowMidFreqL="240Hz" InternalLowMidFreqR="240Hz"
+            InternalLowL="0.0" InternalLowR="0.0" InternalLowFreqL="50Hz"
+            InternalLowFreqR="50Hz" InternalGainL="0.000000000000000" InternalGainR="0.000000000000000"
+            InternalOutputL="0.000000000000000" InternalOutputR="0.000000000000000"
+            InternalHiShelfL="Off" InternalHiShelfR="Off" InternalLowShelfL="Off"
+            InternalLowShelfR="Off" InternalEqInL="On" InternalEqInR="On"
+            InternalPreampL="On" InternalPreampR="On" InternalPhaseL="Off"
+            InternalPhaseR="Off" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="10" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="cf4ccc69-906b-42f3-9cd6-7eccbf833587" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="10.000000000000000" Output="-10.000000000000000" Speed="15"
+            TapeType="499" HFRecAdjust="0.500000000000000" HFPlayAdjust="0.500000000000000"
+            LFPlayAdjust="0.500000000000000" RecLevel="0.500000000000000"
+            PlayLevel="0.500000000000000" BiasLevel="0.500000000000000" InputRepro="Repro"
+            TrueStereo="On" TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="11" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="3cfb7d5b-0aca-48f9-ae71-9b1d7ef3211a" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalLink="On" InternalInputGainL="13.999375343322754" InternalInputGainR="13.999375343322754"
+            InternalOutputLevelL="-13.999375343322754" InternalOutputLevelR="-13.999375343322754"
+            InternalModeL="TubeClassA" InternalModeR="TubeClassA" InternalLimiter="Off"
+            InternalOversample="4X" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Slot3 Bypass="0" ChainID="7" ChainNodeID="12" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="136578b8-d7a3-4497-a03d-8c3eccfcca0c" ChainNodeConnectionID="111101488"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module LM_Gain="0.0" RS_Gain="0.0" LM_Slope="-6.0" RS_Slope="-6.0" LM_Output="-3.0"
+            RS_Output="-3.0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot3>
+  <Info Type="Instruments" InstrumentType="Percussion" Character="Modern"
+        Genre="Techno" ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

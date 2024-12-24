@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="52" Version="2" Format="tr6p" GUID="977194df15f242aaa016d55b4ace3325"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="51" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="c2453203-9fff-4466-b060-2ac916b1c160" ChainNodeConnectionID="-152524800"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module GainInputLM="0.036620944738388" GainInputRS="0.036620944738388"
+            GainOutputLM="0.175579160451889" GainOutputRS="0.175579160451889"
+            RatioLM="4" RatioRS="4" AttackLM="5.464396953582764" AttackRS="5.464396953582764"
+            ReleaseLM="1.000000000000000" ReleaseRS="1.000000000000000" MeterMode="GR"
+            DisableGainReduction="0.000000000000000" Link="1.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="52" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="0f0c32b2-fee4-4ff1-923b-80836658384d" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="0.000000000000000" LoFi="0.335968762636185" Type="Type1"
+            Filter="0.000000000000000" Drive="0.282421857118607" Pitch="0.000000000000000"
+            Compression="0.380562514066696" Output="0.000000000000000" Hardness="Soft"
+            Noise="0.000000000000000" Wow="0.000000000000000" Flutter="0.000000000000000"
+            DryWet="0.189787074923515" Width="0.453062534332275" CurrentChannel="="
+            ChannelMode="L/R" AdditionalCustomData_LastTouchedParameter="3"/>
+  </Slot1>
+  <Info Type="Mixing" Character="Compressed"/>
+</Preset>

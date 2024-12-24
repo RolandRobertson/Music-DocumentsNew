@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="1e939f03126c46b69d005c6346fc7a6f">
+  <Slot Bypass="0" Model="9ca4631f-8670-467d-a26c-424c746e24f9">
+    <Module InputGainL="3" InputGainR="3" OutputLevelL="-0.100000001490116"
+            OutputLevelR="-0.100000001490116" UnityGainMonitor="0" InfrasonicFilter="0"
+            Oversampling="16X" Dithering="NoDith" Mode="Mode1" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+</Preset>

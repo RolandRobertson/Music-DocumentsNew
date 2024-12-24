@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="2f1a7f45e0b94b779932a2e849b3f60e" Factory="true">
+  <Slot Bypass="0" Model="7a444c0f-eaae-43f1-a654-04a29885333b">
+    <Module InternalEqInL="On" InternalEqInR="On" InternalPhaseL="Off" InternalPhaseR="Off"
+            InternalMicL="Off" InternalMicR="Off" InternalGainL="0" InternalGainR="0"
+            InternalOutputL="0" InternalOutputR="0" InternalHPFreqL="Off"
+            InternalHPFreqR="Off" InternalLPFreqL="Off" InternalLPFreqR="Off"
+            InternalHiFreqL="6p8kHz" InternalHiFreqR="6p8kHz" InternalHiBellL="Off"
+            InternalHiBellR="Off" InternalHiL="4.53845977783203" InternalHiR="4.53845977783203"
+            InternalHiPresFreqL="8.2kHz" InternalHiPresFreqR="8.2kHz" InternalHiPresQL="Off"
+            InternalHiPresQR="Off" InternalHiPresenceL="0" InternalHiPresenceR="0"
+            InternalLowPresFreqL="220Hz" InternalLowPresFreqR="220Hz" InternalLowPresQL="Off"
+            InternalLowPresQR="Off" InternalLowPresenceL="0" InternalLowPresenceR="0"
+            InternalLowFreqL="180Hz" InternalLowFreqR="180Hz" InternalLowBellL="On"
+            InternalLowBellR="On" InternalLowL="-2" InternalLowR="-2" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Instruments" ArtistName="IK Multimedia"/>
+</Preset>

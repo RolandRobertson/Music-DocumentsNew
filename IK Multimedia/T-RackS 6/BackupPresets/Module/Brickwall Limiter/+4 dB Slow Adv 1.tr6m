@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="015f31cbf7434124bc31d8adcd5aa9c0" Factory="true">
+  <Slot Bypass="0" Model="7f4e1fbf-b3d4-4161-95e4-8402ac75ec90">
+    <Module InternalInputL="3.59999990463257" InternalInputR="3.59999990463257"
+            InternalOutputCeilingL="-0.200000002980232" InternalOutputCeilingR="-0.200000002980232"
+            InternalAttackTimeL="0.0500000007450581" InternalAttackTimeR="0.0500000007450581"
+            InternalReleaseTimeL="250" InternalReleaseTimeR="250" InternalStyle="Advanced 1"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mastering" ArtistName="IK Multimedia"/>
+</Preset>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="49" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="100bf009ef804ecb9042bae712c02497" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="26" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="3aa443b0-4228-472a-b598-b77bc1e9e52e" ChainNodeConnectionID="-1310101856"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="0.598864972591400" FreqX01="150.000000000000000" FreqX12="1000.000000000000000"
+            FreqX23="6000.000000000000000" Attack="7.000000000000000" Release="150.000000000000000"
+            Bleed="0.727880358695984" DryWet="0.499362051486969" Output="0.312647342681885"
+            Band0IsActive="On" Band0Solo="Off" DriveBand0="0.797169566154480"
+            ColorBand0="0.241348043084145" TypeBand0="C" LevelBand0="0.000000000000000"
+            EnvDriveBand0="-0.240569114685059" EnvColorBand0="0.000000000000000"
+            EnvLevelBand0="0.309782981872559" Band1IsActive="On" Band1Solo="Off"
+            DriveBand1="0.797169566154480" ColorBand1="0.241348043084145"
+            TypeBand1="C" LevelBand1="0.000000000000000" EnvDriveBand1="-0.240569114685059"
+            EnvColorBand1="0.000000000000000" EnvLevelBand1="0.309782981872559"
+            Band2IsActive="On" Band2Solo="Off" DriveBand2="0.797169566154480"
+            ColorBand2="0.241348043084145" TypeBand2="C" LevelBand2="0.000000000000000"
+            EnvDriveBand2="-0.240569114685059" EnvColorBand2="0.000000000000000"
+            EnvLevelBand2="0.309782981872559" Band3IsActive="On" Band3Solo="Off"
+            DriveBand3="0.797169566154480" ColorBand3="0.241348043084145"
+            TypeBand3="C" LevelBand3="0.000000000000000" EnvDriveBand3="-0.240569114685059"
+            EnvColorBand3="0.000000000000000" EnvLevelBand3="0.309782981872559"
+            InternalLink1="On" InternalLink2="On" InternalLink3="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 ChainID="7" ChainNodeID="-33" ChainNodeNodeType="1" ChainNodeConnectionID="47"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0"/>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="43" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="2ca4014a-5c98-448e-9764-a202d4ee3f89" ChainNodeConnectionID="-1310101856"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="5.000000000000000" DryWet="50.000000000000000" Mode="8.000000000000000"
+            Bass="0.000000000000000" Treble="-0.011761665344238" RevVol="4.970141410827637"
+            RevPan="0.000000000000000" Rate="5.000000000000000" RateSync="10.000000000000000"
+            Feedback="4.000000000000000" DelayVol="6.941557407379150" DelayPan="0.000000000000000"
+            HPF="10.000000000000000" LPF="5329.040039062500000" Ducking="41.710231781005859"
+            StereoRev="1.000000000000000" FXFeed="1.000000000000000" Noise="4.921389102935791"
+            TapeAge="10.000000000000000" Sync="1.000000000000000" Head1Pan="-4.160366058349609"
+            Head2Pan="3.551929473876953" Head3Pan="0.000000000000000" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot2>
+  <Slot3 ChainID="7" ChainNodeID="-32" ChainNodeNodeType="2" ChainNodeConnectionID="47"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0"/>
+  <Slot4 Bypass="0" ChainID="7" ChainNodeID="49" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="136578b8-d7a3-4497-a03d-8c3eccfcca0c" ChainNodeConnectionID="-1310101856"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module LM_Gain="10.0" RS_Gain="10.0" LM_Slope="-6.0" RS_Slope="-6.0"
+            LM_Output="-6.8" RS_Output="-6.8" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot4>
+  <Slot5 Bypass="0" ChainID="47" ChainNodeID="45" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="3e69bd4b-9268-4e66-aecd-85a9234833d0" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="0.000000000000000" Output="0.000000000000000" DryWet="1.000000000000000"
+            Blend="0.497076779603958" MaterialA="Pb" ToneA="0.500000000000000"
+            LengthA="32.103969573974609" StretchA="0.000000000000000" PanA="0.000000000000000"
+            MonoA="0.000000000000000" MaterialB="Fe" ToneB="0.500000000000000"
+            LengthB="53.405597686767578" StretchB="0.000000000000000" PanB="0.000000000000000"
+            MonoB="0.000000000000000" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot5>
+  <Info Type="Effects" InstrumentType="Buss" Character="Wet" ArtistName="IK Multimedia"/>
+</Preset>

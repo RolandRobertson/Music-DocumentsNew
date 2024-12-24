@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1" Format="xvbpcl" GUID="987fa9aa-f455-4bc5-806c-995ec333c8f7">
+  <Model Type="Stomp" GUID="6db46983-d9ff-4ebf-a1eb-d59789bdd501">
+    <Parameters Algo="6.0" expression_enable="0.0" bpm_mode="1.0" BPMSync="0.0"
+                bpm="115.3846130371094" CabSim="0.0" cab_model_A="0.0" cab_model_B="0.0"
+                PHAZER_CL_SPEED="76.0" PHAZER_CL_SPEED_ts="7.999999523162842"
+                PHAZER_CL_DEPTH="39.0" PHAZER_CL_BASS="2.600000143051147" PHAZER_CL_MID="1.50000011920929"
+                PHAZER_CL_TREBLE="0.8000000715255737" PHAZER_CL_COLOR="-8.0"
+                PHAZER_CL_MID_Q="0.4000000059604645" PHAZER_CL_MID_FREQ="1000.0"
+                PHAZER_CL_MIX="100.0" PHAZER_CL_X-MODE="0.0" PHAZER_CL_SPEED_A="50.0"
+                PHAZER_CL_SPEED_ts_A="8.0" PHAZER_CL_DEPTH_A="75.0" PHAZER_CL_BASS_A="0.0"
+                PHAZER_CL_MID_A="0.0" PHAZER_CL_TREBLE_A="0.0" PHAZER_CL_COLOR_A="0.0"
+                PHAZER_CL_MID_Q_A="0.4000000059604645" PHAZER_CL_MID_FREQ_A="1000.0"
+                PHAZER_CL_MIX_A="100.0" PHAZER_CL_X-MODE_A="0.0" PHAZER_CL_SPEED_B="50.0"
+                PHAZER_CL_SPEED_ts_B="8.0" PHAZER_CL_DEPTH_B="75.0" PHAZER_CL_BASS_B="0.0"
+                PHAZER_CL_MID_B="0.0" PHAZER_CL_TREBLE_B="0.0" PHAZER_CL_COLOR_B="0.0"
+                PHAZER_CL_MID_Q_B="0.4000000059604645" PHAZER_CL_MID_FREQ_B="1000.0"
+                PHAZER_CL_MIX_B="100.0" PHAZER_CL_X-MODE_B="0.0"/>
+  </Model>
+</Preset>

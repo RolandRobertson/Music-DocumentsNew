@@ -1,0 +1,26 @@
+// by Urs Heckmann
+
+Info "Morphing two very different waveforms to create a filter-like sweep"
+
+NumFrames = 101
+
+// creating two frames, 0 and 100, where 0 is a dull waveform and 100 has a bright spectrum
+
+Wave start=0 end=0 "lowpass(lowpass( phase, 0.1, 0.0 ), 0.1, 0.0 )"
+
+Wave start=100 end=100 "lowpass( (rand), 0.3, 0.3 ) - 0.1*bandpass( rand, 0.5, 0.4 ) + 0.2*bandpass( rand, 0.8, 0.4 )"
+
+// remove DC offset
+
+Spectrum lowest=0 highest=0 "0"
+
+// now, morph between frame 0 and frame 100
+// in comparison, try type=crossfade ;-)
+
+Interpolate start=0 end=100 type=morph1
+
+Normalize base=each
+
+// set fundamental to equal volume everywhere
+
+Spectrum highest=1 "1"

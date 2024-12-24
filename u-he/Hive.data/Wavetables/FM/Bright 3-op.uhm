@@ -1,0 +1,9 @@
+// by Howard Scarr
+
+Info "3-operator FM in series, harmonics 2, 5 and 1"
+
+Wave "sin(4*pi*phase)" // create top modulator op
+Wave "sin(10*pi*phase + x*(1-table)*4)" // ...and use it. Middle op.
+Wave "sin(2*pi*phase + x*(1-table)*2)" // ... use it again. Carrier.
+
+// FM formula: sin( 2*pi* (phase*harmonic + delta*depth) )

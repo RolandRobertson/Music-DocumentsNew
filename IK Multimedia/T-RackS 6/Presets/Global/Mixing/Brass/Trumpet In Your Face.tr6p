@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="10" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="79e77522b4034d71ba3ecd9d15a191d5" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="8" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="3e8dc241-ed5d-414e-ba69-427349b6120b" ChainNodeConnectionID="1742289760"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalGain31HzL="-12.000000000000000" InternalGain31HzR="-12.000000000000000"
+            InternalGain63HzL="-6.000000000000000" InternalGain63HzR="-6.000000000000000"
+            InternalGain125HzL="-2.000000000000000" InternalGain125HzR="-2.000000000000000"
+            InternalGain250HzL="0.000000000000000" InternalGain250HzR="0.000000000000000"
+            InternalGain500HzL="1.984075546264648" InternalGain500HzR="1.984075546264648"
+            InternalGain1kHzL="0.000000000000000" InternalGain1kHzR="0.000000000000000"
+            InternalGain2kHzL="2.000000000000000" InternalGain2kHzR="2.000000000000000"
+            InternalGain4kHzL="4.000000000000000" InternalGain4kHzR="4.000000000000000"
+            InternalGain8kHzL="2.000000000000000" InternalGain8kHzR="2.000000000000000"
+            InternalGain16kHzL="0.000000000000000" InternalGain16kHzR="0.000000000000000"
+            InternalGainL="0.000000000000000" InternalGainR="0.000000000000000"
+            InternalOutputL="-2.996250152587891" InternalOutputR="-2.996250152587891"
+            InternalEqInL="On" InternalEqInR="On" InternalPreampL="On" InternalPreampR="On"
+            InternalPhaseL="Off" InternalPhaseR="Off" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="10" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="ca93eab8-6501-43d5-8c6e-c1620c538692" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalGrit="On" InternalAttackL="3 ms" InternalAttackR="3 ms"
+            InternalReleaseL="0.3 S" InternalReleaseR="0.3 S" InternalRatioL="4 dB"
+            InternalRatioR="4 dB" InternalThresholdL="3.974821090698242"
+            InternalThresholdR="3.974821090698242" InternalMakeUpL="-1.000000000000000"
+            InternalMakeUpR="-1.000000000000000" InternalSideChainHPFreqL="60 Hz"
+            InternalSideChainHPFreqR="60 Hz" InternalLink="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Instruments" InstrumentType="Brass" Character="Compressed"
+        Genre="Jazz" ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

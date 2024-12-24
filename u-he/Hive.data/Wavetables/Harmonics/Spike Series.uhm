@@ -1,0 +1,8 @@
+// by Howard Scarr
+
+Info "Multiple spikes in a saw create harmonics (up to 2 octaves + 5th)"
+
+NumFrames=12
+
+Spectrum "((index%(frame+3))==(frame+1))"
+Wave "lowpass(x,0.4+((frame+1)/10),0)"

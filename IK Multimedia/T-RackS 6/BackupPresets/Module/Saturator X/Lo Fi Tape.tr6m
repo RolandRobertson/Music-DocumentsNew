@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="ec0ed35951aa4ca1a263ba94968b1af3" Factory="true">
+  <Slot Bypass="0" Model="3cfb7d5b-0aca-48f9-ae71-9b1d7ef3211a">
+    <Module InternalInputGainL="12" InternalInputGainR="12" InternalOutputLevelL="-11"
+            InternalOutputLevelR="-11" InternalModeL="Tape2" InternalModeR="Tape2"
+            InternalLimiter="Off" InternalOversample="1X" InternalLink="On"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mastering" ArtistName="IK Multimedia"/>
+</Preset>

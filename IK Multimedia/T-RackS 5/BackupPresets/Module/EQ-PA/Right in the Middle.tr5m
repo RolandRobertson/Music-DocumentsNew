@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="d6fc3863824847eb866c9f5d837d42da">
+  <Slot Bypass="0" Model="68624d42-c6bd-4401-849b-0bc025ef6fcc">
+    <Module InternalHiL="-3.0" InternalHiR="-3.0" InternalHiFreqL="5kHz"
+            InternalHiFreqR="5kHz" InternalMidL="+4.0" InternalMidR="+4.0"
+            InternalMidFreqL="1500Hz" InternalMidFreqR="1500Hz" InternalLowL="-1.0"
+            InternalLowR="-1.0" InternalLowFreqL="200Hz" InternalLowFreqR="200Hz"
+            InternalGainL="0" InternalGainR="0" InternalOutputL="0" InternalOutputR="0"
+            InternalHiShelfL="Off" InternalHiShelfR="Off" InternalLowShelfL="Off"
+            InternalLowShelfR="Off" InternalBandPassL="Off" InternalBandPassR="Off"
+            InternalEqInL="On" InternalEqInR="On" InternalPreampL="Off" InternalPreampR="Off"
+            InternalPhaseL="Off" InternalPhaseR="Off" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+</Preset>

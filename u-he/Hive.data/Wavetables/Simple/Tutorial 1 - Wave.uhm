@@ -1,0 +1,61 @@
+	Info "UHM tutorial all about the Wave function"
+
+	/********************************************************
+
+		A small uhm tutorial for standard wavefoms
+
+		The Wave function is the heart of uhm script files.
+		It lets one create a wavetable based on formulas.
+
+	********************************************************/
+
+		// Step 1: Set number of waveforms within wavetable
+		// choosing 5 lets us select those waveforms at
+		// wavetable positions 0, 25, 50, 75 and 100
+
+	NumFrames = 5
+
+
+		// Sinewave (frame 0)
+		//
+		// Learn: "phase" goes from 0 to 1
+		//
+		// Learn: if you want to work on specific frames, set start and end
+
+	Wave start=0 end=0 "sin(2*pi*phase)"
+
+
+		// Sawtooth (frame 1)
+		//
+		// learn: always try to get waveforms oscillate between -1 and +1
+
+	Wave start=1 end=1 "1-2*phase"
+
+
+		// Square (frame 2)
+		//
+		// learn: "a >= b" results in 1 if true, 0 if false
+
+	Wave start=2 end=2 "1-2*(phase>=0.5)"
+
+
+		// Triangle (frame 3)
+
+	Wave start=3 end=3 "1-2*abs(1-2*phase)"
+
+
+		// Narrow Peak (frame 4)
+		//
+		// this one starts with a narrow peak and ends with an inverted one
+		// all harmonics have the same volume in this waveform
+		//
+		// learn: "index" goes from 0 to 2047
+		//
+		// The term "index<28" is 1 from 0-27 and zero thereafter
+
+	 Wave start=4 end=4 "2*((index<28)-(index>2020))"
+
+
+	 	// DC-removal trick
+
+	 Spectrum lowest=0 highest=0 "0"

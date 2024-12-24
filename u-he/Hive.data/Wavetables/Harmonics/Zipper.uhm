@@ -1,0 +1,14 @@
+// by Denis Druzhinin
+
+Info "3 different sweeps in one table = interesting transitions"
+
+NumFrames = 101
+
+Wave start=0 end=33 "sin(2*pi*20*phase^4 + y)"
+Wave start=34 end=66 "sin(2*pi*15*phase^0.5 + y)"
+Wave start=67 end=100 "sin(2*pi*5*phase + y)"
+
+Wave "sin(2*pi*phase^(80/(frame+2)) + x*table*1.5)"
+
+Spectrum lowest=0 highest=0 "0"
+Normalize base=each

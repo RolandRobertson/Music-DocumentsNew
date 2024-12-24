@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1" Format="xvbstn" GUID="63300fec-0e65-41dc-b8f3-60b3eebcd940">
+  <Model Type="Stomp" GUID="6db46983-d9ff-4ebf-a1eb-d59789bdd501">
+    <Parameters Algo="8.0" expression_enable="0.0" bpm_mode="1.0" BPMSync="0.0"
+                bpm="122.4489822387695" CabSim="0.0" cab_model_A="0.0" cab_model_B="0.0"
+                STONE_SPEED="49.0" STONE_SPEED_ts="9.0" STONE_DEPTH="1.0" STONE_BASS="2.200000047683716"
+                STONE_MID="5.700000286102295" STONE_TREBLE="1.700000166893005"
+                STONE_MID_Q="0.4000000059604645" STONE_MID_FREQ="1000.0" STONE_MIX="100.0"
+                STONE_X-MODE="0.0" STONE_SPEED_A="50.0" STONE_SPEED_ts_A="8.0"
+                STONE_DEPTH_A="1.0" STONE_BASS_A="0.0" STONE_MID_A="0.0" STONE_TREBLE_A="0.0"
+                STONE_MID_Q_A="0.4000000059604645" STONE_MID_FREQ_A="1000.0"
+                STONE_MIX_A="100.0" STONE_X-MODE_A="0.0" STONE_SPEED_B="50.0"
+                STONE_SPEED_ts_B="8.0" STONE_DEPTH_B="1.0" STONE_BASS_B="0.0"
+                STONE_MID_B="0.0" STONE_TREBLE_B="0.0" STONE_MID_Q_B="0.4000000059604645"
+                STONE_MID_FREQ_B="1000.0" STONE_MIX_B="100.0" STONE_X-MODE_B="0.0"/>
+  </Model>
+</Preset>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr5m" GUID="ea6f0ecfe2a64889aea7e2befe756067"
+        Factory="true">
+  <Slot Bypass="0" Model="4e9c68aa-4ddf-4365-942b-91db2a79dbf5">
+    <Module Input="0.794125437736511" Output="0.621637582778931" TapeType="TYPE I"
+            HFRecAdjust="0.691772043704987" HFPlayAdjust="0.706896483898163"
+            LFPlayAdjust="0.573973774909973" RecLevel="0.463716149330139"
+            InputRepro="Repro" BiasLevel="0.628321528434753" TrueStereo="Off"
+            TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Effects" ArtistName="IK Multimedia"/>
+</Preset>

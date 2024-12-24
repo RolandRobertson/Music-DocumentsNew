@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="407331b63af948e8a00dc35054d90a8c" Factory="true">
+  <Slot Bypass="0" Model="f5412485-f4cd-44ec-a652-689d34b68cfa">
+    <Module Mode="1" InternalSoft="0" InternalFilterSlope="24dB/oct" InternalBandNumber="2"
+            InternalXFreq0="9003.76953125" InternalXFreq1="15868.2998046875"
+            InternalDeEss="-24.6511001586914" InternalRelease="147.992004394531"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mastering" ArtistName="IK Multimedia"/>
+</Preset>

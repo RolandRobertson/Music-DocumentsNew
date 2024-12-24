@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="16" Version="2" Format="tr6p" GUID="06d657d25b3b4f10ad532e60c781d049"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="15" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="0f0c32b2-fee4-4ff1-923b-80836658384d" ChainNodeConnectionID="-742030336"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="0.000000000000000" LoFi="0.122734375298023" Type="Type1"
+            Filter="0.179250001907349" Drive="0.192265629768372" Pitch="0.000000000000000"
+            Compression="0.185953125357628" Output="0.000000000000000" Hardness="Soft"
+            Noise="0.000000000000000" Wow="0.000000000000000" Flutter="0.000000000000000"
+            DryWet="1.000000000000000" Width="0.352593779563904" CurrentChannel="="
+            ChannelMode="L/R" AdditionalCustomData_LastTouchedParameter="3"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="14" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="27f96c17-336e-4096-a4b2-7d147f2c0df3" ChainNodeConnectionID="2"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module In="0.000000000000000" Out="0.000000000000000" DryWet="1.000000000000000"
+            Pan="0.000000000000000" StereoMode="PingPong" Time="250.000000000000000"
+            Sync="On" TimeSync="1/4" Feedback="0.406124979257584" HighPass="330.258117675781250"
+            LowPass="2181.562744140625000" Resonance="1.996762514114380"
+            Doubling="0.137734368443489" DoublingOn="On" BitReduction="0.000000000000000"
+            BitReductionOn="Off" BitReductionToDry="Off" Downsampling="0.073859371244907"
+            DownsamplingOn="On" DownsamplingToDry="On" Clipping="0.390562504529953"
+            ClippingOn="On" Gate="-50.000000000000000" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="16" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="8f82f2a4-3f53-4b5c-9abe-a0de656a532d" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module LM_Input="0.000000000000000" RS_Input="0.000000000000000" LM_Ratio="2.000000000000000"
+            RS_Ratio="2.000000000000000" LM_Attack="0.000000000000000" RS_Attack="0.000000000000000"
+            LM_Release="206.979660034179688" RS_Release="206.979660034179688"
+            LM_Compression="6.763749599456787" RS_Compression="6.763749599456787"
+            LM_Output="0.001251220703125" RS_Output="0.001251220703125" MeterMode="4 dB"
+            Link="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot2>
+  <Info Type="Effects" Character="Wet" Description="Ping pong Delay"
+        ArtistName="El Brujo Caipo"/>
+</Preset>

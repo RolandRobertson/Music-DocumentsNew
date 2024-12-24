@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="ee9ff289ae5d4b79a300193cd7c4be05"
+        Factory="true">
+  <Slot Model="3f0a9a75-d6db-4a0f-82b8-cbabb17a4285" Bypass="0">
+    <Module InputLevel="0.000000000000000" OutputLevel="0.000000000000000"
+            Feedback="0.000000000000000" Stereo="Mono" Amount1="0.699999988079071"
+            Amount2="0.699999988079071" Amount3="0.699999988079071" Pan1="-1.000000000000000"
+            Pan2="0.000000000000000" Pan3="1.000000000000000" Phase1="0.000000000000000"
+            Phase2="0.000000000000000" Phase3="0.000000000000000" Rate1="0.389999985694885"
+            Rate2="0.300000011920929" Rate3="0.150000005960464" Rate1Sync="1/8"
+            Rate2Sync="1/8" Rate3Sync="1/8" BPMSync1="Off" BPMSync2="Off"
+            BPMSync3="Off" Voice1On="On" Voice2On="On" Voice3On="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mastering"/>
+</Preset>

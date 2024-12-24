@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="3b103f8c347d46fe9ba4f0198a4e7d59" Factory="true">
+  <Slot Bypass="0" Model="3cfb7d5b-0aca-48f9-ae71-9b1d7ef3211a">
+    <Module InternalInputGainL="30" InternalInputGainR="30" InternalOutputLevelL="-9"
+            InternalOutputLevelR="-9" InternalModeL="TubePushPull" InternalModeR="TubePushPull"
+            InternalLimiter="On" InternalOversample="1X" InternalLink="Off"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Effects" ArtistName="IK Multimedia"/>
+</Preset>

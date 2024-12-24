@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="c80a257762f54bc98aaea634e2ee7be4"
+        Factory="true">
+  <Slot Model="ca93eab8-6501-43d5-8c6e-c1620c538692" Bypass="0">
+    <Module InternalGrit="On" InternalAttackL="3 ms" InternalAttackR="3 ms"
+            InternalReleaseL="0.1 S" InternalReleaseR="0.1 S" InternalRatioL="1.5 dB"
+            InternalRatioR="1.5 dB" InternalThresholdL="9.966392517089844"
+            InternalThresholdR="9.966392517089844" InternalMakeUpL="1.495019912719727"
+            InternalMakeUpR="1.495019912719727" InternalSideChainHPFreqL="150 Hz"
+            InternalSideChainHPFreqR="150 Hz" InternalLink="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mixing" InstrumentType="Buss" ArtistName="Jack Miele"/>
+</Preset>

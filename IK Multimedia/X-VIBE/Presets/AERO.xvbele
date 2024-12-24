@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1" Format="xvbele" GUID="5cc299a2-3c15-4449-8c80-1f0307d89006">
+  <Model Type="Stomp" GUID="6db46983-d9ff-4ebf-a1eb-d59789bdd501">
+    <Parameters Algo="9.0" expression_enable="0.0" bpm_mode="1.0" BPMSync="0.0"
+                bpm="113.2075500488281" CabSim="0.0" cab_model_A="0.0" cab_model_B="0.0"
+                ELECTRIC_SPEED="11.0" ELECTRIC_SPEED_ts="15.0" ELECTRIC_DEPTH="66.0"
+                ELECTRIC_BASS="3.300000190734863" ELECTRIC_MID="2.0" ELECTRIC_TREBLE="0.6000000834465027"
+                ELECTRIC_COLOR="20.0" ELECTRIC_MID_Q="0.4000000059604645" ELECTRIC_MID_FREQ="1000.0"
+                ELECTRIC_MIX="100.0" ELECTRIC_X-MODE="0.0" ELECTRIC_SPEED_A="50.0"
+                ELECTRIC_SPEED_ts_A="8.0" ELECTRIC_DEPTH_A="30.0" ELECTRIC_BASS_A="0.0"
+                ELECTRIC_MID_A="0.0" ELECTRIC_TREBLE_A="0.0" ELECTRIC_COLOR_A="16.0"
+                ELECTRIC_MID_Q_A="0.4000000059604645" ELECTRIC_MID_FREQ_A="1000.0"
+                ELECTRIC_MIX_A="100.0" ELECTRIC_X-MODE_A="0.0" ELECTRIC_SPEED_B="50.0"
+                ELECTRIC_SPEED_ts_B="8.0" ELECTRIC_DEPTH_B="30.0" ELECTRIC_BASS_B="0.0"
+                ELECTRIC_MID_B="0.0" ELECTRIC_TREBLE_B="0.0" ELECTRIC_COLOR_B="16.0"
+                ELECTRIC_MID_Q_B="0.4000000059604645" ELECTRIC_MID_FREQ_B="1000.0"
+                ELECTRIC_MIX_B="100.0" ELECTRIC_X-MODE_B="0.0"/>
+  </Model>
+</Preset>

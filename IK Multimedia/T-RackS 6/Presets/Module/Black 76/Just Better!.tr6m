@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="1cc3dee3d5494b25b1b54f58eb5c867b" Factory="true">
+  <Slot Bypass="0" Model="c2453203-9fff-4466-b060-2ac916b1c160">
+    <Module GainInputLM="0.0354809984564781" GainInputRS="0.0354809984564781"
+            GainOutputLM="0.243022993206978" GainOutputRS="0.243022993206978"
+            RatioLM="12" RatioRS="12" AttackLM="5.4307689666748" AttackRS="5.4307689666748"
+            ReleaseLM="2.5" ReleaseRS="2.5" MeterMode="GR" DisableGainReduction="0"
+            Link="0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mixing" ArtistName="IK Multimedia"/>
+</Preset>

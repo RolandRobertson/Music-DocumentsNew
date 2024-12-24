@@ -1,0 +1,18 @@
+// by Urs Heckmann
+
+Info "Multilayered FM sound - set Tables to 8"
+
+NumFrames = 128
+
+Envelope L0=3 T1=0.5 L1=1.0 T2=0.5 L2=0.05
+
+Wave start=0 end=15 "sin(2*pi*phase + env(table) * sin(2*pi*phase) )"
+Wave start=16 end=31 "sin(2*pi*phase + env(table) * main_fi(frame-16,index) )"
+Wave start=32 end=47 "sin(2*pi*phase + env(table) * main_fi(frame-16,index) )"
+Wave start=48 end=63 "sin(2*pi*phase + env(table) * main_fi(frame-16,index) )"
+Wave start=64 end=79 "sin(2*pi*phase + env(table) * main_fi(frame-16,index) )"
+Wave start=80 end=95 "sin(2*pi*phase + env(table) * main_fi(frame-16,index) )"
+Wave start=96 end=111 "sin(2*pi*phase + env(table) * main_fi(frame-16,index) )"
+Wave start=112 end=127 "sin(2*pi*phase + env(table) * main_fi(frame-16,index) )"
+
+Normalize dB=0 base=each

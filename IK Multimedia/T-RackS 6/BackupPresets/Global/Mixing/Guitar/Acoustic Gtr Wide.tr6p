@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="8" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="766f41308fe545b4a8f778c8ee4c9bd7" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="8" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="ef1b97ea-2450-40df-a52f-3a38f7b549a3" ChainNodeConnectionID="1322387808"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="9.000000000000000" Vintage="Off" DeEsser="0.502906262874603"
+            DeEsserAB="On" EQ="0.500000000000000" EQPost="Off" Compression="0.500000000000000"
+            Fast="Off" Transient="0.300000011920929" Output="-10.000000000000000"
+            StereoEnhance="0.268841862678528" MonoMaker="300.000000000000000"
+            Band1Freq="60.816749572753906" Band1Gain="-14.680850982666016"
+            Band2Freq="110.287590026855469" Band2Gain="2.000000000000000"
+            Band2Q="0.699999988079071" Band3Freq="270.000000000000000" Band3Gain="-3.000000000000000"
+            Band3Q="4.000000000000000" Band4Freq="1300.000000000000000" Band4Gain="2.000000000000000"
+            Band4Q="2.999999284744263" Band5Freq="5200.000000000000000" Band5Gain="1.500000000000000"
+            Band5Q="0.500000000000000" Band6Freq="20000.000000000000000"
+            Band6Gain="-4.000000000000000" CurrentChannel="=" ChannelMode="L/R"
+            AdditionalCustomData_EqPreset="EGuitar" AdditionalCustomData_EqSelectedBand="5"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="9" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="f3bc2ff8-7305-4d34-8586-e7554aa2640c" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="12.000000000000000" Output="-12.000000000000000" Speed="15"
+            TapeType="456" HFRecAdjust="0.500000000000000" HFPlayAdjust="0.500000000000000"
+            RecLevel="0.500000000000000" PlayLevel="0.500000000000000" BiasLevel="0.500000000000000"
+            InputRepro="Repro" TrueStereo="On" TransportModeling="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Instruments" InstrumentType="Guitar" Character="Modern"
+        Genre="Jazz" ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

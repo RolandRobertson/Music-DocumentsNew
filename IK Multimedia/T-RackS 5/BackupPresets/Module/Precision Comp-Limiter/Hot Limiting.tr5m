@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="57de60dfe01043768d1abfc77cdccd6e">
+  <Slot Bypass="0" Model="2ff300f6-19b9-4e5f-a38f-465571ea9372">
+    <Module InternalInputL="+6.0" InternalInputR="+6.0" InternalCompThresholdL="-4"
+            InternalCompThresholdR="-4" InternalRatioL="1.5:1" InternalRatioR="1.5:1"
+            InternalGainL="+6" InternalGainR="+6" InternalCompRecoveryL="1500ms"
+            InternalCompRecoveryR="1500ms" InternalLimThresholdL="+6.0" InternalLimThresholdR="+6.0"
+            InternalLimRecoveryL="50ms" InternalLimRecoveryR="50ms" InternalOutputL="+0.0"
+            InternalOutputR="+0.0" InternalFastL="On" InternalFastR="On"
+            InternalCompInL="Off" InternalCompInR="Off" InternalLimInL="On"
+            InternalLimInR="On" InternalLink="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

@@ -1,0 +1,11 @@
+// by Howard Scarr
+
+Info "5th, 7th, 4th, add9, major triad, maj7"
+
+NumFrames = 6
+
+Wave "0 + sin(2*pi*phase*(frame+1))"
+Wave "x + sin(2*pi*phase*(frame+4))
+Wave "x + sin(2*pi*phase*(frame+6))"
+
+Normalize db=0 base=each

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr5m" GUID="513f0393943d4b26878419b976717cb2"
+        Factory="true">
+  <Slot Bypass="0" Model="2ca4014a-5c98-448e-9764-a202d4ee3f89">
+    <Module Input="5.000000000000000" DryWet="45.791538238525391" Mode="6.000000000000000"
+            Bass="1.466472625732422" Treble="-1.909285545349121" RevVol="4.174883842468262"
+            RevPan="0.187345504760742" Rate="8.036626815795898" RateSync="7.000000000000000"
+            Feedback="3.141503810882568" DelayVol="3.901349544525146" DelayPan="0.069914817810059"
+            HPF="279.727905273437500" LPF="8855.458007812500000" Ducking="33.152050018310547"
+            StereoRev="1.000000000000000" FXFeed="1.000000000000000" Noise="1.117963075637817"
+            TapeAge="0.000000000000000" Sync="1.000000000000000" Head1Pan="-4.520436286926270"
+            Head2Pan="-0.661525726318359" Head3Pan="2.976873397827148" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Effects" ArtistName="IK Multimedia"/>
+</Preset>

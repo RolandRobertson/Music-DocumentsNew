@@ -1,0 +1,12 @@
+// by Howard Scarr
+
+Info "Fractalized square"
+
+NumFrames=128
+Envelope L0=1 T1=2048 L1=0 // saw window...
+Wave "env(index)*(1-2*((phase*(1+0.25*frame)%1)>0.5))"
+
+Move target=aux1 start=1 end=128 to=0 // lose the first frame
+NumFrames=127
+Wave "aux1"
+Spectrum lowest=0 highest=0 "0"

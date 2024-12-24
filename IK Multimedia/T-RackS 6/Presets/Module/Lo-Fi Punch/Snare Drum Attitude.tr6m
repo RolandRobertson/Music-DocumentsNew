@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="88588ee6c8854178959b72a5209f4fe2"
+        Factory="true">
+  <Slot Model="0f0c32b2-fee4-4ff1-923b-80836658384d" Bypass="0">
+    <Module Input="0.000000000000000" LoFi="0.385623425245285" Type="Type1"
+            Filter="0.357822984457016" Drive="0.251301884651184" Pitch="0.006710052490234"
+            Compression="0.525010108947754" Output="0.000000000000000" Hardness="Soft"
+            Noise="0.000000000000000" Wow="0.103941291570663" Flutter="0.087673582136631"
+            DryWet="0.499931693077087" Width="0.000000000000000" CurrentChannel="="
+            ChannelMode="L/R" AdditionalCustomData_LastTouchedParameter="3"/>
+  </Slot>
+  <Info Type="Instruments" InstrumentType="Drums" Character="Distorted"
+        Genre="Rock" ArtistName="Jack Miele"/>
+</Preset>

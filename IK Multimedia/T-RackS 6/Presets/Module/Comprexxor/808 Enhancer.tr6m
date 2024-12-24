@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr5m" GUID="5e468f46c16143f89182ee14b6174a76"
+        Factory="true">
+  <Slot Bypass="0" Model="53821d50-c1d9-4265-9ee9-f8814883a7dd">
+    <Module LinkCh="0.000000000000000" OpticalWasPressed="0.000000000000000"
+            GBModeL="0.000000000000000" GBModeR="0.000000000000000" InputL="6.766925334930420"
+            InputR="6.766925334930420" AttackL="2.781726837158203" AttackR="2.781726837158203"
+            ReleaseL="0.000000000000000" ReleaseR="0.000000000000000" OutputL="5.270135879516602"
+            OutputR="5.270135879516602" DryWetL="100.000000000000000" DryWetR="100.000000000000000"
+            RatioL="4/1" RatioR="4/1" SideHPFreqL="79.999984741210938" SideHPFreqR="79.999984741210938"
+            SideBandFreqL="6000.000488281250000" SideBandFreqR="6000.000488281250000"
+            SideBellL="1.000000000000000" SideBellR="1.000000000000000" HPL="0.000000000000000"
+            HPR="0.000000000000000" DistL="Dist3" DistR="Dist3" ToneL="0.000000000000000"
+            ToneR="0.000000000000000" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Instruments" ArtistName="IK Multimedia"/>
+</Preset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="13" Version="2" Format="tr6p" GUID="10fefea974c5413e9cba2986db3852be"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="12" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="27f96c17-336e-4096-a4b2-7d147f2c0df3" ChainNodeConnectionID="2"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module In="0.000000000000000" Out="0.000000000000000" DryWet="1.000000000000000"
+            Pan="0.000000000000000" StereoMode="Stereo" Time="149.758163452148438"
+            Sync="Off" TimeSync="1/8D" Feedback="0.012926379218698" HighPass="110.468673706054688"
+            LowPass="1951.571899414062500" Resonance="1.719542741775513"
+            Doubling="0.000000000000000" DoublingOn="Off" BitReduction="0.000000000000000"
+            BitReductionOn="Off" BitReductionToDry="Off" Downsampling="0.000000000000000"
+            DownsamplingOn="Off" DownsamplingToDry="Off" Clipping="0.000000000000000"
+            ClippingOn="Off" Gate="-50.000000000000000" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="13" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="3e69bd4b-9268-4e66-aecd-85a9234833d0" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="0.000000000000000" Output="0.000000000000000" DryWet="1.000000000000000"
+            Blend="0.500000000000000" MaterialA="Au" ToneA="0.786794066429138"
+            LengthA="128.426696777343750" StretchA="0.000000000000000" PanA="0.000000000000000"
+            MonoA="0.000000000000000" MaterialB="Pb" ToneB="0.324119031429291"
+            LengthB="116.992973327636719" StretchB="0.000000000000000" PanB="0.000000000000000"
+            MonoB="0.000000000000000" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Vocal" Character="Vintage" ArtistName="El Brujo Caipo"/>
+</Preset>

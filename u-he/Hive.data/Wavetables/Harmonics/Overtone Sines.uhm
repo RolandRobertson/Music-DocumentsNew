@@ -1,0 +1,4 @@
+Info "Harmonic series - user zero phase interpolation"
+
+NumFrames=32
+Wave "sin(2*pi*phase*(frame+1))"

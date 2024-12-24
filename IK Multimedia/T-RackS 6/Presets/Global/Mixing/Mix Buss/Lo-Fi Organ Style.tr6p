@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="56" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="81abc509f24645d9b0a63b244ed5ccfb" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="54" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="213813f3-a81d-4baf-8add-591fadfb0425" ChainNodeConnectionID="-910799360"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Spring="0.396502077579498" SlowSpeed="-20.000000000000000" FastSpeed="20.000000000000000"
+            MicDistance="0.779664218425751" Acceleration="4.000000000000000"
+            Deceleration="4.000000000000000" Gain122="0.377777785062790"
+            Gain122A="0.377777785062790" Gain147="0.553785979747772" G37Gain="1.000000000000000"
+            InputHPF="20.000000000000000" Mid="0.692777216434479" Volume122="0.344444423913956"
+            Volume122A="0.377777785062790" Volume147="0.388888895511627"
+            Volume3300W="0.449999988079071" VolumeG37="0.866977691650391"
+            Low="0.500000000000000" High="0.500000000000000" TubeDrive="0.000000000000000"
+            TubeMode="0.500000000000000" Contour="0.633821010589600" HighFreq="5257.465332031250000"
+            MidFreq="4646.854003906250000" LowFreq="100.000000000000000"
+            MidQ="0.608414113521576" HighGain="15.000000000000000" MidGain="3.093729019165039"
+            LowGain="0.000000000000000" Speed="1.000000000000000" Brake="0.000000000000000"
+            LinkHorn="1.000000000000000" LinkDrum="1.000000000000000" GainHornL="0.640584409236908"
+            GainHornR="0.640584409236908" PanHornL="1.0L" PanHornR="1.0R"
+            GainDrumL="-0.265475034713745" GainDrumR="-0.265475034713745"
+            PanDrumL="0.3L" PanDrumR="0.3R" Output="-3.824845075607300" PageMode="Setup Page"
+            Cabs="G37" Amps="147" Angle="180" AmpMatch="0.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="57" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="44cb2ba7-6c34-47f6-969e-40230512dba2" ChainNodeConnectionID="-1310101888"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalInput="0.000000000000000" InternalOutput="0.000000000000000"
+            InternalPreDelay="14.000000000000000" InternalDecay="100.000000000000000"
+            InternalSize="71.000000000000000" InternalHPFreq="10.000000000000000"
+            InternalCurtainClosed="0.000000000000000" InternalMono="0.000000000000000"
+            InternalLevelDry="-0.191739961504936" InternalLevelStereo="-8.253114700317383"
+            InternalStereoLow="-12.000000000000000" InternalStereoMid="4.984569549560547"
+            InternalStereoHigh="2.470541954040527" InternalStereoComp="100.000000000000000"
+            InternalStereoThreshold="-30.000000000000000" InternalStereoWidth="100.000000000000000"
+            InternalLevelMono="-7.217031002044678" InternalMonoLow="5.000000000000000"
+            InternalMonoMidFreq="500.000000000000000" InternalMonoMid="-3.000000000000000"
+            InternalMonoHigh="2.000000000000000" InternalMonoLMC="56.000000000000000"
+            InternalMonoThreshold="-30.000000000000000" InternalPanDry="0.000000000000000"
+            InternalPanStereo="0.000000000000000" InternalPanMono="0.000000000000000"
+            InternalSoloDry="0.000000000000000" InternalSoloStereo="0.000000000000000"
+            InternalSoloMono="0.000000000000000" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="56" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="0f0c32b2-fee4-4ff1-923b-80836658384d" ChainNodeConnectionID="-1310101856"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="0.000000000000000" LoFi="0.481974154710770" Type="Type1"
+            Filter="0.383487910032272" Drive="0.265560686588287" Pitch="0.249979496002197"
+            Compression="0.510278165340424" Output="0.000000000000000" Hardness="Soft"
+            Noise="0.000000000000000" Wow="0.000292968761642" Flutter="0.000000000000000"
+            DryWet="1.000000000000000" Width="0.000000000000000" CurrentChannel="="
+            ChannelMode="L/R" AdditionalCustomData_LastTouchedParameter="3"/>
+  </Slot2>
+  <Info Type="Effects" InstrumentType="Buss" Character="Vintage" ArtistName="IK Multimedia"/>
+</Preset>

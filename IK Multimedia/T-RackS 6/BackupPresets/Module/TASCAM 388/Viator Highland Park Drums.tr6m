@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr5m" GUID="f442bc6b77c04330a3b5f4f99d0755b6"
+        Factory="true">
+  <Slot Bypass="0" Model="8befc6ca-2099-4f42-9783-98cdf786b609">
+    <Module Input="0.699999988079071" Output="0.547140479087830" TapeType="GP9"
+            HFRecAdjust="0.500000000000000" HighGain="2.322738647460938"
+            HighFreq="6300.000000000000000" MidGain="4.217311859130859" MidFreq="3054.645019531250000"
+            LowGain="5.155439376831055" LowFreq="50.000072479248047" RecLevel="0.629784166812897"
+            InputRepro="Repro" BiasLevel="0.593372523784637" TrueStereo="On"
+            TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Instruments" ArtistName="IK Multimedia"/>
+</Preset>

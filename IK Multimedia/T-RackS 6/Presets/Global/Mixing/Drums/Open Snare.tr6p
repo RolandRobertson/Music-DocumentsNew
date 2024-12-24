@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="11" Version="2" Format="tr6p" GUID="8035dd8d61d84f23ae87450600450dd5"
+        Factory="true">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="10" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="c2453203-9fff-4466-b060-2ac916b1c160" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module GainInputLM="0.022996865212917" GainInputRS="0.022996865212917"
+            GainOutputLM="0.125941663980484" GainOutputRS="0.125941663980484"
+            RatioLM="4" RatioRS="4" AttackLM="6.135646820068359" AttackRS="6.135646820068359"
+            ReleaseLM="5.692086219787598" ReleaseRS="5.692086219787598" MeterMode="GR"
+            DisableGainReduction="0.000000000000000" Link="1.000000000000000"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="11" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="3e8dc241-ed5d-414e-ba69-427349b6120b" ChainNodeConnectionID="0"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalGain31HzL="-12.000000000000000" InternalGain31HzR="-12.000000000000000"
+            InternalGain63HzL="0.000000000000000" InternalGain63HzR="0.000000000000000"
+            InternalGain125HzL="0.082932472229004" InternalGain125HzR="0.082932472229004"
+            InternalGain250HzL="1.042067527770996" InternalGain250HzR="1.042067527770996"
+            InternalGain500HzL="0.000000000000000" InternalGain500HzR="0.000000000000000"
+            InternalGain1kHzL="-0.130708694458008" InternalGain1kHzR="-0.130708694458008"
+            InternalGain2kHzL="0.000000000000000" InternalGain2kHzR="0.000000000000000"
+            InternalGain4kHzL="0.000000000000000" InternalGain4kHzR="0.000000000000000"
+            InternalGain8kHzL="2.481671333312988" InternalGain8kHzR="2.481671333312988"
+            InternalGain16kHzL="0.963641166687012" InternalGain16kHzR="0.963641166687012"
+            InternalGainL="0.000000000000000" InternalGainR="0.000000000000000"
+            InternalOutputL="0.000000000000000" InternalOutputR="0.000000000000000"
+            InternalEqInL="On" InternalEqInR="On" InternalPreampL="Off" InternalPreampR="Off"
+            InternalPhaseL="Off" InternalPhaseR="Off" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Mixing" InstrumentType="Drums" Character="Open" Description="Open Snare"
+        ArtistName="El Brujo Caipo"/>
+</Preset>

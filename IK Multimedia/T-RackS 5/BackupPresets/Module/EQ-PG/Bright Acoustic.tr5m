@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="6d879b76dd9b4954a2d528facd625c64">
+  <Slot Bypass="0" Model="3e8dc241-ed5d-414e-ba69-427349b6120b">
+    <Module InternalGain31HzL="-6.1714301109314" InternalGain31HzR="-6.1714301109314"
+            InternalGain63HzL="-0.228569999337196" InternalGain63HzR="-0.228569999337196"
+            InternalGain125HzL="3.81469999410911e-06" InternalGain125HzR="3.81469999410911e-06"
+            InternalGain250HzL="-0.228570997714996" InternalGain250HzR="-0.228570997714996"
+            InternalGain500HzL="-2.28572010993958" InternalGain500HzR="-2.28572010993958"
+            InternalGain1kHzL="-0.685715019702911" InternalGain1kHzR="-0.685715019702911"
+            InternalGain2kHzL="-1.82857000827789" InternalGain2kHzR="-1.82857000827789"
+            InternalGain4kHzL="1.82858002185822" InternalGain4kHzR="1.82858002185822"
+            InternalGain8kHzL="2.51429009437561" InternalGain8kHzR="2.51429009437561"
+            InternalGain16kHzL="2.28572010993958" InternalGain16kHzR="2.28572010993958"
+            InternalGainL="0" InternalGainR="0" InternalOutputL="4" InternalOutputR="4"
+            InternalEqInL="On" InternalEqInR="On" InternalPreampL="Off" InternalPreampR="Off"
+            InternalPhaseL="Off" InternalPhaseR="Off" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+</Preset>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="21" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="9f81971cc0364d8fa783781db621a4a5" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="9" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="94eb0063-0e75-4b44-931b-5ee056b66cf3" ChainNodeConnectionID="155291872"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalPhaseL="Off" InternalPhaseR="Off" InternalCompInL="On"
+            InternalCompInR="On" InternalEqInL="On" InternalEqInR="On" InternalFilterInL="On"
+            InternalFilterInR="On" InternalEqPreL="Off" InternalEqPreR="Off"
+            InternalEqSCL="Off" InternalEqSCR="Off" InternalFilterSCL="Off"
+            InternalFilterSCR="Off" InternalHPFreqL="90.000000000000000"
+            InternalHPFreqR="90.000000000000000" InternalLPFreqL="10.000000000000000"
+            InternalLPFreqR="10.000000000000000" InternalHFGainL="3.961406707763672"
+            InternalHFGainR="3.961406707763672" InternalHFFreqL="8.000000000000000"
+            InternalHFFreqR="8.000000000000000" InternalHMFGainL="-2.044686317443848"
+            InternalHMFGainR="-2.044686317443848" InternalHMFFreqL="4.800000190734863"
+            InternalHMFFreqR="4.800000190734863" InternalHMFQL="0.791478395462036"
+            InternalHMFQR="0.791478395462036" InternalLMFGainL="2.002031326293945"
+            InternalLMFGainR="2.002031326293945" InternalLMFFreqL="1.215249776840210"
+            InternalLMFFreqR="1.215249776840210" InternalLMFQL="0.436882823705673"
+            InternalLMFQR="0.436882823705673" InternalLFGainL="1.034530639648438"
+            InternalLFGainR="1.034530639648438" InternalLFFreqL="230.000000000000000"
+            InternalLFFreqR="230.000000000000000" InternalHFBellL="On" InternalHFBellR="On"
+            InternalLFBellL="On" InternalLFBellR="On" InternalGL="Off" InternalGR="Off"
+            InternalGainL="0.000000000000000" InternalGainR="0.000000000000000"
+            InternalVolumeL="-3.000000000000000" InternalVolumeR="-3.000000000000000"
+            InternalThresholdL="-12.000000000000000" InternalThresholdR="-12.000000000000000"
+            InternalRatioL="4.000000000000000" InternalRatioR="4.000000000000000"
+            InternalReleaseL="0.330343753099442" InternalReleaseR="0.330343753099442"
+            InternalFastL="On" InternalFastR="On" InternalPeakL="Off" InternalPeakR="Off"
+            InternalThresholdExpL="-30.000000000000000" InternalThresholdExpR="-30.000000000000000"
+            InternalHoldExpL="0.000000000000000" InternalHoldExpR="0.000000000000000"
+            InternalRangeL="0.000000000000000" InternalRangeR="0.000000000000000"
+            InternalReleaseExpL="0.699999988079071" InternalReleaseExpR="0.699999988079071"
+            InternalFastExpL="Off" InternalFastExpR="Off" InternalExpL="Off"
+            InternalExpR="Off" InternalLink="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="21" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="f9405dc7-81bc-4816-a457-ffa977739e30" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="9.000000000000000" Output="-10.000000000000000" Speed="7.5"
+            TapeType="456" HFRecAdjust="0.500000000000000" HFPlayAdjust="0.500000000000000"
+            LFPlayAdjust="0.492000013589859" RecLevel="0.500000000000000"
+            PlayLevel="0.500000000000000" BiasLevel="0.500000000000000" InputRepro="Repro"
+            TrueStereo="On" TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Instruments" InstrumentType="Brass" Character="Soft Saturate"
+        Genre="Jazz" ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

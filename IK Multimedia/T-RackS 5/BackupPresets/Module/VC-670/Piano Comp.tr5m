@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="aa17c5f700714f89a22482ea313f1714">
+  <Slot Bypass="0" Model="e9ef0d86-ee42-45de-8a1c-5a4459f2a2b9">
+    <Module InternalChannelMode="Link" InternalCtrlBiasL="5.23076915740967"
+            InternalCtrlBiasR="5.03846216201782" InternalTimeConstantL="2"
+            InternalTimeConstantR="2" InternalInputAttenL="-10" InternalInputAttenR="-10"
+            InternalThresholdL="3.70000004768372" InternalThresholdR="3.70000004768372"
+            InternalOutputLevel="6.5" InternalMeterMode="GR" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+</Preset>

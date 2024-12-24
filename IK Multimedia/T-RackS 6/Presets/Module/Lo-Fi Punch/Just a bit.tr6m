@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="740b494509d24c52bacf781bebe5ab2d"
+        Factory="true">
+  <Info Type="Effects" Character="Compressed" ArtistName="IK Multimedia"/>
+  <Slot Model="0f0c32b2-fee4-4ff1-923b-80836658384d" Bypass="0">
+    <Module Input="0.000000000000000" LoFi="0.160132065415382" Type="Type1"
+            Filter="0.000000000000000" Drive="0.248453870415688" Pitch="0.000000000000000"
+            Compression="0.214747309684753" Output="0.000000000000000" Hardness="Soft"
+            Noise="0.000000000000000" Wow="0.817220926284790" Flutter="0.000000000000000"
+            DryWet="1.000000000000000" Width="0.000000000000000" CurrentChannel="="
+            ChannelMode="L/R" AdditionalCustomData_LastTouchedParameter="10"/>
+  </Slot>
+</Preset>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="b37bc54d367241a5a76ba4b77a61f549" Factory="true">
+  <Slot Bypass="0" Model="c2453203-9fff-4466-b060-2ac916b1c160">
+    <Module GainInputLM="0.317815005779266" GainInputRS="0.317815005779266"
+            GainOutputLM="0.116406001150608" GainOutputRS="0.116406001150608"
+            RatioLM="All" RatioRS="All" AttackLM="7" AttackRS="7" ReleaseLM="7"
+            ReleaseRS="7" MeterMode="GR" DisableGainReduction="0" Link="0"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Effects" ArtistName="IK Multimedia"/>
+</Preset>

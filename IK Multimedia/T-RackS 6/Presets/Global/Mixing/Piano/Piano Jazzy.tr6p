@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="10" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="f68b530dd3cd439d8c15effd5147b353" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="8" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="68624d42-c6bd-4401-849b-0bc025ef6fcc" ChainNodeConnectionID="1743338848"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalHiL="+2.0" InternalHiR="+2.0" InternalHiFreqL="7kHz"
+            InternalHiFreqR="7kHz" InternalMidL="-2.0" InternalMidR="-2.0"
+            InternalMidFreqL="400Hz" InternalMidFreqR="400Hz" InternalLowL="+2.0"
+            InternalLowR="+2.0" InternalLowFreqL="200Hz" InternalLowFreqR="200Hz"
+            InternalGainL="0.000000000000000" InternalGainR="0.000000000000000"
+            InternalOutputL="-0.985624313354492" InternalOutputR="-0.985624313354492"
+            InternalHiShelfL="On" InternalHiShelfR="On" InternalLowShelfL="On"
+            InternalLowShelfR="On" InternalBandPassL="Off" InternalBandPassR="Off"
+            InternalEqInL="On" InternalEqInR="On" InternalPreampL="On" InternalPreampR="On"
+            InternalPhaseL="Off" InternalPhaseR="Off" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="9" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="9bf8f653-6921-4814-be3f-d741df4b2f2d" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module ChannelLink="1.0" InputL="1.785402536392212" InputR="1.785402536392212"
+            ThresholdL="0.0" ThresholdR="0.0" AttackL="6.992344379425049"
+            AttackR="6.992344379425049" ReleaseL="3.000000000000000" ReleaseR="3.000000000000000"
+            OutputL="0.705681025981903" OutputR="0.705681025981903" HardL="0.000000000000000"
+            HardR="0.000000000000000" HPSideChL="1.000000000000000" HPSideChR="1.000000000000000"
+            Link="0.0" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Slot2 Bypass="0" ChainID="7" ChainNodeID="10" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="f3bc2ff8-7305-4d34-8586-e7554aa2640c" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module Input="12.000000000000000" Output="-12.000000000000000" Speed="15"
+            TapeType="GP9" HFRecAdjust="0.500000000000000" HFPlayAdjust="0.500000000000000"
+            RecLevel="0.500000000000000" PlayLevel="0.500000000000000" BiasLevel="0.500000000000000"
+            InputRepro="Repro" TrueStereo="On" TransportModeling="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot2>
+  <Info Type="Instruments" InstrumentType="Piano" Character="Open" Genre="Jazz"
+        ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

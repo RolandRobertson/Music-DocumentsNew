@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="dec17ffd488d4518bf14bf8bcd32d8b5" Factory="true">
+  <Slot Bypass="0" Model="c06d8540-2906-4183-9557-22b7c6b66e2e">
+    <Module InternalRange="6dB" InternalOutputL="0" InternalOutputR="0" InternalLowShiftL="Off"
+            InternalLowShiftR="Off" InternalHiGainL="0.0" InternalHiGainR="0.0"
+            InternalLowGainL="+2.0 / +1.0 / +1.0" InternalLowGainR="+2.0 / +1.0 / +1.0"
+            InternalPeak1GainL="-3.0 / -1.5 / -1.5" InternalPeak1GainR="-3.0 / -1.5 / -1.5"
+            InternalPeak1FreqL="1000Hz" InternalPeak1FreqR="1000Hz" InternalPeak1QL="15"
+            InternalPeak1QR="15" InternalPeak2GainL="+3.0 / +1.5 / +1.5"
+            InternalPeak2GainR="+3.0 / +1.5 / +1.5" InternalPeak2FreqL="4.8kHz"
+            InternalPeak2FreqR="4.8kHz" InternalPeak2QL="5" InternalPeak2QR="5"
+            InternalPeak3GainL="-3.0 / -1.5 / -1.5" InternalPeak3GainR="-3.0 / -1.5 / -1.5"
+            InternalPeak3FreqL="120Hz" InternalPeak3FreqR="120Hz" InternalPeak3QL="15"
+            InternalPeak3QR="15" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Mastering" ArtistName="IK Multimedia"/>
+</Preset>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="47f13d215e7347b980a126061c078baa"
+        Factory="true">
+  <Info Type="Mixing" Keywords="Snare Enhancer" InstrumentType="Drums"
+        Character="Modern" ArtistName="IK Multimedia"/>
+  <Slot Model="fb02d4d8-00ba-4fc1-b880-944bab44e735" Bypass="0">
+    <Module LoFreq="80.000000000000000" HiFreq="300.000000000000000" Enhance="1.000000000000000"
+            Focus="0.000000000000000" Drive="0.355171889066696" Harmonics="0.392374992370605"
+            Analog="0.237921908497810" Push="-15.000000000000000" Output="11.774531364440918"
+            Mode="Heavy" Sub="Off" Solo="Off" MeterMode="Multi" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+</Preset>

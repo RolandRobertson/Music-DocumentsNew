@@ -1,0 +1,8 @@
+Info "Simple Karplus-Strong-like wavetable. Use Auto and adjust to taste."
+NumFrames = 101
+Seed = 1346
+Wave end=0 "rand * 2 - 1"
+Wave start=1 "0.96 * (0.95 * main_fi(frame-1, index) + 0.2 * bandpass( main_fi(frame-1, index), 0.0, 0.0) + 0.1 * bandpass( main_fi(frame-1, index), 0.2, 0.0) + 0.1 * bandpass( main_fi(frame-1, index), 0.5, 0.0))"
+
+Spectrum lowest=0 highest=0 "0"
+Normalize base=each

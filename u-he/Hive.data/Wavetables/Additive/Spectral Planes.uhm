@@ -1,0 +1,22 @@
+// by Howard Scarr
+
+Info "Various additive waves. Try Tables = 2, 3 or 4"
+
+NumFrames=5
+
+// Marimba
+Wave start=0 end=0 "sin(2*2*pi*phase) + sin(8*2*pi*phase) + sin(19*2*pi*phase)"
+
+// Bell-ish
+Wave start=1 end=1 "sin(1*2*pi*phase) + sin(4*2*pi*phase) + sin(6*2*pi*phase) + sin(9*2*pi*phase) + sin(13*2*pi*phase)"
+
+// Dom 7th chord
+Wave start=2 end=2 "sin(3*2*pi*phase) + sin(5*2*pi*phase) + sin(7*2*pi*phase) + sin(10*2*pi*phase) + sin(13*2*pi*phase)"
+
+// Impressionism
+Wave start=3 end=3 "sin(10*2*pi*phase) + sin(12*2*pi*phase) + sin(14*2*pi*phase) + sin(16*2*pi*phase) + sin(17*2*pi*phase)"
+
+// Insects
+Wave start=4 end=4 "sin(25*2*pi*phase) + sin(27*2*pi*phase) + sin(29*2*pi*phase) + sin(31*2*pi*phase) + sin(45*2*pi*phase)"
+
+Normalize base=each

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Format="1" GUID="ffb9c94a9f5b4788991464e0ab459009" Factory="true">
+  <Slot Bypass="0" Model="2381adbc-cd9a-42e6-8b52-a8e539c9ef69">
+    <Module InternalDelayMode="B" InternalMeterMode="Out" InternalBPMSync="On"
+            InternalInputLevel="0" InternalDelayTimeA="81.9672012329102"
+            InternalDelayTimeB="163.934005737305" InternalDelayBPMSyncA="1/4"
+            InternalDelayBPMSyncB="1/4" InternalVolumeA="4.26153993606567"
+            InternalVolumeB="4.38462018966675" InternalSustainA="5.98462009429932"
+            InternalSustainB="3.64615988731384" InternalRecLevel="0" InternalTapeWear="0"
+            InternalWowFlutter="0.923076987266541" InternalNoise="0" CurrentChannel="R|S"
+            ChannelMode="L/R"/>
+  </Slot>
+  <Info Type="Effects" ArtistName="IK Multimedia"/>
+</Preset>

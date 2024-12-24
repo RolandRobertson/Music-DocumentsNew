@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="9287f9be9d934da19256fe85164fddab"
+        Factory="true">
+  <Info Type="Mixing" Keywords="Electric bass modernized" InstrumentType="Bass"
+        Character="Modern" ArtistName="IK Multimedia"/>
+  <Slot Model="fb02d4d8-00ba-4fc1-b880-944bab44e735" Bypass="0">
+    <Module LoFreq="48.534275054931641" HiFreq="216.568084716796875" Enhance="0.244687497615814"
+            Focus="0.500000000000000" Drive="0.100000001490116" Harmonics="0.450015634298325"
+            Analog="0.201124995946884" Push="4.338982582092285" Output="0.899999976158142"
+            Mode="Light" Sub="On" Solo="Off" MeterMode="Multi" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+</Preset>

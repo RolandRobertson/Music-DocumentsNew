@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr5m" GUID="0d6de3d670064b1fba5d56cfc8258c2d">
+  <Slot Bypass="0" Model="8befc6ca-2099-4f42-9783-98cdf786b609">
+    <Module Input="0.699999988079071" Output="0.699999988079071" TapeType="499"
+            HFRecAdjust="0.505467414855957" HighGain="1.856962203979492"
+            HighFreq="8278.597656250000000" MidGain="-1.899940490722656"
+            MidFreq="1286.602294921875000" LowGain="0.799942016601562" LowFreq="69.804840087890625"
+            RecLevel="0.495682924985886" InputRepro="Repro" BiasLevel="0.581216275691986"
+            TrueStereo="On" TransportModeling="On" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

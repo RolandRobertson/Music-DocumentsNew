@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr5m" GUID="7bcab8690ee84f469aa0ac46af159fe8">
+  <Slot Bypass="0" Model="fe7dcfdd-284a-40e1-8594-ac39e5f6a3f9">
+    <Module InternalInput="0.000000000000000" InternalDry="0.000000000000000"
+            InternalWet="-12.017622947692871" InternalSoloDry="0.000000000000000"
+            InternalSoloWet="0.000000000000000" InternalPreDelay="50.000000000000000"
+            InternalDecay="100.000000000000000" InternalHPFreq="302.000000000000000"
+            InternalLow="-0.056248664855957" InternalHigh="0.000000000000000"
+            InternalLPFreq="12731.000000000000000" InternalIR="Iso_2_XX"
+            InternalMic="1.000000000000000" InternalWidth="100.000000000000000"
+            InternalMono="0.000000000000000" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>

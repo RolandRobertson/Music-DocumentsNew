@@ -1,0 +1,8 @@
+// By Delta Sign
+
+Info "Simply noise. Scan through the wavetable quicky and play it at low pitches to get a white noise approximation."
+
+NumFrames = 256
+
+Wave "rand*2-1"
+Spectrum lowest=0 highest=0 "0"

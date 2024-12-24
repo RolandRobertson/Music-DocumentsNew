@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset SelectedNodeID="11" MasterMatchSelected="0" MasterMatchSuperBypass="1"
+        Format="tr6p" GUID="2f08657d58ca4eaa8b264644516c5dc7" Factory="true"
+        Version="2">
+  <Slot0 Bypass="0" ChainID="7" ChainNodeID="9" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="e9ef0d86-ee42-45de-8a1c-5a4459f2a2b9" ChainNodeConnectionID="89243296"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module InternalChannelMode="LR" InternalCtrlBiasL="3.500000000000000"
+            InternalCtrlBiasR="3.500000000000000" InternalTimeConstantL="4"
+            InternalTimeConstantR="4" InternalInputAttenL="-9.000000000000000"
+            InternalInputAttenR="-9.000000000000000" InternalThresholdL="5.000000000000000"
+            InternalThresholdR="5.000000000000000" InternalOutputLevel="2.000000000000000"
+            InternalMeterMode="GR" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot0>
+  <Slot1 Bypass="0" ChainID="7" ChainNodeID="11" ChainNodeNodeType="0"
+         ChainNodeModuleGUID="1577951d-77c5-46f8-a617-8c05666dcfcd" ChainNodeConnectionID="1"
+         ChainNodeAlwaysLast="0" ModulePresetPath="" SideChainEnabled="0">
+    <Module LM_BoostLow="4.000000000000000" RS_BoostLow="4.000000000000000"
+            LM_AttenLow="4.975937843322754" RS_AttenLow="4.975937843322754"
+            LM_BoostHigh="10.000000000000000" RS_BoostHigh="10.000000000000000"
+            LM_AttenHigh="10.000000000000000" RS_AttenHigh="10.000000000000000"
+            LM_AttenSel="5" RS_AttenSel="5" LM_CPS="20" RS_CPS="20" LM_Bandwidth="10.000000000000000"
+            RS_Bandwidth="10.000000000000000" LM_KCS="5" RS_KCS="5" LM_Output="5.000000000000000"
+            RS_Output="5.000000000000000" CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot1>
+  <Info Type="Instruments" InstrumentType="Bass" Character="Dark" Genre="Ambient"
+        ArtistName="Oleg &quot;Yorshoff&quot; Yershov"/>
+</Preset>

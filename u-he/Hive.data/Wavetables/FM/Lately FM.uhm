@@ -1,0 +1,23 @@
+// by Urs Heckmann
+
+Info "Attempt to recreate that famous TX81Z sound, but as a wavetable. Use Auto Mode *one shot* and adjust Auto to taste."
+
+NumFrames = 101
+
+Wave target=aux2 "0"
+Wave target=aux2 start=0 end=50 "1-table"
+Wave target=aux2 blend=max start=0 end=100 "0.4*(1-table)"
+Wave target=aux1 "sin(2*pi*(phase*2 + 0.09*(y+yz)))*aux2"
+
+Wave target=aux2 "0"
+Wave target=aux2 start=0 end=50 "1-table"
+Wave target=aux1 blend=add "(frac(phase*2) < 0.5)* sin(2*pi*(phase*4))*aux2*0.9"
+
+Wave target=aux2 "0"
+Wave target=aux2 start=0 end=100 "1.0-table*0.7"
+Wave target=main "sin(2*pi*(phase + 0.10*aux1)) * aux2"
+
+Wave "sin(2*pi*(phase + aux2*x*0.8))"
+
+Spectrum lowest=0 highest=0 "0"
+Normalize dB=0

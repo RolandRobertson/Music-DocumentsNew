@@ -1,0 +1,18 @@
+// by Howard Scarr
+
+Info "As this table starts on the 5th harmonic, try tuning it down an octave and 4 semitones to compensate"
+
+NumFrames=30
+
+// Only use some of the harmonics
+
+Spectrum lowest=5 "1/index * ((index % frame)==5)"
+
+// lose the first 6 frames
+
+Move target=aux1 start=6 end=30 to=0
+NumFrames=24
+Wave "aux1"
+
+//Phase "rands * 2 * pi - pi"
+Normalize base=each
