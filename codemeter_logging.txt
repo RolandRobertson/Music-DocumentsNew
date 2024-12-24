@@ -1,0 +1,72 @@
+
+*******************************
+*******************************
+
+Codemeter Runtime returned 1 for WupiCheckLicense() on license entry at index 0.
+Codemeter Runtime returned 1 for WupiCheckLicenseQuick() on license entry at index 0.
+Codemeter Runtime returned 512 for WupiGetLicenseType() on license entry at index 0.
+
+License entry at index 0 unit counter: -1
+License entry at index 0 expiration time: -1
+License entry at index 0 activation time: -1
+License entry at index 0 feature map: -1
+License entry at index 0 box mask: 130
+License entry at index 0 box serial: -472261004
+License entry at index 0 firm code: 6001154
+License entry at index 0 product code: 1000200014
+License entry at index 0 usage period: -1
+License entry at index 0 copy protection system: 512
+License entry at index 0 mapped last error: 0
+License entry at index 0 maintenance period start: -1
+License entry at index 0 maintenance period end: -1
+License entry at index 0 feature code: 0
+License entry at index 0 release date: 0
+License entry at index 0 cmd mask: -1
+*******************************
+
+Codemeter Runtime returned 0 for WupiCheckLicense() on license entry at index 1.
+Codemeter Runtime returned 0 for WupiCheckLicenseQuick() on license entry at index 1.
+Codemeter Runtime returned 0 for WupiGetLicenseType() on license entry at index 1.
+
+License entry at index 1 unit counter: -1
+License entry at index 1 expiration time: -1
+License entry at index 1 activation time: -1
+License entry at index 1 feature map: -1
+License entry at index 1 box mask: -1
+License entry at index 1 box serial: -1
+License entry at index 1 firm code: -1
+License entry at index 1 product code: -1
+License entry at index 1 usage period: -1
+License entry at index 1 copy protection system: -1
+License entry at index 1 mapped last error: 200
+License entry at index 1 maintenance period start: -1
+License entry at index 1 maintenance period end: -1
+License entry at index 1 feature code: -1
+License entry at index 1 release date: -1
+License entry at index 1 cmd mask: -1
+*******************************
+
+Codemeter Runtime returned 1 for WupiCheckLicense() on license entry at index 2.
+Codemeter Runtime returned 1 for WupiCheckLicenseQuick() on license entry at index 2.
+Codemeter Runtime returned 512 for WupiGetLicenseType() on license entry at index 2.
+
+License entry at index 2 unit counter: -1
+License entry at index 2 expiration time: -1
+License entry at index 2 activation time: -1
+License entry at index 2 feature map: -1
+License entry at index 2 box mask: 130
+License entry at index 2 box serial: 392074646
+License entry at index 2 firm code: 6001154
+License entry at index 2 product code: 1000200015
+License entry at index 2 usage period: 1174105
+License entry at index 2 copy protection system: 512
+License entry at index 2 mapped last error: 7536739
+License entry at index 2 maintenance period start: -1
+License entry at index 2 maintenance period end: -1
+License entry at index 2 feature code: 0
+License entry at index 2 release date: 0
+License entry at index 2 cmd mask: -1
+*******************************
+
+*******************************
+*******************************
