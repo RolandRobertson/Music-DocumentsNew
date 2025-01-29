@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="d127eb316c954b2791f596f04ef21fbd"
+        Factory="true">
+  <Info Type="Effects" InstrumentType="" Character="Dynamic"/>
+  <Slot Model="3f0a9a75-d6db-4a0f-82b8-cbabb17a4285" Bypass="0">
+    <Module InputLevel="0.000000000000000" OutputLevel="0.000000000000000"
+            Feedback="0.000000000000000" Stereo="Stereo" Amount1="1.000000000000000"
+            Amount2="1.000000000000000" Amount3="1.000000000000000" Pan1="-1.000000000000000"
+            Pan2="0.000000000000000" Pan3="1.000000000000000" Phase1="-92.325103759765625"
+            Phase2="-180.000000000000000" Phase3="87.027900695800781" Rate1="5.000000000000000"
+            Rate2="1.927997827529907" Rate3="5.014629364013672" Rate1Sync="1/8"
+            Rate2Sync="1/8" Rate3Sync="1/8" BPMSync1="Off" BPMSync2="Off"
+            BPMSync3="Off" Voice1On="On" Voice2On="Off" Voice3On="On" CurrentChannel="="
+            ChannelMode="L/R"/>
+  </Slot>
+</Preset>
