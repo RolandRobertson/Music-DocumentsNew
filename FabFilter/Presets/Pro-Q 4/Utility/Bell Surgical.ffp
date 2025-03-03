@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=FabFilter
-Tags=Bell
+Description="Very steep narrow bell band, great for removing specific unwanted frequencies."
+Tags=Bell,Utility
 
 [Parameters]
 Band 1 Used=1

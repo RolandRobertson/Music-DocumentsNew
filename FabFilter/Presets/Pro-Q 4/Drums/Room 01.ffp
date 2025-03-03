@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=bManic
-Tags=Drums,Room
+Description="Reigns in the unruly frequencies in a small drum room. There's also spectral dynamic control over the high frequencies.\n\n"
+Tags=Drums,Room,Dynamic,Thin,Spectral
 
 [Parameters]
 Band 1 Used=1
@@ -573,11 +574,11 @@ Analyzer Show External Spectrum=0
 Analyzer External Spectrum=-1
 Analyzer Range=1
 Analyzer Resolution=2
-Analyzer Speed=1
+Analyzer Speed=2
 Analyzer Tilt=3
 Analyzer Freeze=0
-Analyzer Show Collisions=0
-Spectrum Grab=0
+Analyzer Show Collisions=1
+Spectrum Grab=1
 Display Range=3
 Receive Midi=0
 Solo Gain=0

@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="A gentle and dynamic smiley curve. Useful for all kinds of complex signals that need a little scooping of the mids."
-Tags=Bus,Mastering,Drumbus,Overheads,Synth,Vocals,Piano
+Tags=Bus,Mastering,Drumbus,Overheads,Synth,Vocals,Piano,Bright,Mixbus,Dynamic
 
 [Parameters]
 Band 1 Used=1

@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=bManic
-Tags="Snare top,TOP,Drums"
+Description="Aggressive and scooped snare top EQ curve.\n"
+Tags="Snare top,TOP,Drums,Dynamic,Bright,Saturation"
 
 [Parameters]
 Band 1 Used=1

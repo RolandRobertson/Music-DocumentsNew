@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Extreme transparency if you equalize your track using only 3dB/octave filters and very gentle shelves. \n\nNo bell filters allowed!! \n\nRespect the phase coherency!"
-Tags=Mastering
+Tags=Mastering,Mixbus,Bus,Transparent
 
 [Parameters]
 Band 1 Used=1

@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=bManic
-Tags="Snare top,TOP,Drums"
+Description="Typical snare top EQ.\n"
+Tags="Snare top,TOP,Drums,Bright"
 
 [Parameters]
 Band 1 Used=1

@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Did you just receive a vocal recorded with a potato? Don't sweat it, Pro-Q4 to the rescue!"
-Tags=Vocal
+Tags=Vocals,Dynamic,Spectral,Bright
 
 [Parameters]
 Band 1 Used=1

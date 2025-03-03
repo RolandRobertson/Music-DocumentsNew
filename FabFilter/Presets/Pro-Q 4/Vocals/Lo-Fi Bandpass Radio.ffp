@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Lo-Fi radio like effect for various audio sources. Works very well on vocals.\n"
-Tags=Vocal,Loop,Synth,Aux,Sends
+Tags=Vocals,Loop,Synth,Aux,Sends,Thin,Filter,Dynamic,Spectral
 
 [Parameters]
 Band 1 Used=1

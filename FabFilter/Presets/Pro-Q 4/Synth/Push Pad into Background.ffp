@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Pushes complex and wide audio sources into the background of the mix."
-Tags=Synth,Piano,Choir,Aux,Guitar,Rhodes
+Tags=Synth,Piano,Choir,Aux,Guitar,Rhodes,Thin
 
 [Parameters]
 Band 1 Used=1

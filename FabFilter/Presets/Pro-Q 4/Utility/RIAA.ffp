@@ -3,6 +3,7 @@ Signature=FQ4p
 Version=4
 Author=FabFilter
 Description="This preset reproduces the RIAA curve used to play vinyl records"
+Tags=Utility,Vinyl,Filter
 
 [Parameters]
 Band 1 Used=1

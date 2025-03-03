@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Resonance and bass cleanup of reverb, delay, modulation and any kind of FX you may have on your Auxiliary Sends."
-Tags=Sends,Aux
+Tags=Sends,Aux,Dynamic,Spectral,Thin,Bright
 
 [Parameters]
 Band 1 Used=1

@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=FabFilter
-Tags=Bell
+Description="Flat top eq band."
+Tags=Bell,Utility
 
 [Parameters]
 Band 1 Used=1

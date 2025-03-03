@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Great for mellowing out a too forward guitar. Adds a lot of sustain for the high-mids.\n\nSet the high cut filter to taste!"
-Tags="Electric Guitar,Synth Lead,Warm"
+Tags="Electric Guitar,Synth Lead,Warm,Spectral,Dynamic,Saturation"
 
 [Parameters]
 Band 1 Used=1

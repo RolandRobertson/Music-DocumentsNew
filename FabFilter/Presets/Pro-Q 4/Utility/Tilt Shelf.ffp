@@ -2,6 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=FabFilter
+Description="Simple tilt shelf. Note that Auto Gain is enabled for this preset."
+Tags=Bright
 
 [Parameters]
 Band 1 Used=1

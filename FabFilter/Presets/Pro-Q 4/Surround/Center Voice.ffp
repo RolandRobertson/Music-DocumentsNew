@@ -2,6 +2,7 @@
 Signature=FQ4p
 Version=4
 Author=FabFilter
+Tags=Surround,Template
 
 [Parameters]
 Band 1 Used=1

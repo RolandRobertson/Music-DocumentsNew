@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=FabFilter
-Tags="High cut,LP,Low pass"
+Description="Extremely steep high cut filter. Has a very distinct sound due to it's high steepness. Great fun to automate!"
+Tags="High cut,LP,Low pass,Dark,Filter"
 
 [Parameters]
 Band 1 Used=1

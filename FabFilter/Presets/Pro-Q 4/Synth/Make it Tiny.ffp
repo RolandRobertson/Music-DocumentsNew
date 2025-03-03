@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Makes any audio source sound tiny and powerless."
-Tags=Synth,Piano,Vocal,Drums,Guitar,Loop,Bandpass,Narrow
+Tags=Synth,Piano,Vocals,Drums,Guitar,Loop,Bandpass,Narrow,Thin
 
 [Parameters]
 Band 1 Used=1

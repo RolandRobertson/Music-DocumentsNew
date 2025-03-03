@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Automate all the EQ nodes toghether for some crazy phasing goodness!\n\nReally cool on shimmer reverbs and long delay lines.\n"
-Tags=FX,Sends,Aux
+Tags=FX,Sends,Aux,Thin
 
 [Parameters]
 Band 1 Used=1

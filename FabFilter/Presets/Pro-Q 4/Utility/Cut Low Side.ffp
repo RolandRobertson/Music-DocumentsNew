@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=FabFilter
-Tags=Stereo
+Description="Cuts the low frequency stereo information. Great for tracks that are to be played in a club or any other large venue."
+Tags="Stereo Width,Utility,Mastering,Mixbus,Filter"
 
 [Parameters]
 Band 1 Used=1

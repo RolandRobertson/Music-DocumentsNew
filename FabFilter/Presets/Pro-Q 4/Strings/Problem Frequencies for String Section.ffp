@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Controls some typically problematic frequencies in a recorded string section. Especially prominent when recorded in troublesome acoustic spaces."
-Tags=Strings
+Tags=Strings,Dynamic,Spectral
 
 [Parameters]
 Band 1 Used=1

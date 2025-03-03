@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Crushed and compressed effect for all manner of signals that need a little bit of lo-fi vibes.\n\nFor a more authentic vibe add a bitcrusher or sample rate reduction effect before or after."
-Tags=Loop,Synth,Piano,Drums,Vocals,Bass
+Tags=Loop,Synth,Piano,Drums,Vocals,Bass,Dark,Filter
 
 [Parameters]
 Band 1 Used=1

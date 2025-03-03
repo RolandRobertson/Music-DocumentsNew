@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=bManic
-Tags=Conga,Tabla,Timbale,Framedrum,Bongo,Percussion
+Description="Adds a lot of punch and controlled highs to percussion."
+Tags=Conga,Tabla,Timbale,Framedrum,Bongo,Percussion,Bright
 
 [Parameters]
 Band 1 Used=1

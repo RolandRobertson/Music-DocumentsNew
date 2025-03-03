@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="A quick and dirty way of adding some interesting texture to any delay send.\n\nTry box selecting all EQ nodes and then automating the frequency knob!\n"
-Tags=Aux,Sends,FX,Notch
+Tags=Aux,Sends,FX,Notch,Thin
 
 [Parameters]
 Band 1 Used=1

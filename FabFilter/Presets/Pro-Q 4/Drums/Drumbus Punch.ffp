@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Add some punch and grit to the drumbus."
-Tags=Drums,Bus
+Tags=Drums,Bus,Bright
 
 [Parameters]
 Band 1 Used=1

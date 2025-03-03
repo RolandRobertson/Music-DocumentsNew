@@ -2,8 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=bManic
-Description="Width and Warmth for synth pads and other similar program material. \n\nCan also be effectively used on an Aux send for Reverbs, Modulation and Delay effects."
-Tags="Synth,Piano,Choir,Pad,FX,Aux,Sends,Backing Vocals"
+Description="Width and warmth for synth pads and other similar program material. \n\nCan also be effectively used on an Aux send for Reverbs, Modulation and Delay effects."
+Tags="Synth,Piano,Choir,Pad,FX,Aux,Sends,Backing Vocals,Stereo Width"
 
 [Parameters]
 Band 1 Used=1

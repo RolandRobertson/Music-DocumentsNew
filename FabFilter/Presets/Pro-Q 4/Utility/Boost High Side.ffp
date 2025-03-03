@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=FabFilter
-Tags=Stereo
+Description="Side channel boost with a shelf. Great for subtle stereo width."
+Tags="Stereo Width,Utility,Bright"
 
 [Parameters]
 Band 1 Used=1

@@ -2,6 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=FabFilter
+Description="Extremely thin band pass filter. Great for automation!"
+Tags="Thin,Narrow,BP,Band Pass,Filter"
 
 [Parameters]
 Band 1 Used=1

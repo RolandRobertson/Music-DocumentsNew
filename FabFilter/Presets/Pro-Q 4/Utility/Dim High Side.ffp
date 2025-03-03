@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=FabFilter
-Tags=Stereo
+Description="Gentle cut of high frequency stereo information. Great on overheads and in general a good way to focus wide signals towards the center."
+Tags="Stereo Width,Utility,Overheads,Bus,Filter"
 
 [Parameters]
 Band 1 Used=1

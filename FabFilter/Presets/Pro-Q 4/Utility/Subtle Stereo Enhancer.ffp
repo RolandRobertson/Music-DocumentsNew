@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=FabFilter
-Tags=Stereo
+Description="Subtle enhancement of the stereo width by using different left and right cutoff frequencies for the bells."
+Tags="Stereo Width"
 
 [Parameters]
 Band 1 Used=1

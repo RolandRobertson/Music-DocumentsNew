@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Subtle stereo widening. The High Cut filter is there to force bass frequencies to be mono. A dynamic low shelf keeps things dynamic and breathing."
-Tags=Bus,Mastering
+Tags="Bus,Mastering,Dynamic,Spectral,Stereo Width"
 
 [Parameters]
 Band 1 Used=1

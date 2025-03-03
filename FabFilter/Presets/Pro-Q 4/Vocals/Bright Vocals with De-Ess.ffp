@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="This preset was used on a female vocal that was poorly recorded. It needed to be bright to cut through and feel airy. De-essing is done by the spectral compression feature.\n\nYou can use the master Gain Scale to control overall EQ amount.\n"
-Tags=Vocals
+Tags=Vocals,Dynamic,Spectral,Bright
 
 [Parameters]
 Band 1 Used=1

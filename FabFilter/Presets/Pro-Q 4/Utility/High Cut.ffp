@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=FabFilter
-Tags="High cut,Low pass,LP"
+Description="Simple high cut filter."
+Tags="High cut,Low pass,LP,Dark,Filter"
 
 [Parameters]
 Band 1 Used=1

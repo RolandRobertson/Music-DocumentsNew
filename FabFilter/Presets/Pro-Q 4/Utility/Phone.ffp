@@ -3,6 +3,7 @@ Signature=FQ4p
 Version=4
 Author=FabFilter
 Description="Mimics the sound of a voice through a telephone"
+Tags="Thin,Band pass,BP,Filter"
 
 [Parameters]
 Band 1 Used=1

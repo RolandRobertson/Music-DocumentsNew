@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Notched out mids with controlled highs and bass."
-Tags=Synth,Piano,Loop,Aux,Sends
+Tags=Synth,Piano,Loop,Aux,Sends,Thin
 
 [Parameters]
 Band 1 Used=1

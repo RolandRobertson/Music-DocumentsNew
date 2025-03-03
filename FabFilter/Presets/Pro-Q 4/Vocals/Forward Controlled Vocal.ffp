@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Cuts the vocal through the mix. \n\nPreset was designed on a male tenor voice but should work well on almost any voice with minimal tweaks.\n"
-Tags=Vocal,Forward,Bright
+Tags=Vocals,Forward,Bright,Dynamic,Spectral
 
 [Parameters]
 Band 1 Used=1

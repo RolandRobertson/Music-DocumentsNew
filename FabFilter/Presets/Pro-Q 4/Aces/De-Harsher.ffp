@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Subtle de-harshing dynamic action for almost any signal that feels a bit too forward in the upper mids and highs.\n\nThe flat tilt counteracts the process so that the audio signal never gets too dull."
-Tags=Dynamic,Utility,Smooth,Warm
+Tags=Dynamic,Utility,Smooth,Warm,Enhancer
 
 [Parameters]
 Band 1 Used=1

@@ -1,6 +1,9 @@
 [Preset]
 Signature=FQ4p
 Version=4
+Author=FabFilter
+Description="Simple and gentle vocal EQ."
+Tags=Vocals,Bright
 
 [Parameters]
 Band 1 Used=1

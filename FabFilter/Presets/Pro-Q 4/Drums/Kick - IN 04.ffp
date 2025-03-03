@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=bManic
-Tags="Kick IN,Drums"
+Description="Typical EQ for a recorded kick drum with added control over high frequency resonances."
+Tags="Kick IN,Drums,Dark,Spectral,Dynamic,Saturation"
 
 [Parameters]
 Band 1 Used=1

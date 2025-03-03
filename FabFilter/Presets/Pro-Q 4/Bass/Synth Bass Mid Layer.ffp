@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Steep lowcut for the mid layer of a synth bass\n"
-Tags="Synth Bass"
+Tags="Synth Bass,Thin"
 
 [Parameters]
 Band 1 Used=1

@@ -3,6 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Lively and musical High Cut filter which will make any instrument sound dynamic yet the extreme highs are controlled and filtered.\n\nDrag a box around all the nodes and move them horizontally to place the filter where you want it to be.\n\nUse Gain Scale to tweak the amount of dynamic action."
+Tags="Dark,High Cut,Lowpass,Filter"
 
 [Parameters]
 Band 1 Used=1

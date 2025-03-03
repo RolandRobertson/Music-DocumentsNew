@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=bManic
-Tags="Snare bottom,BTM,Drums"
+Description="Typical snare bottom EQ curve.\n"
+Tags="Snare bottom,BTM,Drums,Thin"
 
 [Parameters]
 Band 1 Used=1

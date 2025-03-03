@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=FabFilter
-Tags="Low cut,HP,High pass"
+Description="Low cut. Great for removing rumble."
+Tags="Low cut,HP,High pass,Filter"
 
 [Parameters]
 Band 1 Used=1

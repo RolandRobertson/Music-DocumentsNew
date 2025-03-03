@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Subtle clarity added by controlling the lows,  the mono elements in the 320Hz region and livening the highs.\n\n\nSTEREO UNLINKED VERSION"
-Tags=Bus,Mastering
+Tags=Bus,Mastering,Mixbus,Dynamic,Spectral
 
 [Parameters]
 Band 1 Used=1

@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Zero latency softening of keyboard instruments\n"
-Tags=Piano,EP,Rhodes
+Tags=Piano,EP,Rhodes,Dark,Dynamic
 
 [Parameters]
 Band 1 Used=1

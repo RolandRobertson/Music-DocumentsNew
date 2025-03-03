@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Put this on a stereo ping-pong delay and you will hear it moving from really wide towards middle while the delay decays!\n\n"
-Tags=Sends,Aux
+Tags="Sends,Aux,Stereo Width,Thin,Dynamic"
 
 [Parameters]
 Band 1 Used=1

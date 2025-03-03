@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=bManic
-Tags="Kick OUT,Drums"
+Description="Typical EQ for a recorded kick drum."
+Tags="Kick OUT,Drums,Dark,Dynamic,Saturation"
 
 [Parameters]
 Band 1 Used=1

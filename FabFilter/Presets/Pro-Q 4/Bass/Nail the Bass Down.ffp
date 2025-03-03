@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Nail the lows down hard! When you want absolute control, try this preset!\n\nGreat as a post process on an already great and beefy sounding bass sound.\n"
-Tags="Bass DI,Amp,Synth Bass,Loop"
+Tags="Bass DI,Amp,Synth Bass,Loop,Dynamic"
 
 [Parameters]
 Band 1 Used=1

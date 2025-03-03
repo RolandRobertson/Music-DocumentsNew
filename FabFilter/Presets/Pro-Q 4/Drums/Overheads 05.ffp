@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=bManic
-Tags=OH,Overheads,Drums
+Description="Widening and phase manipulation with an allpass filter around the fundamental frequency of the snare. Useful for getting a nice phase coherent sound in difficult recording situations.\n"
+Tags=OH,Overheads,Drums,Thin,Spectral
 
 [Parameters]
 Band 1 Used=1
@@ -573,11 +574,11 @@ Analyzer Show External Spectrum=0
 Analyzer External Spectrum=-1
 Analyzer Range=1
 Analyzer Resolution=2
-Analyzer Speed=1
+Analyzer Speed=2
 Analyzer Tilt=3
 Analyzer Freeze=0
-Analyzer Show Collisions=0
-Spectrum Grab=0
+Analyzer Show Collisions=1
+Spectrum Grab=1
 Display Range=3
 Receive Midi=0
 Solo Gain=0

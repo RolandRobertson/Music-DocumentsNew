@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Overbearing boxy mids? This is the cure!\n\nUse Gain Scale to set amount of processing."
-Tags=Scooped,Warm,Dynamic,Stereo
+Tags=Scooped,Warm,Dynamic,Stereo,Enhancer
 
 [Parameters]
 Band 1 Used=1

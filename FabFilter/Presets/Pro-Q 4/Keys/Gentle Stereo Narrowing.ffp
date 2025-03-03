@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Gentle and natural narrowing of the stereofield."
-Tags=Piano,Rhodes,Choir,Drums,Strings,Aux,Sends
+Tags=Piano,Rhodes,Choir,Drums,Strings,Aux,Sends,Narrow
 
 [Parameters]
 Band 1 Used=1

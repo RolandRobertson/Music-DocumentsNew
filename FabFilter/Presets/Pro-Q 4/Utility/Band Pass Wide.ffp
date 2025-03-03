@@ -2,6 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=FabFilter
+Description="A very wide bandpass, perfectly centered. Try automating the Q!"
+Tags="Band Pass,BP,Filter"
 
 [Parameters]
 Band 1 Used=1

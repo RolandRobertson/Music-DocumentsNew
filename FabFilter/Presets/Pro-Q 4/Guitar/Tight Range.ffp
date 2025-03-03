@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="Good for controlling overall frequency range of audio sources. Great for your guitar bus!"
-Tags="Electric Guitar,Synth,Loop,Backing Vocals,Piano"
+Tags="Electric Guitar,Synth,Loop,Backing Vocals,Piano,Thin,Dynamic"
 
 [Parameters]
 Band 1 Used=0

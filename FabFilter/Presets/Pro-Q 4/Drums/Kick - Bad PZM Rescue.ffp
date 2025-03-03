@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="PZM punched a hole in your preamp and all the click is gone? Don't worry, it can be salvaged!\n"
-Tags="PZM Kick,Drums"
+Tags="PZM Kick,Drums,Scooped,Dynamic,Spectral"
 
 [Parameters]
 Band 1 Used=1

@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=bManic
-Tags="Snare TOP,TOP,Drums"
+Description="Spectral control over the highs on a snare top mic."
+Tags="Snare top,TOP,Drums,Dynamic,Spectral,Bright,Saturation"
 
 [Parameters]
 Band 1 Used=1

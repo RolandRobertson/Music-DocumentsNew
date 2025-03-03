@@ -2,6 +2,7 @@
 Signature=FQ4p
 Version=4
 Author=FabFilter
+Description="Steep high shelf cut."
 Tags="High shelf,Steep"
 
 [Parameters]

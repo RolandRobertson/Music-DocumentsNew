@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="More nasal bark for your Rhodes. Helps to cut it through a mix.\n"
-Tags=Rhodes,Wurly
+Tags=Rhodes,Wurly,Bright,Saturation,Spectral,Dynamic
 
 [Parameters]
 Band 1 Used=1

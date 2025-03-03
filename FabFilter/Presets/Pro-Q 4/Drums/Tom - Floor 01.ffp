@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=bManic
-Tags="Tom Rack 1,Drums"
+Description="Typical floor tom EQ with dynamic control of peaks."
+Tags="Tom floor,Drums,Kick,Scooped,Dark,Dynamic,Saturation,Spectral"
 
 [Parameters]
 Band 1 Used=1
@@ -573,11 +574,11 @@ Analyzer Show External Spectrum=0
 Analyzer External Spectrum=-1
 Analyzer Range=1
 Analyzer Resolution=2
-Analyzer Speed=1
+Analyzer Speed=2
 Analyzer Tilt=3
 Analyzer Freeze=0
-Analyzer Show Collisions=0
-Spectrum Grab=0
+Analyzer Show Collisions=1
+Spectrum Grab=1
 Display Range=2
 Receive Midi=0
 Solo Gain=0

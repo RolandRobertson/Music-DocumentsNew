@@ -2,6 +2,7 @@
 Signature=FQ4p
 Version=4
 Author=FabFilter
+Description="Gentle low boost."
 Tags="Low shelf"
 
 [Parameters]

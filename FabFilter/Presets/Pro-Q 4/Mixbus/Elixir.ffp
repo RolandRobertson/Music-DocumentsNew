@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="One of those strange presets you just have to try out and see if it does some magic or not."
-Tags=Bus,Mojo
+Tags=Bus,Mojo,Mixbus,Dynamic
 
 [Parameters]
 Band 1 Used=1

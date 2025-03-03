@@ -2,7 +2,8 @@
 Signature=FQ4p
 Version=4
 Author=FabFilter
-Tags="High shelf"
+Description="Simple high shelft boost. Makes things brighter."
+Tags="High shelf,Utility,Bright"
 
 [Parameters]
 Band 1 Used=1

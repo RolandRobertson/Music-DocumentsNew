@@ -3,7 +3,7 @@ Signature=FQ4p
 Version=4
 Author=bManic
 Description="A very specific preset for the excellent felt piano found in Spectrasonics Keyscape.\n\nThe preset controls a few resonances and gives it a bit more dynamics on transients.\n\nIt also makes it a bit wider, more euphoric."
-Tags="Keyscape Felt,Felt Piano"
+Tags="Keyscape Felt,Felt Piano,Bright,Dynamic,Saturation"
 
 [Parameters]
 Band 1 Used=1
