@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Preset HammondVolume="1.0" VibratoSwell="0.0" VibratoGreat="0.0" VibratoChorus="4.0"
+<Preset HammondVolume="1.0" VibratoSwell="0.0" VibratoGreat="0.0" VibratoChorus="0.0"
         Percussion="0.0" PercussionVolume="0.0" PercussionDecay="0.0"
-        PercussionHarmonic="0.0" UpperDrawBar1="0.0" UpperDrawBar2="0.0"
-        UpperDrawBar3="0.0" UpperDrawBar4="0.0" UpperDrawBar5="6.0" UpperDrawBar6="4.0"
-        UpperDrawBar7="7.0" UpperDrawBar8="6.0" UpperDrawBar9="5.0" LowerDrawBar1="0.0"
+        PercussionHarmonic="0.0" UpperDrawBar1="1.0" UpperDrawBar2="0.0"
+        UpperDrawBar3="0.0" UpperDrawBar4="2.0" UpperDrawBar5="7.0" UpperDrawBar6="4.0"
+        UpperDrawBar7="7.0" UpperDrawBar8="7.0" UpperDrawBar9="6.0" LowerDrawBar1="0.0"
         LowerDrawBar2="0.0" LowerDrawBar3="8.0" LowerDrawBar4="8.0" LowerDrawBar5="8.0"
         LowerDrawBar6="6.0" LowerDrawBar7="6.0" LowerDrawBar8="6.0" LowerDrawBar9="6.0"
-        PedalsDrawBar1="0.0" PedalsDrawBar2="0.0" ExpressionPedal="0.6771653294563293"
+        PedalsDrawBar1="0.0" PedalsDrawBar2="0.0" ExpressionPedal="0.9921259880065918"
         ToneWheelModel="3.0" GeneratorLeakage="5.0" KeyClickOn="8.0"
         KeyClickOff="5.0" KeyClickColor="6.0" KeyClickReleaseVelocity="2.0"
         PercussionDecayTime="1.799999952316284" PercussionVolumeTrim="0.0"
-        PercussionVolumeCompensation="0.0" ChorusPresence="0.0" ChorusMix="5.0"
-        TonalBalance="0.0" KeyboardSplitMode="0.0" KeyboardSplitNote="60.0"
+        PercussionVolumeCompensation="0.0" ChorusPresence="3.079999923706055"
+        ChorusMix="5.0" TonalBalance="0.0" KeyboardSplitMode="0.0" KeyboardSplitNote="60.0"
         MasterTune="0.0" Transpose="0.0">
   <UpperDrawbarPresets CurrentPreset="0">
-    <Preset0 Drawbar0="8" Drawbar1="8" Drawbar2="8" Drawbar3="8" Drawbar4="2"
-             Drawbar5="4" Drawbar6="1" Drawbar7="2" Drawbar8="3"/>
+    <Preset0 Drawbar0="7" Drawbar1="8" Drawbar2="8" Drawbar3="6" Drawbar4="1"
+             Drawbar5="4" Drawbar6="1" Drawbar7="1" Drawbar8="2"/>
     <Preset1 Drawbar0="0" Drawbar1="0" Drawbar2="5" Drawbar3="3" Drawbar4="2"
              Drawbar5="0" Drawbar6="0" Drawbar7="0" Drawbar8="0"/>
     <Preset2 Drawbar0="0" Drawbar1="0" Drawbar2="4" Drawbar3="4" Drawbar4="3"
@@ -84,15 +84,15 @@
   <Reverb Time="0.800000011920929" Color="2000.0" Density="0.0" Size="0.0"
           DryWet="0.0" EffectOn="0.0"/>
   <Cabinet>
-    <Leslie MicDistance="0.0" SlowSpeed="-10.86614227294922" FastSpeed="0.0"
+    <Leslie MicDistance="0.0" SlowSpeed="9.921260833740234" FastSpeed="0.0"
             Acceleration="1.0" Deceleration="1.0" Phase="0.0" Amplifier="2.0"
-            LeslieGain="0.7007874250411987" LeslieInputHPF="20.0" LeslieLow="0.5600000023841858"
+            LeslieGain="0.7637795209884644" LeslieInputHPF="20.0" LeslieLow="0.5600000023841858"
             LeslieMid="0.3759999871253967" LeslieHigh="0.5559999942779541"
             LeslieVolume="1.0" Cabinet="0.0" LowFreq="100.0" LowGain="-14.76377964019775"
             MidFreq="1000.0" MidGain="0.0" MidQ="1.0" HighFreq="4000.0" HighGain="0.0"
             HornLGain="0.0" HornLPan="-1.0" HornRGain="0.0" HornRPan="1.0"
             HornLink="0.0" DrumLGain="0.0" DrumLPan="-1.0" DrumRGain="0.0"
-            DrumRPan="1.0" DrumLink="0.0" Output="-2.929133892059326" DIGain="-15.0"
+            DrumRPan="1.0" DrumLink="0.0" Output="-1.417322874069214" DIGain="-15.0"
             GuitarAmpGain="-15.0" GuitarAmpModel="0.0" DIOn="0.0" GuitarAmpOn="0.0"
             LeslieOn="1.0" Speed="0.0" Brake="0.0"/>
     <BritishTubeLead Gain="0.0" Bass="0.0" Mid="0.0" Treble="0.0" Presence="0.0" Spring="0.0"

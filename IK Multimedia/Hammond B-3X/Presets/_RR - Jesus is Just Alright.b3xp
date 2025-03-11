@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Preset HammondVolume="1.0" VibratoSwell="1.0" VibratoGreat="1.0" VibratoChorus="4.0"
+<Preset HammondVolume="1.0" VibratoSwell="0.0" VibratoGreat="1.0" VibratoChorus="4.0"
         Percussion="0.0" PercussionVolume="1.0" PercussionDecay="1.0"
         PercussionHarmonic="1.0" UpperDrawBar1="1.0" UpperDrawBar2="0.0"
         UpperDrawBar3="0.0" UpperDrawBar4="0.0" UpperDrawBar5="2.0" UpperDrawBar6="3.0"
