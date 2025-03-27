@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2" Format="tr6m" GUID="ac0c8d2e9a574a71a627fdcc60fa66d2"
+        Factory="true">
+  <Info Type="Mastering"/>
+  <Slot Model="fe9503cb-0cdf-4236-b10a-4621df46d65c" Bypass="0">
+    <Module Color="0.000000000000000" OutL="0.000000000000000" OutR="0.000000000000000"
+            MS="Off" Gain1LM="2.000000000000000" Gain1RS="2.000000000000000"
+            Gain2LM="4.019999980926514" Gain2RS="4.019999980926514" Gain3LM="4.139999866485596"
+            Gain3RS="4.139999866485596" Gain4LM="4.150000095367432" Gain4RS="4.150000095367432"
+            Gain5LM="2.029998779296875" Gain5RS="2.029998779296875" Freq1LM="60"
+            Freq1RS="60" Freq2LM="120" Freq2RS="120" Freq3LM="3" Freq3RS="3"
+            Freq4LM="6" Freq4RS="6" Freq5LM="10" Freq5RS="10" Link="On" Pre="On"
+            CurrentChannel="=" ChannelMode="L/R"/>
+  </Slot>
+</Preset>
