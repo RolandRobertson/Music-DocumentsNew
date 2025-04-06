@@ -6,9 +6,9 @@ Description="A great medium sized room reverb for all types of brass instruments
 Tags=Medium,Modern,Saxophone,Clarinet,Brass,Leads,Vocals,Pro-R2
 
 [Parameters]
-Space=0.495277792215347
+Space=0.598611116409302
 Decay Rate=-0.730833292007446
-Distance=0.189666673541069
+Distance=0.626111090183258
 Brightness=0.8565833568573
 Style=0
 Character=0.13738888502121
@@ -22,7 +22,7 @@ Auto Gate=250
 Auto Gate Enabled=0
 Auto Gate Offset=0
 Auto Gate Sync=0
-Predelay=0.328999996185303
+Predelay=0.463555544614792
 Predelay Offset=0
 Predelay Sync=0
 Decay EQ Band 1 Used=1
