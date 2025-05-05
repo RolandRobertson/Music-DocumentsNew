@@ -1,0 +1,129 @@
+<!DOCTYPE WSM>
+<WSM Version="1.0" AppVersion="4.8.2.4">
+    <DefaultRFThreshold>0</DefaultRFThreshold>
+    <Device Type="SR-IEMG4" TypeID="88" Version="1.0">
+        <ID>001B663EB899</ID>
+        <DeviceNumber>1</DeviceNumber>
+        <Receiver Type="SRG4" TypeID="51" Version="1.0" UniqueId="1">
+            <Port>1</Port>
+            <Manual>No</Manual>
+            <IPAddress>192.168.5.130</IPAddress>
+            <Name>ew IEM</Name>
+            <NameFlag>1</NameFlag>
+            <Bank>0</Bank>
+            <BankFlag>1</BankFlag>
+            <Channel>1</Channel>
+            <ChannelFlag>1</ChannelFlag>
+            <LowerFrequencyLimit>516000</LowerFrequencyLimit>
+            <LowerFrequencyLimitFlag>1</LowerFrequencyLimitFlag>
+            <UpperFrequencyLimit>558000</UpperFrequencyLimit>
+            <UpperFrequencyLimitFlag>1</UpperFrequencyLimitFlag>
+            <CurrentFrequency>518200</CurrentFrequency>
+            <CurrentFrequencyFlag>1</CurrentFrequencyFlag>
+            <Sensitivity>6</Sensitivity>
+            <SensitivityFlag>1</SensitivityFlag>
+            <RFMode>0</RFMode>
+            <RFModeFlag>1</RFModeFlag>
+            <AutoLock>0</AutoLock>
+            <AutoLockFlag>1</AutoLockFlag>
+            <RFMute>0</RFMute>
+            <RFMuteFlag>1</RFMuteFlag>
+            <RFPower>1</RFPower>
+            <RFPowerFlag>1</RFPowerFlag>
+            <AFPeakWarning>0</AFPeakWarning>
+            <AFPeakWarningFlag>1</AFPeakWarningFlag>
+            <RFMuteWarning>0</RFMuteWarning>
+            <RFMuteWarningFlag>1</RFMuteWarningFlag>
+            <FrequencyList/>
+            <RxSyncSettings>
+                <AutoLock>0</AutoLock>
+                <Balance>0</Balance>
+                <Mode>0</Mode>
+                <Limiter>0</Limiter>
+                <HiBoost>0</HiBoost>
+                <Squelch>0</Squelch>
+            </RxSyncSettings>
+            <CalculatedFrequencies/>
+        </Receiver>
+    </Device>
+    <MainWindow>
+        <Scene Name="Master Scene">
+            <ShowGrid>1</ShowGrid>
+            <SnapToGrid>1</SnapToGrid>
+            <ChannelView Port="1" Device="192.168.5.130" ID="001B663EB899">
+                <Color Green="-1" Red="-1" Blue="-1"/>
+                <Position Width="78" Left="0" Top="0" Height="286"/>
+            </ChannelView>
+        </Scene>
+        <CurrentScene>0</CurrentScene>
+    </MainWindow>
+    <FrequencyManager ProfDeviceAutoUpdate="1" ProfDeviceOldAutoUpdate="1" OldResult="0" RFUnit="1" ProfDeviceEdited="0">
+        <NoiseThreshold NoiseThresholdValue="5"/>
+        <DeviceFilterFlags DEVICE_TYPE_OTHERS="1" DEVICE_TYPE_DIGITAL="1" DEVICE_TYPE_IEM="1" DEVICE_TYPE_MIC="1"/>
+        <SystemFilterFlags MARKERS="1" INTERMODULATION="1" DEVICE_RANGES="1" SPARE_GROUPS="1" NOISE_THRESHOLD="1" SCAN_DATA="1" SYSTEM_REGIONS="1"/>
+        <FreqBandFilterFlags USABLE_BAND_FLAG="1" DISCRETE_FREQUENCY_FLAG="1" UNUSABLE_BAND_FLAG="1" INTERFERENCE_FREQUENCY_FLAG="1"/>
+        <Devices>
+            <Device Type="STANDARD" Mode="2" Version="1.0" UniqueId="1">
+                <Name>ew IEM</Name>
+                <StationaryDeviceId>1</StationaryDeviceId>
+                <StationaryDeviceType>SR IEM G4</StationaryDeviceType>
+                <PortableDeviceType>EK IEM G4</PortableDeviceType>
+                <Frequency>518200</Frequency>
+                <AllocatedFrequency>518200</AllocatedFrequency>
+                <MinFrequency>516000</MinFrequency>
+                <MaxFrequency>558000</MaxFrequency>
+                <OldMinFrequency>0</OldMinFrequency>
+                <OldMaxFrequency>0</OldMaxFrequency>
+                <FixedFrequency>0</FixedFrequency>
+                <DeviceObjectMinFrequency>516000</DeviceObjectMinFrequency>
+                <DeviceObjectMaxFrequency>558000</DeviceObjectMaxFrequency>
+                <SearchStep>25</SearchStep>
+                <SquelchDescription>-1 dB</SquelchDescription>
+                <Noise>-1</Noise>
+                <DeviceType>2</DeviceType>
+                <SpareFreqCount>0</SpareFreqCount>
+                <ReceiverId>EK IEM G4</ReceiverId>
+                <ReceiverIndex>9</ReceiverIndex>
+                <ReceiverBandIndex>19</ReceiverBandIndex>
+                <TransmitterId>SR IEM G4 stereo</TransmitterId>
+                <TransmitterIndex>21</TransmitterIndex>
+                <TransmitterBandIndex>19</TransmitterBandIndex>
+                <CascadeId>-1</CascadeId>
+                <SpacingParams>
+                    <Carriers>400</Carriers>
+                    <Device2TxIM3>200</Device2TxIM3>
+                    <Device3TxIM3>100</Device3TxIM3>
+                    <Device2TxIM5>0</Device2TxIM5>
+                    <Device3TxIM5>0</Device3TxIM5>
+                </SpacingParams>
+                <AllowAutoUpdate>1</AllowAutoUpdate>
+            </Device>
+        </Devices>
+        <RegionalGridBar>
+            <WSMBarData WSMBarDescription="Default" WSMBarOwner="Rob Poretti - Sennheiser Canada" WSMBarName="Default Grid Bar Data v1.0" WSMBarDate="2013-02-18" WSMBarVersion="1">
+                <SpectrumDefinition>
+                    <SpectrumID>UHF Range 450-865 MHz</SpectrumID>
+                    <SpectrumWidth>415000</SpectrumWidth>
+                    <SpectrumSection>
+                        <SectionName>Default - Right-Click to Set Regional Information</SectionName>
+                        <SectionShortName>Default</SectionShortName>
+                        <SectionOffset>0</SectionOffset>
+                        <SectionWidth>415000</SectionWidth>
+                        <SectionPriority>2</SectionPriority>
+                        <SectionFormat>0</SectionFormat>
+                    </SpectrumSection>
+                </SpectrumDefinition>
+                <Band>
+                    <BandType>UHF Range 450-865 MHz</BandType>
+                    <BandName>Default - Right-Click to Set Regional Information</BandName>
+                    <BandShortName>Default</BandShortName>
+                    <BandNameFormat>0</BandNameFormat>
+                    <BandComment></BandComment>
+                    <BandStart>450000</BandStart>
+                </Band>
+            </WSMBarData>
+        </RegionalGridBar>
+    </FrequencyManager>
+    <SpareFrequencyPool/>
+    <DisturbedFrequencyPool/>
+</WSM>

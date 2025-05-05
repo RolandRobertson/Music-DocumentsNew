@@ -1,0 +1,7 @@
+2025-05-01 21:56:53	System	Info	Device added (1): ew IEM
+2025-05-01 21:56:54	System	Debug	CalculateCurrentCoordinationResult: Start calculation of current coordination
+2025-05-01 21:56:54	System	Debug	CalculateCurrentCoordinationResult: End of calculation of current coordination
+2025-05-01 21:57:25	System	Debug	ProfSetupWidget: Close Event invoked
+2025-05-01 21:57:25	System	Debug	Stop Coordination: about to stop the coordination process
+2025-05-01 21:57:25	System	Debug	Stop Coordination: stopped the coordination process
+2025-05-01 21:57:25	System	Debug	ProfSetupWidget: End of Close Event

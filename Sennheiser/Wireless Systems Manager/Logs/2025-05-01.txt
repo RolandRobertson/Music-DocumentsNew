@@ -1,0 +1,6 @@
+2025-05-01 21:52:17.1496|INFO||Directory->C:\Program Files (x86)\Sennheiser\Wireless Systems Manager\WSMServerBinaries\WSM.Server.exe
+2025-05-01 21:52:17.7282|INFO||ConnectionManager-- >ServerStarted Successfully! 
+2025-05-01 21:52:21.2878|INFO||ConnectToDeviceAPI-Successfully connected to Device API
+2025-05-01 21:57:38.1971|INFO||WSMServerController--> CloseServerAsync-- >close server called !
+2025-05-01 21:57:38.2789|INFO||Client got disconnected- ::
+2025-05-01 21:57:38.7059|INFO||WSMServerController--> CloseServerAsync-- >closed device api - processExists -->False
